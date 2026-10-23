@@ -1,0 +1,162 @@
+[
+  {
+    "game": "4 Block Theory",
+    "times": [
+      6,
+      12
+    ],
+    "crop": [
+      1000,
+      80,
+      460,
+      920
+    ],
+    "mean_absolute_luma_change": 9.91407986111111,
+    "pixels_changing_by_more_than_8": 5260,
+    "passed": true
+  },
+  {
+    "game": "Chromatic Cure",
+    "times": [
+      15,
+      21
+    ],
+    "crop": [
+      1000,
+      80,
+      460,
+      920
+    ],
+    "mean_absolute_luma_change": 12.09185763888889,
+    "pixels_changing_by_more_than_8": 6685,
+    "passed": true
+  },
+  {
+    "game": "Rally Reactor",
+    "times": [
+      24,
+      30
+    ],
+    "crop": [
+      190,
+      252,
+      1540,
+      704
+    ],
+    "mean_absolute_luma_change": 0.8031423611111111,
+    "pixels_changing_by_more_than_8": 674,
+    "passed": true
+  },
+  {
+    "game": "Orb Onslaught",
+    "times": [
+      33,
+      39
+    ],
+    "crop": [
+      190,
+      252,
+      1540,
+      704
+    ],
+    "mean_absolute_luma_change": 4.484270833333333,
+    "pixels_changing_by_more_than_8": 5267,
+    "passed": true
+  },
+  {
+    "game": "Float Tweet Bounce",
+    "times": [
+      42,
+      48
+    ],
+    "crop": [
+      990,
+      80,
+      518,
+      920
+    ],
+    "mean_absolute_luma_change": 25.939114583333332,
+    "pixels_changing_by_more_than_8": 22953,
+    "passed": true
+  },
+  {
+    "game": "Serpent Supper",
+    "times": [
+      51,
+      57
+    ],
+    "crop": [
+      864,
+      130,
+      888,
+      888
+    ],
+    "mean_absolute_luma_change": 2.525451388888889,
+    "pixels_changing_by_more_than_8": 1394,
+    "passed": true
+  },
+  {
+    "game": "BrikaVolt",
+    "times": [
+      60,
+      66
+    ],
+    "crop": [
+      942,
+      80,
+      736,
+      920
+    ],
+    "mean_absolute_luma_change": 1.9561631944444444,
+    "pixels_changing_by_more_than_8": 1239,
+    "passed": true
+  },
+  {
+    "game": "Aim Alley: Target Practice",
+    "times": [
+      69,
+      72
+    ],
+    "crop": [
+      190,
+      252,
+      1540,
+      704
+    ],
+    "mean_absolute_luma_change": 0.4396875,
+    "pixels_changing_by_more_than_8": 289,
+    "passed": true
+  },
+  {
+    "game": "Aim Alley: Moving Targets",
+    "times": [
+      75,
+      77
+    ],
+    "crop": [
+      190,
+      252,
+      1540,
+      704
+    ],
+    "mean_absolute_luma_change": 2.1703645833333334,
+    "pixels_changing_by_more_than_8": 1392,
+    "passed": true
+  },
+  {
+    "game": "Aim Alley: Precision Shooting",
+    "times": [
+      80,
+      82
+    ],
+    "crop": [
+      190,
+      252,
+      1540,
+      704
+    ],
+    "mean_absolute_luma_change": 1.5653819444444443,
+    "pixels_changing_by_more_than_8": 941,
+    "passed": true
+  }
+]

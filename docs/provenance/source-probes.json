@@ -1,0 +1,66 @@
+[
+  {
+    "game": "4 Block Theory",
+    "file": "assets/footage/block.mp4",
+    "width": 380,
+    "height": 760,
+    "duration": 13,
+    "fps": "30/1"
+  },
+  {
+    "game": "Chromatic Cure",
+    "file": "assets/footage/chromatic.mp4",
+    "width": 316,
+    "height": 632,
+    "duration": 13,
+    "fps": "30/1"
+  },
+  {
+    "game": "Rally Reactor",
+    "file": "assets/footage/rally.mp4",
+    "width": 1054,
+    "height": 594,
+    "duration": 14,
+    "fps": "30/1"
+  },
+  {
+    "game": "Orb Onslaught",
+    "file": "assets/footage/orb.mp4",
+    "width": 838,
+    "height": 450,
+    "duration": 12,
+    "fps": "30/1"
+  },
+  {
+    "game": "Float Tweet Bounce",
+    "file": "assets/footage/float.mp4",
+    "width": 474,
+    "height": 840,
+    "duration": 13,
+    "fps": "30/1"
+  },
+  {
+    "game": "Serpent Supper",
+    "file": "assets/footage/serpent.mp4",
+    "width": 720,
+    "height": 720,
+    "duration": 13,
+    "fps": "30/1"
+  },
+  {
+    "game": "BrikaVolt",
+    "file": "assets/footage/brika.mp4",
+    "width": 744,
+    "height": 930,
+    "duration": 26,
+    "fps": "30/1"
+  },
+  {
+    "game": "Aim Alley Arcade",
+    "file": "assets/footage/aimmoving.mp4",
+    "width": 1048,
+    "height": 604,
+    "duration": 6,
+    "fps": "30/1"
+  }
+]

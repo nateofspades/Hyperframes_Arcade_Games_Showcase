@@ -1,0 +1,92 @@
+[
+  {
+    "key": "block",
+    "original": "assets/footage/original-takes/block.mp4",
+    "normalized": "assets/footage/block.mp4",
+    "duration": "13.000000",
+    "fps": "30/1",
+    "max_keyframe_gap_seconds": 1.0,
+    "sha256": "c569cc752083356022b2282071b1e17be9808a17b0ef8046efc3add2e204cc59"
+  },
+  {
+    "key": "chromatic",
+    "original": "assets/footage/original-takes/chromatic.mp4",
+    "normalized": "assets/footage/chromatic.mp4",
+    "duration": "13.000000",
+    "fps": "30/1",
+    "max_keyframe_gap_seconds": 1.0,
+    "sha256": "1cbb8eba53f33c2abcb97237207a6d138559ba5119e9b0d84b5c1814ac982503"
+  },
+  {
+    "key": "rally",
+    "original": "assets/footage/original-takes/rally.mp4",
+    "normalized": "assets/footage/rally.mp4",
+    "duration": "14.000000",
+    "fps": "30/1",
+    "max_keyframe_gap_seconds": 1.0,
+    "sha256": "3a484ed123d5f3725942dbcaa4967efa290a5c7bbde654a9c50e7bce97aed850"
+  },
+  {
+    "key": "orb",
+    "original": "assets/footage/original-takes/orb.mp4",
+    "normalized": "assets/footage/orb.mp4",
+    "duration": "12.000000",
+    "fps": "30/1",
+    "max_keyframe_gap_seconds": 1.0,
+    "sha256": "047caaa625886e04e2422db687b3dfa1e8bb2cd817e9b71877f148e8d8ffca60"
+  },
+  {
+    "key": "float",
+    "original": "assets/footage/original-takes/float.mp4",
+    "normalized": "assets/footage/float.mp4",
+    "duration": "13.000000",
+    "fps": "30/1",
+    "max_keyframe_gap_seconds": 1.0,
+    "sha256": "f3bad9598c66ece6291016eae5ea6097cd93c982e1386f6da8488f56d5c3c98a"
+  },
+  {
+    "key": "serpent",
+    "original": "assets/footage/original-takes/serpent.mp4",
+    "normalized": "assets/footage/serpent.mp4",
+    "duration": "13.000000",
+    "fps": "30/1",
+    "max_keyframe_gap_seconds": 1.0,
+    "sha256": "c8765f281dd5ebba3d2d85777b499f50daa40bcd95fef053c4719e4f3f442237"
+  },
+  {
+    "key": "brika",
+    "original": "assets/footage/original-takes/brika.mp4",
+    "normalized": "assets/footage/brika.mp4",
+    "duration": "26.000000",
+    "fps": "30/1",
+    "max_keyframe_gap_seconds": 1.0,
+    "sha256": "335097038b3d7b9503a178ada3aad1065989c510ab1b10c3e3978abccb34c768"
+  },
+  {
+    "key": "aimpractice",
+    "original": "assets/footage/original-takes/aimpractice.mp4",
+    "normalized": "assets/footage/aimpractice.mp4",
+    "duration": "6.000000",
+    "fps": "30/1",
+    "max_keyframe_gap_seconds": 1.0,
+    "sha256": "2011fe196da441b437b853f868d60ebdc50ffa377a74830b528c8f5fd2049db7"
+  },
+  {
+    "key": "aimmoving",
+    "original": "assets/footage/original-takes/aimmoving.mp4",
+    "normalized": "assets/footage/aimmoving.mp4",
+    "duration": "6.000000",
+    "fps": "30/1",
+    "max_keyframe_gap_seconds": 1.0,
+    "sha256": "04e9feb9206dd083c87a4f1574596997906f0d887771f3bba9164ffa4e784ef6"
+  },
+  {
+    "key": "aimprecision",
+    "original": "assets/footage/original-takes/aimprecision.mp4",
+    "normalized": "assets/footage/aimprecision.mp4",
+    "duration": "6.000000",
+    "fps": "30/1",
+    "max_keyframe_gap_seconds": 1.0,
+    "sha256": "a4a9b33a56ffb18c65f511156c2642f455c0002bc1fb122fd112001c3d5c28c9"
+  }
+]

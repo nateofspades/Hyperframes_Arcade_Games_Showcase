@@ -1,0 +1,158 @@
+{
+  "profile": {
+    "name": "hyperframesarcadegameshowcase",
+    "model": "gpt-5.6-sol",
+    "provider": "openai-codex",
+    "smoke_output": "PROFILE_SMOKE_OK\nProject: /root/Hyperframes_Arcade_Game_Showcase\nRepository: https://github.com/nateofspades/Hyperframes_Arcade_Game_Showcase\nPages without a new user request: No. GitHub Pages must remain disabled.\n",
+    "exit_code": 0
+  },
+  "validation": [
+    {
+      "range": [
+        0,
+        32
+      ],
+      "samples": [
+        2,
+        9,
+        18,
+        27
+      ],
+      "contrast_checked": 13,
+      "ok": true
+    },
+    {
+      "range": [
+        32,
+        68
+      ],
+      "samples": [
+        36,
+        45,
+        54,
+        63
+      ],
+      "contrast_checked": 12,
+      "ok": true
+    },
+    {
+      "range": [
+        68,
+        90
+      ],
+      "samples": [
+        70,
+        76,
+        81,
+        86
+      ],
+      "contrast_checked": 23,
+      "ok": true
+    }
+  ],
+  "render_smoke": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "Constrained Baseline",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "width": 1920,
+        "height": 1080,
+        "coded_width": 1920,
+        "coded_height": 1080,
+        "closed_captions": 0,
+        "film_grain": 0,
+        "has_b_frames": 0,
+        "sample_aspect_ratio": "1:1",
+        "display_aspect_ratio": "16:9",
+        "pix_fmt": "yuv420p",
+        "level": 40,
+        "color_range": "tv",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709",
+        "chroma_location": "center",
+        "field_order": "progressive",
+        "refs": 1,
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "5/1",
+        "avg_frame_rate": "5/1",
+        "time_base": "1/10240",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 20480,
+        "duration": "2.000000",
+        "bit_rate": "549532",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "10",
+        "extradata_size": 45,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "vendor_id": "[0][0][0][0]",
+          "encoder": "Lavc60.31.102 libx264"
+        }
+      }
+    ],
+    "format": {
+      "filename": "/root/Hyperframes_Arcade_Game_Showcase/.validation/smoke.mp4",
+      "nb_streams": 1,
+      "nb_programs": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "2.000000",
+      "size": "138612",
+      "bit_rate": "554448",
+      "probe_score": 100,
+      "tags": {
+        "minor_version": "512",
+        "major_brand": "isom",
+        "compatible_brands": "isomiso2avc1mp41",
+        "hyperframes_version": "0.8.186",
+        "hyperframes_renderer": "hyperframes",
+        "encoder": "Lavf60.16.100"
+      }
+    }
+  },
+  "preserved_source_files": 25,
+  "preview": {
+    "url": "http://localhost:3018/#project/Hyperframes_Arcade_Game_Showcase",
+    "http_status": 200,
+    "note": "CLI preview --status exceeded a 90-second tool deadline; direct HTTP preview and actual composition render were verified."
+  },
+  "limitations": [
+    "No full 90-second quality render repeated during organization; original final MP4 preserved.",
+    "Range audits omit whole-film craft/frozen sweeps.",
+    "Smoke render covers 2 seconds from the actual Block scene; no audio in that sample.",
+    "Optional game-controller tests passed against preserved external game source checkouts; a clone alone omits those optional checkouts."
+  ],
+  "source_media_missing": [],
+  "git_lfs_required": false
+}

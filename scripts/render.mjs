@@ -1,0 +1,17 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+import {spawnSync} from 'node:child_process';
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
+process.chdir(root);
+const args=process.argv.slice(2);
+if(args.length) throw new Error('Use npm run render without arguments; outputs receive unique revision names. For custom flags invoke pinned HyperFrames directly with a new output path.');
+fs.mkdirSync('renders',{recursive:true});
+const stamp=new Date().toISOString().replace(/[:.]/g,'-');
+const output=path.resolve('renders',`Arcade_Games_Showcase-${stamp}.mp4`);
+if(fs.existsSync(output))throw new Error('Refusing to overwrite existing output');
+const result=spawnSync('npx',['--yes','hyperframes@0.8.186','render','--workers','1','--fps','30','--quality','delivery','--video-frame-format','png','--no-low-memory-mode','--browser-timeout','120','--protocol-timeout','300000','--player-ready-timeout','120000','--no-best-effort','--strict','--output',output],{stdio:'inherit',env:{...process.env,HYPERFRAMES_NO_TELEMETRY:'1'}});
+if(result.error)throw result.error;
+if(result.status!==0)process.exit(result.status||1);
+console.log('New revision:',output);
+console.log('Verify stream properties and decoded frames before calling this revision final. The untouched original is documented in docs/original-video.json.');

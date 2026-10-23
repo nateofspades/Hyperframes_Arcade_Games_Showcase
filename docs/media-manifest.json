@@ -1,0 +1,431 @@
+{
+  "assets": [
+    {
+      "path": "assets/arcade-circuit.wav",
+      "bytes": 25920102,
+      "sha256": "c6ebc5be0952e7376d21f66090d98d2fc4c07637ce7e80dd3558e7c213778430",
+      "included_in_git": true,
+      "original_path": "/root/arcade-showcase-video/assets/arcade-circuit.wav",
+      "duration_seconds": 90.0,
+      "streams": [
+        {
+          "codec_type": "audio",
+          "codec_name": "pcm_s24le",
+          "avg_frame_rate": "0/0",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "path": "assets/footage/aimmoving.mp4",
+      "bytes": 325621,
+      "sha256": "04e9feb9206dd083c87a4f1574596997906f0d887771f3bba9164ffa4e784ef6",
+      "included_in_git": true,
+      "original_path": "/root/arcade-showcase-video/assets/footage/aimmoving.mp4",
+      "duration_seconds": 6.0,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 1048,
+          "height": 604,
+          "avg_frame_rate": "30/1"
+        }
+      ]
+    },
+    {
+      "path": "assets/footage/aimpractice.mp4",
+      "bytes": 78451,
+      "sha256": "2011fe196da441b437b853f868d60ebdc50ffa377a74830b528c8f5fd2049db7",
+      "included_in_git": true,
+      "original_path": "/root/arcade-showcase-video/assets/footage/aimpractice.mp4",
+      "duration_seconds": 6.0,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 1048,
+          "height": 604,
+          "avg_frame_rate": "30/1"
+        }
+      ]
+    },
+    {
+      "path": "assets/footage/aimprecision.mp4",
+      "bytes": 88923,
+      "sha256": "a4a9b33a56ffb18c65f511156c2642f455c0002bc1fb122fd112001c3d5c28c9",
+      "included_in_git": true,
+      "original_path": "/root/arcade-showcase-video/assets/footage/aimprecision.mp4",
+      "duration_seconds": 6.0,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 1048,
+          "height": 604,
+          "avg_frame_rate": "30/1"
+        }
+      ]
+    },
+    {
+      "path": "assets/footage/block.mp4",
+      "bytes": 461131,
+      "sha256": "c569cc752083356022b2282071b1e17be9808a17b0ef8046efc3add2e204cc59",
+      "included_in_git": true,
+      "original_path": "/root/arcade-showcase-video/assets/footage/block.mp4",
+      "duration_seconds": 13.0,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 380,
+          "height": 760,
+          "avg_frame_rate": "30/1"
+        }
+      ]
+    },
+    {
+      "path": "assets/footage/brika.mp4",
+      "bytes": 1271648,
+      "sha256": "335097038b3d7b9503a178ada3aad1065989c510ab1b10c3e3978abccb34c768",
+      "included_in_git": true,
+      "original_path": "/root/arcade-showcase-video/assets/footage/brika.mp4",
+      "duration_seconds": 26.0,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 744,
+          "height": 930,
+          "avg_frame_rate": "30/1"
+        }
+      ]
+    },
+    {
+      "path": "assets/footage/chromatic.mp4",
+      "bytes": 347859,
+      "sha256": "1cbb8eba53f33c2abcb97237207a6d138559ba5119e9b0d84b5c1814ac982503",
+      "included_in_git": true,
+      "original_path": "/root/arcade-showcase-video/assets/footage/chromatic.mp4",
+      "duration_seconds": 13.0,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 316,
+          "height": 632,
+          "avg_frame_rate": "30/1"
+        }
+      ]
+    },
+    {
+      "path": "assets/footage/float.mp4",
+      "bytes": 1574631,
+      "sha256": "f3bad9598c66ece6291016eae5ea6097cd93c982e1386f6da8488f56d5c3c98a",
+      "included_in_git": true,
+      "original_path": "/root/arcade-showcase-video/assets/footage/float.mp4",
+      "duration_seconds": 13.0,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 474,
+          "height": 840,
+          "avg_frame_rate": "30/1"
+        }
+      ]
+    },
+    {
+      "path": "assets/footage/orb.mp4",
+      "bytes": 818103,
+      "sha256": "047caaa625886e04e2422db687b3dfa1e8bb2cd817e9b71877f148e8d8ffca60",
+      "included_in_git": true,
+      "original_path": "/root/arcade-showcase-video/assets/footage/orb.mp4",
+      "duration_seconds": 12.0,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 838,
+          "height": 450,
+          "avg_frame_rate": "30/1"
+        }
+      ]
+    },
+    {
+      "path": "assets/footage/original-takes/aimmoving.mp4",
+      "bytes": 232990,
+      "sha256": "f33f148500a15930bf7e63af6f0a8a965cd5b260212af7a827dd3c1e2ddb7d34",
+      "included_in_git": true,
+      "original_path": "/root/arcade-showcase-video/assets/footage/original-takes/aimmoving.mp4",
+      "duration_seconds": 6.0,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 1048,
+          "height": 604,
+          "avg_frame_rate": "30/1"
+        }
+      ]
+    },
+    {
+      "path": "assets/footage/original-takes/aimpractice.mp4",
+      "bytes": 43911,
+      "sha256": "e5d70df71c0a08996dfccc2ba1a0473bb0da5027e367d7fe9a6ec3dbac5a08df",
+      "included_in_git": true,
+      "original_path": "/root/arcade-showcase-video/assets/footage/original-takes/aimpractice.mp4",
+      "duration_seconds": 6.0,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 1048,
+          "height": 604,
+          "avg_frame_rate": "30/1"
+        }
+      ]
+    },
+    {
+      "path": "assets/footage/original-takes/aimprecision.mp4",
+      "bytes": 31223,
+      "sha256": "5ea3ecbe9ab9f7b6e0d6e1ba2a0d64869bac5ae316365daf28eb507bdaf3ebc3",
+      "included_in_git": true,
+      "original_path": "/root/arcade-showcase-video/assets/footage/original-takes/aimprecision.mp4",
+      "duration_seconds": 6.0,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 1048,
+          "height": 604,
+          "avg_frame_rate": "30/1"
+        }
+      ]
+    },
+    {
+      "path": "assets/footage/original-takes/block.mp4",
+      "bytes": 278419,
+      "sha256": "437f92547c877a3012db409c36d37d43a8b36ea704fba5567f96c2f2b8af5ce2",
+      "included_in_git": true,
+      "original_path": "/root/arcade-showcase-video/assets/footage/original-takes/block.mp4",
+      "duration_seconds": 13.0,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 380,
+          "height": 760,
+          "avg_frame_rate": "30/1"
+        }
+      ]
+    },
+    {
+      "path": "assets/footage/original-takes/brika.mp4",
+      "bytes": 427542,
+      "sha256": "07589e62cdfc16ac5d5c6e8044d77a3cd76476c4658dba05889b7807a7c4c072",
+      "included_in_git": true,
+      "original_path": "/root/arcade-showcase-video/assets/footage/original-takes/brika.mp4",
+      "duration_seconds": 26.0,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 744,
+          "height": 930,
+          "avg_frame_rate": "30/1"
+        }
+      ]
+    },
+    {
+      "path": "assets/footage/original-takes/chromatic.mp4",
+      "bytes": 200265,
+      "sha256": "79dc29dc8ca4399f9424d50e53cf2097ecedc1db7b4371d883d9d34ce90c4a3a",
+      "included_in_git": true,
+      "original_path": "/root/arcade-showcase-video/assets/footage/original-takes/chromatic.mp4",
+      "duration_seconds": 13.0,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 316,
+          "height": 632,
+          "avg_frame_rate": "30/1"
+        }
+      ]
+    },
+    {
+      "path": "assets/footage/original-takes/float.mp4",
+      "bytes": 1185057,
+      "sha256": "72c9309d800611c6f4e78acf8fa3b1b6932c9cf397285616c47ffc914a67e5c4",
+      "included_in_git": true,
+      "original_path": "/root/arcade-showcase-video/assets/footage/original-takes/float.mp4",
+      "duration_seconds": 13.0,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 474,
+          "height": 840,
+          "avg_frame_rate": "30/1"
+        }
+      ]
+    },
+    {
+      "path": "assets/footage/original-takes/orb.mp4",
+      "bytes": 572864,
+      "sha256": "6ad6d8f78797cf32490c1703c2d4837f947e87acf7351f8f0f708c0e8552238b",
+      "included_in_git": true,
+      "original_path": "/root/arcade-showcase-video/assets/footage/original-takes/orb.mp4",
+      "duration_seconds": 12.0,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 838,
+          "height": 450,
+          "avg_frame_rate": "30/1"
+        }
+      ]
+    },
+    {
+      "path": "assets/footage/original-takes/rally.mp4",
+      "bytes": 166081,
+      "sha256": "f88205f1162101edf49036ec27450237d8d92c370e547c191277a44cc27b74c3",
+      "included_in_git": true,
+      "original_path": "/root/arcade-showcase-video/assets/footage/original-takes/rally.mp4",
+      "duration_seconds": 14.0,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 1054,
+          "height": 594,
+          "avg_frame_rate": "30/1"
+        }
+      ]
+    },
+    {
+      "path": "assets/footage/original-takes/serpent.mp4",
+      "bytes": 91792,
+      "sha256": "51ce0f7d566f2a3ee61d4c749937c9489d798f815d071aa7778b8da89012da35",
+      "included_in_git": true,
+      "original_path": "/root/arcade-showcase-video/assets/footage/original-takes/serpent.mp4",
+      "duration_seconds": 13.0,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 720,
+          "height": 720,
+          "avg_frame_rate": "30/1"
+        }
+      ]
+    },
+    {
+      "path": "assets/footage/rally.mp4",
+      "bytes": 322221,
+      "sha256": "3a484ed123d5f3725942dbcaa4967efa290a5c7bbde654a9c50e7bce97aed850",
+      "included_in_git": true,
+      "original_path": "/root/arcade-showcase-video/assets/footage/rally.mp4",
+      "duration_seconds": 14.0,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 1054,
+          "height": 594,
+          "avg_frame_rate": "30/1"
+        }
+      ]
+    },
+    {
+      "path": "assets/footage/serpent.mp4",
+      "bytes": 260823,
+      "sha256": "c8765f281dd5ebba3d2d85777b499f50daa40bcd95fef053c4719e4f3f442237",
+      "included_in_git": true,
+      "original_path": "/root/arcade-showcase-video/assets/footage/serpent.mp4",
+      "duration_seconds": 13.0,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 720,
+          "height": 720,
+          "avg_frame_rate": "30/1"
+        }
+      ]
+    },
+    {
+      "path": "assets/gsap.min.js",
+      "bytes": 72927,
+      "sha256": "92bb9a96476f983d212a2bc4f54c889039c1696dd4461d40a736860938570fbb",
+      "included_in_git": true,
+      "original_path": "/root/arcade-showcase-video/assets/gsap.min.js"
+    },
+    {
+      "path": "assets/stills/aim.jpg",
+      "bytes": 26555,
+      "sha256": "db4dba8d2e7dfb51105e120a5d4127f63554a4c75159edc5d87989309d6134ad",
+      "included_in_git": true,
+      "original_path": "/root/arcade-showcase-video/assets/stills/aim.jpg"
+    },
+    {
+      "path": "assets/stills/block.jpg",
+      "bytes": 25832,
+      "sha256": "fc89ec9996887e6a0ad6b522901a2613a13b17e0652df30e5c127725b86b423e",
+      "included_in_git": true,
+      "original_path": "/root/arcade-showcase-video/assets/stills/block.jpg"
+    },
+    {
+      "path": "assets/stills/brika.jpg",
+      "bytes": 46384,
+      "sha256": "38b0dd6e30a0903edb45f2741911e0eb65d200010103a6f647d6563fe43677c3",
+      "included_in_git": true,
+      "original_path": "/root/arcade-showcase-video/assets/stills/brika.jpg"
+    },
+    {
+      "path": "assets/stills/chromatic.jpg",
+      "bytes": 21876,
+      "sha256": "3450801caa10acb6ec1f20c01ff554c052975e265690775e0472b70ac83a6eb0",
+      "included_in_git": true,
+      "original_path": "/root/arcade-showcase-video/assets/stills/chromatic.jpg"
+    },
+    {
+      "path": "assets/stills/float.jpg",
+      "bytes": 36401,
+      "sha256": "957fe57c9e5023eccaaf655e4010ea770a4a233c87065a96c036c5f8d9306965",
+      "included_in_git": true,
+      "original_path": "/root/arcade-showcase-video/assets/stills/float.jpg"
+    },
+    {
+      "path": "assets/stills/orb.jpg",
+      "bytes": 25160,
+      "sha256": "c7664f3fedd023167deb90cf0d08d847348de4da74bf593b93e13ef119f3e6f5",
+      "included_in_git": true,
+      "original_path": "/root/arcade-showcase-video/assets/stills/orb.jpg"
+    },
+    {
+      "path": "assets/stills/rally.jpg",
+      "bytes": 28246,
+      "sha256": "6e8d4f25673fa04aec80a38e47cd4578b83a237deacd833f4fde9f016dc34429",
+      "included_in_git": true,
+      "original_path": "/root/arcade-showcase-video/assets/stills/rally.jpg"
+    },
+    {
+      "path": "assets/stills/serpent.jpg",
+      "bytes": 18371,
+      "sha256": "09797257e24d102b1392422804db0fa31de3d2fdaccf0d31731397c68ee6e7be",
+      "included_in_git": true,
+      "original_path": "/root/arcade-showcase-video/assets/stills/serpent.jpg"
+    }
+  ],
+  "missing_required_media": [],
+  "excluded_optional_originals": [
+    "/root/arcade-showcase-video/assets/footage/orb-original.webm",
+    "/root/arcade-showcase-video/assets/footage/rally-original.webm"
+  ],
+  "original_game_checkouts": "/root/arcade-showcase-video/references",
+  "note": "All media needed for the current composition is included. Optional experimental WebM captures and inspection game checkouts remain in the untouched original directory."
+}

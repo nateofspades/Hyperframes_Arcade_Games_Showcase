@@ -1,0 +1,28 @@
+Input #0, wav, from '/root/arcade-showcase-video/assets/arcade-circuit.wav':
+  Metadata:
+    encoder         : Lavf60.16.100
+  Duration: 00:01:30.00, bitrate: 2304 kb/s
+  Stream #0:0: Audio: pcm_s24le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s32 (24 bit), 2304 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (pcm_s24le (native) -> pcm_s16le (native))
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf60.16.100
+  Stream #0:0: Audio: pcm_s16le, 192000 Hz, stereo, s16, 6144 kb/s
+    Metadata:
+      encoder         : Lavc60.31.102 pcm_s16le
+[out#0/null @ 0x6400fd4f7880] video:0kB audio:67500kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: unknown
+size=N/A time=00:01:27.10 bitrate=N/A speed=0.64x    
+[Parsed_loudnorm_0 @ 0x6400fd53c340] 
+{
+	"input_i" : "-14.65",
+	"input_tp" : "-1.04",
+	"input_lra" : "2.80",
+	"input_thresh" : "-24.91",
+	"output_i" : "-14.35",
+	"output_tp" : "-1.00",
+	"output_lra" : "2.80",
+	"output_thresh" : "-24.43",
+	"normalization_type" : "dynamic",
+	"target_offset" : "-0.15"
+}

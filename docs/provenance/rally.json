@@ -1,0 +1,433 @@
+{
+  "url": "https://nateofspades.github.io/Rally_Reactor_Game/",
+  "clip": {
+    "x": 273,
+    "y": 204,
+    "width": 1053,
+    "height": 591
+  },
+  "fps": 30,
+  "seconds": 14,
+  "states": [
+    {
+      "time": 0,
+      "state": {
+        "mode": "solo",
+        "difficulty": "hard",
+        "state": "playing",
+        "paddles": [
+          285.6666666666665,
+          287.1276273769494
+        ],
+        "ball": {
+          "x": 562.5,
+          "y": 295.2083333333323,
+          "vx": 360,
+          "vy": 110
+        },
+        "score": [
+          0,
+          0
+        ],
+        "rally": 0,
+        "longest": 0,
+        "record": 0,
+        "countdown": -0.004166666666662588,
+        "serve": 1,
+        "aiClock": 0.06833333333333334,
+        "aiTarget": 287.1276273769494,
+        "winner": null
+      }
+    },
+    {
+      "time": 1,
+      "state": {
+        "mode": "solo",
+        "difficulty": "hard",
+        "state": "playing",
+        "paddles": [
+          418.8333333333319,
+          410.302857623295
+        ],
+        "ball": {
+          "x": 896.253172836267,
+          "y": 404.0781508291248,
+          "vx": -393.2487243662097,
+          "vy": 55.41735544347838
+        },
+        "score": [
+          0,
+          0
+        ],
+        "rally": 1,
+        "longest": 1,
+        "record": 0,
+        "countdown": -0.004166666666662588,
+        "serve": 1,
+        "aiClock": 0.07250000000000001,
+        "aiTarget": 423.9172505761845,
+        "winner": null
+      }
+    },
+    {
+      "time": 2,
+      "state": {
+        "mode": "solo",
+        "difficulty": "hard",
+        "state": "playing",
+        "paddles": [
+          477.5833333333313,
+          270
+        ],
+        "ball": {
+          "x": 506.28152117310617,
+          "y": 459.0336949772363,
+          "vx": -393.2487243662097,
+          "vy": 55.41735544347838
+        },
+        "score": [
+          0,
+          0
+        ],
+        "rally": 1,
+        "longest": 1,
+        "record": 0,
+        "countdown": -0.004166666666662588,
+        "serve": 1,
+        "aiClock": 0.09333333333333334,
+        "aiTarget": 270,
+        "winner": null
+      }
+    },
+    {
+      "time": 3,
+      "state": {
+        "mode": "solo",
+        "difficulty": "hard",
+        "state": "playing",
+        "paddles": [
+          486,
+          270
+        ],
+        "ball": {
+          "x": 109.75572410384194,
+          "y": 514.912861716073,
+          "vx": -393.2487243662097,
+          "vy": 55.41735544347838
+        },
+        "score": [
+          0,
+          0
+        ],
+        "rally": 1,
+        "longest": 1,
+        "record": 0,
+        "countdown": -0.004166666666662588,
+        "serve": 1,
+        "aiClock": 0.0975,
+        "aiTarget": 270,
+        "winner": null
+      }
+    },
+    {
+      "time": 4,
+      "state": {
+        "mode": "solo",
+        "difficulty": "hard",
+        "state": "playing",
+        "paddles": [
+          325.4166666666682,
+          340.20631564936843
+        ],
+        "ball": {
+          "x": 308.9770397065822,
+          "y": 305.25537959877363,
+          "vx": 311.9724476478977,
+          "vy": -279.6688128879267
+        },
+        "score": [
+          0,
+          0
+        ],
+        "rally": 2,
+        "longest": 2,
+        "record": 0,
+        "countdown": -0.004166666666662588,
+        "serve": 1,
+        "aiClock": 0.005833333333333356,
+        "aiTarget": 340.20631564936843,
+        "winner": null
+      }
+    },
+    {
+      "time": 5,
+      "state": {
+        "mode": "solo",
+        "difficulty": "hard",
+        "state": "playing",
+        "paddles": [
+          54,
+          54
+        ],
+        "ball": {
+          "x": 623.5492577515522,
+          "y": 23.25599327011414,
+          "vx": 311.9724476478977,
+          "vy": -279.6688128879267
+        },
+        "score": [
+          0,
+          0
+        ],
+        "rally": 2,
+        "longest": 2,
+        "record": 0,
+        "countdown": -0.004166666666662588,
+        "serve": 1,
+        "aiClock": 0.010000000000000023,
+        "aiTarget": 27.896360308308154,
+        "winner": null
+      }
+    },
+    {
+      "time": 6,
+      "state": {
+        "mode": "solo",
+        "difficulty": "hard",
+        "state": "playing",
+        "paddles": [
+          242.00000000000043,
+          219.34199085940185
+        ],
+        "ball": {
+          "x": 896.265986979548,
+          "y": 278.9577178020228,
+          "vx": -221.01019530677758,
+          "vy": 382.8008872620593
+        },
+        "score": [
+          0,
+          0
+        ],
+        "rally": 3,
+        "longest": 3,
+        "record": 0,
+        "countdown": -0.004166666666662588,
+        "serve": 1,
+        "aiClock": 0.03083333333333335,
+        "aiTarget": 229.4696293902752,
+        "winner": null
+      }
+    },
+    {
+      "time": 7,
+      "state": {
+        "mode": "solo",
+        "difficulty": "hard",
+        "state": "playing",
+        "paddles": [
+          388.0833333333343,
+          270
+        ],
+        "ball": {
+          "x": 673.4140400452109,
+          "y": 397.051387542071,
+          "vx": -221.01019530677758,
+          "vy": -382.8008872620593
+        },
+        "score": [
+          0,
+          0
+        ],
+        "rally": 3,
+        "longest": 3,
+        "record": 0,
+        "countdown": -0.004166666666662588,
+        "serve": 1,
+        "aiClock": 0.03500000000000002,
+        "aiTarget": 270,
+        "winner": null
+      }
+    },
+    {
+      "time": 8,
+      "state": {
+        "mode": "solo",
+        "difficulty": "hard",
+        "state": "playing",
+        "paddles": [
+          54,
+          270
+        ],
+        "ball": {
+          "x": 454.2455963659868,
+          "y": 17.440507673862413,
+          "vx": -221.01019530677758,
+          "vy": -382.8008872620593
+        },
+        "score": [
+          0,
+          0
+        ],
+        "rally": 3,
+        "longest": 3,
+        "record": 0,
+        "countdown": -0.004166666666662588,
+        "serve": 1,
+        "aiClock": 0.055833333333333346,
+        "aiTarget": 270,
+        "winner": null
+      }
+    },
+    {
+      "time": 9,
+      "state": {
+        "mode": "solo",
+        "difficulty": "hard",
+        "state": "playing",
+        "paddles": [
+          375.166666666666,
+          270
+        ],
+        "ball": {
+          "x": 231.3936494316497,
+          "y": 386.55038698204726,
+          "vx": -221.01019530677758,
+          "vy": 382.8008872620593
+        },
+        "score": [
+          0,
+          0
+        ],
+        "rally": 3,
+        "longest": 3,
+        "record": 0,
+        "countdown": -0.004166666666662588,
+        "serve": 1,
+        "aiClock": 0.06000000000000001,
+        "aiTarget": 270,
+        "winner": null
+      }
+    },
+    {
+      "time": 10,
+      "state": {
+        "mode": "solo",
+        "difficulty": "hard",
+        "state": "playing",
+        "paddles": [
+          345.00000000000136,
+          326.875
+        ],
+        "ball": {
+          "x": 110.65194617207506,
+          "y": 313.98170783990184,
+          "vx": 379.3965918281552,
+          "vy": -271.15181224571427
+        },
+        "score": [
+          0,
+          0
+        ],
+        "rally": 4,
+        "longest": 4,
+        "record": 0,
+        "countdown": -0.004166666666662588,
+        "serve": 1,
+        "aiClock": 0.08083333333333334,
+        "aiTarget": 346.5757943994399,
+        "winner": null
+      }
+    },
+    {
+      "time": 11,
+      "state": {
+        "mode": "solo",
+        "difficulty": "hard",
+        "state": "playing",
+        "paddles": [
+          78.66666666666839,
+          54
+        ],
+        "ball": {
+          "x": 493.2101762654635,
+          "y": 40.57029715880529,
+          "vx": 379.3965918281552,
+          "vy": -271.15181224571427
+        },
+        "score": [
+          0,
+          0
+        ],
+        "rally": 4,
+        "longest": 4,
+        "record": 0,
+        "countdown": -0.004166666666662588,
+        "serve": 1,
+        "aiClock": 0.085,
+        "aiTarget": 20.763754882314636,
+        "winner": null
+      }
+    },
+    {
+      "time": 12,
+      "state": {
+        "mode": "solo",
+        "difficulty": "hard",
+        "state": "playing",
+        "paddles": [
+          249.8333333333338,
+          203.95553614435755
+        ],
+        "ball": {
+          "x": 869.4451298283826,
+          "y": 246.3219166515279,
+          "vx": 379.3965918281552,
+          "vy": 271.15181224571427
+        },
+        "score": [
+          0,
+          0
+        ],
+        "rally": 4,
+        "longest": 4,
+        "record": 0,
+        "countdown": -0.004166666666662588,
+        "serve": 1,
+        "aiClock": 0.10583333333333333,
+        "aiTarget": 273.00470568533456,
+        "winner": null
+      }
+    },
+    {
+      "time": 13,
+      "state": {
+        "mode": "solo",
+        "difficulty": "hard",
+        "state": "playing",
+        "paddles": [
+          486,
+          270
+        ],
+        "ball": {
+          "x": 538.1284201313421,
+          "y": 511.7974576789095,
+          "vx": -416.2287403185015,
+          "vy": 262.29316705087376
+        },
+        "score": [
+          0,
+          0
+        ],
+        "rally": 5,
+        "longest": 5,
+        "record": 0,
+        "countdown": -0.004166666666662588,
+        "serve": 1,
+        "aiClock": 0.11,
+        "aiTarget": 270,
+        "winner": null
+      }
+    }
+  ]
+}

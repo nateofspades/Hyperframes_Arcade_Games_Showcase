@@ -1,0 +1,22 @@
+{
+  "file": "/root/arcade-showcase-video/assets/arcade-circuit.wav",
+  "duration": "90.000000",
+  "sample_rate": 48000,
+  "channels": 2,
+  "bpm": 120,
+  "scene_cuts": [
+    5,
+    14,
+    23,
+    32,
+    41,
+    50,
+    59,
+    68,
+    83
+  ],
+  "integrated_lufs": -14.65,
+  "true_peak_dbtp": -1.04,
+  "loudness_range_lu": 2.8,
+  "seed": "0x451ab321"
+}

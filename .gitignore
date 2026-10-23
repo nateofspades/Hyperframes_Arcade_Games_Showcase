@@ -1,0 +1,26 @@
+# Dependencies and local agent/editor state
+node_modules/
+.hyperframes/
+.validation/
+.hermes/
+.env
+.env.*
+auth.json
+*.pem
+*.key
+__pycache__/
+*.pyc
+.DS_Store
+# Generated outputs / audit logs (curated provenance is in docs/provenance)
+renders/
+evidence/
+*-frames/
+*.log
+*.tmp
+*.seek.mp4
+# Never commit inspection repositories, experimental captures or finished exports
+references/
+assets/footage/*-original.webm
+/Arcade*.mp4
+/Arcade*Contact*Sheet*.jpg
+/Draft*.jpg

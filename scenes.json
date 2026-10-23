@@ -1,0 +1,117 @@
+[
+  {
+    "id": "block",
+    "title": "4 Block Theory",
+    "lines": [
+      "4 Block",
+      "Theory"
+    ],
+    "tag": "BUILD / ROTATE / CLEAR",
+    "label": "FALLING-BLOCK PUZZLE",
+    "accent": "#65f3db",
+    "start": 5,
+    "dur": 9,
+    "trim": 3,
+    "portrait": true
+  },
+  {
+    "id": "chromatic",
+    "title": "Chromatic Cure",
+    "lines": [
+      "Chromatic",
+      "Cure"
+    ],
+    "tag": "MATCH THE COLORS",
+    "label": "CAPSULE / COLOR / CASCADE",
+    "accent": "#bd9aff",
+    "start": 14,
+    "dur": 9,
+    "trim": 3,
+    "portrait": true
+  },
+  {
+    "id": "rally",
+    "title": "Rally Reactor",
+    "lines": [
+      "Rally Reactor"
+    ],
+    "tag": "KEEP THE RALLY ALIVE",
+    "label": "PADDLE DUEL",
+    "accent": "#66f1d5",
+    "start": 23,
+    "dur": 9,
+    "trim": 3,
+    "wide": true
+  },
+  {
+    "id": "orb",
+    "title": "Orb Onslaught",
+    "lines": [
+      "Orb Onslaught"
+    ],
+    "tag": "FIRE UP / SPLIT / SURVIVE",
+    "label": "SPHERE-SPLITTING ACTION",
+    "accent": "#66dbff",
+    "start": 32,
+    "dur": 9,
+    "trim": 1,
+    "wide": true
+  },
+  {
+    "id": "float",
+    "title": "Float Tweet Bounce",
+    "lines": [
+      "Float Tweet",
+      "Bounce"
+    ],
+    "tag": "FIND YOUR FLIGHT",
+    "label": "ONE-TAP GAP FLIGHT",
+    "accent": "#ffb77f",
+    "start": 41,
+    "dur": 9,
+    "trim": 3,
+    "portrait": true
+  },
+  {
+    "id": "serpent",
+    "title": "Serpent Supper",
+    "lines": [
+      "Serpent",
+      "Supper"
+    ],
+    "tag": "EAT / GROW / KEEP MOVING",
+    "label": "GRID-SNAKE ARCADE",
+    "accent": "#b1f077",
+    "start": 50,
+    "dur": 9,
+    "trim": 3,
+    "square": true
+  },
+  {
+    "id": "brika",
+    "title": "BrikaVolt",
+    "lines": [
+      "BrikaVolt"
+    ],
+    "tag": "BREAK THE FORMATION",
+    "label": "SYNTHWAVE BRICK BREAKER",
+    "accent": "#f58bff",
+    "start": 59,
+    "dur": 9,
+    "trim": 11,
+    "portrait": true
+  },
+  {
+    "id": "aim",
+    "title": "Aim Alley Arcade",
+    "lines": [
+      "Aim Alley Arcade"
+    ],
+    "tag": "15 MINI-GAMES / ONE ARCADE",
+    "label": "THREE CHALLENGES IN ACTION",
+    "accent": "#ffb970",
+    "start": 68,
+    "dur": 15,
+    "wide": true
+  }
+]

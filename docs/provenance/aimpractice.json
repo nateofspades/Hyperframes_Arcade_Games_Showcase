@@ -1,0 +1,284 @@
+{
+  "url": "https://nateofspades.github.io/Aim_Alley_Arcade_Game/?test=1",
+  "clip": {
+    "x": 276,
+    "y": 525,
+    "width": 1047,
+    "height": 603
+  },
+  "fps": 30,
+  "seconds": 6,
+  "states": [
+    {
+      "time": 0,
+      "state": {
+        "id": "practice",
+        "status": "playing",
+        "targets": [
+          {
+            "id": 1,
+            "x": 943.2,
+            "y": 302,
+            "r": 38.656,
+            "kind": "bullseye",
+            "born": 0,
+            "vx": 60,
+            "vy": 43,
+            "number": 2,
+            "color": 1,
+            "bonus": false
+          },
+          {
+            "id": 2,
+            "x": 104.8,
+            "y": 60.4,
+            "r": 38.656,
+            "kind": "bullseye",
+            "born": 0,
+            "vx": 60,
+            "vy": 43,
+            "number": 3,
+            "color": 2,
+            "bonus": false
+          }
+        ],
+        "score": 100,
+        "elapsed": 0.128,
+        "shots": 1,
+        "hits": 1,
+        "width": 1048,
+        "height": 604,
+        "mobile": false,
+        "turn": 0,
+        "nextNumber": 1,
+        "memoryInput": 0,
+        "sequence": [],
+        "cue": 0,
+        "health": 18,
+        "players": [
+          0,
+          0
+        ],
+        "session": null,
+        "music": {
+          "index": 0,
+          "epoch": 1.6036666666666666,
+          "position": 2.6630000000000003,
+          "sources": 0,
+          "retired": 0,
+          "scheduled": 10,
+          "contextState": "running",
+          "scheduler": true
+        }
+      }
+    },
+    {
+      "time": 1,
+      "state": {
+        "id": "practice",
+        "status": "playing",
+        "targets": [
+          {
+            "id": 3,
+            "x": 943.2,
+            "y": 422.8,
+            "r": 38.656,
+            "kind": "bullseye",
+            "born": 0.8320000000000006,
+            "vx": 60,
+            "vy": 43,
+            "number": 4,
+            "color": 3,
+            "bonus": false
+          }
+        ],
+        "score": 300,
+        "elapsed": 1.1360000000000008,
+        "shots": 3,
+        "hits": 3,
+        "width": 1048,
+        "height": 604,
+        "mobile": false,
+        "turn": 0,
+        "nextNumber": 1,
+        "memoryInput": 0,
+        "sequence": [],
+        "cue": 0,
+        "health": 18,
+        "players": [
+          0,
+          0
+        ],
+        "session": null,
+        "music": {
+          "index": 0,
+          "epoch": 1.6036666666666666,
+          "position": 17.084333333333333,
+          "sources": 3,
+          "retired": 0,
+          "scheduled": 56,
+          "contextState": "running",
+          "scheduler": true
+        }
+      }
+    },
+    {
+      "time": 2,
+      "state": {
+        "id": "practice",
+        "status": "playing",
+        "targets": [],
+        "score": 500,
+        "elapsed": 2.1280000000000014,
+        "shots": 5,
+        "hits": 5,
+        "width": 1048,
+        "height": 604,
+        "mobile": false,
+        "turn": 0,
+        "nextNumber": 1,
+        "memoryInput": 0,
+        "sequence": [],
+        "cue": 0,
+        "health": 18,
+        "players": [
+          0,
+          0
+        ],
+        "session": null,
+        "music": {
+          "index": 0,
+          "epoch": 1.6036666666666666,
+          "position": 29.372333333333334,
+          "sources": 0,
+          "retired": 0,
+          "scheduled": 100,
+          "contextState": "running",
+          "scheduler": true
+        }
+      }
+    },
+    {
+      "time": 3,
+      "state": {
+        "id": "practice",
+        "status": "playing",
+        "targets": [],
+        "score": 600,
+        "elapsed": 3.1360000000000023,
+        "shots": 6,
+        "hits": 6,
+        "width": 1048,
+        "height": 604,
+        "mobile": false,
+        "turn": 0,
+        "nextNumber": 1,
+        "memoryInput": 0,
+        "sequence": [],
+        "cue": 0,
+        "health": 18,
+        "players": [
+          0,
+          0
+        ],
+        "session": null,
+        "music": {
+          "index": 0,
+          "epoch": 1.6036666666666666,
+          "position": 7.874218390804593,
+          "sources": 0,
+          "retired": 0,
+          "scheduled": 125,
+          "contextState": "running",
+          "scheduler": true
+        }
+      }
+    },
+    {
+      "time": 4,
+      "state": {
+        "id": "practice",
+        "status": "playing",
+        "targets": [],
+        "score": 700,
+        "elapsed": 4.128000000000003,
+        "shots": 7,
+        "hits": 7,
+        "width": 1048,
+        "height": 604,
+        "mobile": false,
+        "turn": 0,
+        "nextNumber": 1,
+        "memoryInput": 0,
+        "sequence": [],
+        "cue": 0,
+        "health": 18,
+        "players": [
+          0,
+          0
+        ],
+        "session": null,
+        "music": {
+          "index": 0,
+          "epoch": 1.6036666666666666,
+          "position": 21.05821839080459,
+          "sources": 3,
+          "retired": 0,
+          "scheduled": 169,
+          "contextState": "running",
+          "scheduler": true
+        }
+      }
+    },
+    {
+      "time": 5,
+      "state": {
+        "id": "practice",
+        "status": "playing",
+        "targets": [
+          {
+            "id": 8,
+            "x": 314.4,
+            "y": 422.8,
+            "r": 38.656,
+            "kind": "bullseye",
+            "born": 4.9920000000000035,
+            "vx": -60,
+            "vy": 43,
+            "number": 9,
+            "color": 0,
+            "bonus": false
+          }
+        ],
+        "score": 800,
+        "elapsed": 5.136000000000004,
+        "shots": 8,
+        "hits": 8,
+        "width": 1048,
+        "height": 604,
+        "mobile": false,
+        "turn": 0,
+        "nextNumber": 1,
+        "memoryInput": 0,
+        "sequence": [],
+        "cue": 0,
+        "health": 18,
+        "players": [
+          0,
+          0
+        ],
+        "session": null,
+        "music": {
+          "index": 0,
+          "epoch": 1.6036666666666666,
+          "position": 0.49877011494251633,
+          "sources": 3,
+          "retired": 0,
+          "scheduled": 208,
+          "contextState": "running",
+          "scheduler": true
+        }
+      }
+    }
+  ]
+}

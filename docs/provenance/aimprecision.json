@@ -1,0 +1,456 @@
+{
+  "url": "https://nateofspades.github.io/Aim_Alley_Arcade_Game/?test=1",
+  "clip": {
+    "x": 276,
+    "y": 525,
+    "width": 1047,
+    "height": 603
+  },
+  "fps": 30,
+  "seconds": 6,
+  "states": [
+    {
+      "time": 0,
+      "state": {
+        "id": "precision",
+        "status": "playing",
+        "targets": [
+          {
+            "id": 1,
+            "x": 104.8,
+            "y": 50.333333333333336,
+            "r": 32.471039999999995,
+            "kind": "jewel",
+            "born": 0,
+            "vx": -60,
+            "vy": 43,
+            "number": 2,
+            "color": 1,
+            "bonus": false
+          },
+          {
+            "id": 2,
+            "x": 104.8,
+            "y": 251.66666666666666,
+            "r": 32.471039999999995,
+            "kind": "jewel",
+            "born": 0,
+            "vx": -60,
+            "vy": 43,
+            "number": 3,
+            "color": 2,
+            "bonus": false
+          },
+          {
+            "id": 3,
+            "x": 943.2,
+            "y": 151,
+            "r": 32.471039999999995,
+            "kind": "jewel",
+            "born": 0,
+            "vx": -60,
+            "vy": 43,
+            "number": 4,
+            "color": 3,
+            "bonus": false
+          }
+        ],
+        "score": 150,
+        "elapsed": 0.14400000000000002,
+        "shots": 1,
+        "hits": 1,
+        "width": 1048,
+        "height": 604,
+        "mobile": false,
+        "turn": 0,
+        "nextNumber": 1,
+        "memoryInput": 0,
+        "sequence": [],
+        "cue": 0,
+        "health": 18,
+        "players": [
+          0,
+          0
+        ],
+        "session": null,
+        "music": {
+          "index": 2,
+          "epoch": 1.0916666666666666,
+          "position": 2.7910000000000004,
+          "sources": 0,
+          "retired": 0,
+          "scheduled": 8,
+          "contextState": "running",
+          "scheduler": true
+        }
+      }
+    },
+    {
+      "time": 1,
+      "state": {
+        "id": "precision",
+        "status": "playing",
+        "targets": [
+          {
+            "id": 2,
+            "x": 104.8,
+            "y": 251.66666666666666,
+            "r": 32.471039999999995,
+            "kind": "jewel",
+            "born": 0,
+            "vx": -60,
+            "vy": 43,
+            "number": 3,
+            "color": 2,
+            "bonus": false
+          },
+          {
+            "id": 3,
+            "x": 943.2,
+            "y": 151,
+            "r": 32.471039999999995,
+            "kind": "jewel",
+            "born": 0,
+            "vx": -60,
+            "vy": 43,
+            "number": 4,
+            "color": 3,
+            "bonus": false
+          },
+          {
+            "id": 4,
+            "x": 733.6,
+            "y": 352.3333333333333,
+            "r": 32.471039999999995,
+            "kind": "jewel",
+            "born": 0.8320000000000006,
+            "vx": -60,
+            "vy": 43,
+            "number": 5,
+            "color": 0,
+            "bonus": true
+          }
+        ],
+        "score": 300,
+        "elapsed": 1.1360000000000008,
+        "shots": 2,
+        "hits": 2,
+        "width": 1048,
+        "height": 604,
+        "mobile": false,
+        "turn": 0,
+        "nextNumber": 1,
+        "memoryInput": 0,
+        "sequence": [],
+        "cue": 0,
+        "health": 18,
+        "players": [
+          0,
+          0
+        ],
+        "session": null,
+        "music": {
+          "index": 2,
+          "epoch": 1.0916666666666666,
+          "position": 15.505666666666668,
+          "sources": 1,
+          "retired": 0,
+          "scheduled": 24,
+          "contextState": "running",
+          "scheduler": true
+        }
+      }
+    },
+    {
+      "time": 2,
+      "state": {
+        "id": "precision",
+        "status": "playing",
+        "targets": [
+          {
+            "id": 3,
+            "x": 943.2,
+            "y": 151,
+            "r": 32.471039999999995,
+            "kind": "jewel",
+            "born": 0,
+            "vx": -60,
+            "vy": 43,
+            "number": 4,
+            "color": 3,
+            "bonus": false
+          },
+          {
+            "id": 4,
+            "x": 733.6,
+            "y": 352.3333333333333,
+            "r": 32.471039999999995,
+            "kind": "jewel",
+            "born": 0.8320000000000006,
+            "vx": -60,
+            "vy": 43,
+            "number": 5,
+            "color": 0,
+            "bonus": true
+          },
+          {
+            "id": 5,
+            "x": 943.2,
+            "y": 453,
+            "r": 32.471039999999995,
+            "kind": "jewel",
+            "born": 1.6640000000000013,
+            "vx": 60,
+            "vy": 43,
+            "number": 6,
+            "color": 1,
+            "bonus": false
+          }
+        ],
+        "score": 450,
+        "elapsed": 2.1440000000000015,
+        "shots": 3,
+        "hits": 3,
+        "width": 1048,
+        "height": 604,
+        "mobile": false,
+        "turn": 0,
+        "nextNumber": 1,
+        "memoryInput": 0,
+        "sequence": [],
+        "cue": 0,
+        "health": 18,
+        "players": [
+          0,
+          0
+        ],
+        "session": null,
+        "music": {
+          "index": 2,
+          "epoch": 1.0916666666666666,
+          "position": 30.09766666666667,
+          "sources": 0,
+          "retired": 0,
+          "scheduled": 39,
+          "contextState": "running",
+          "scheduler": true
+        }
+      }
+    },
+    {
+      "time": 3,
+      "state": {
+        "id": "precision",
+        "status": "playing",
+        "targets": [
+          {
+            "id": 4,
+            "x": 733.6,
+            "y": 352.3333333333333,
+            "r": 32.471039999999995,
+            "kind": "jewel",
+            "born": 0.8320000000000006,
+            "vx": -60,
+            "vy": 43,
+            "number": 5,
+            "color": 0,
+            "bonus": true
+          },
+          {
+            "id": 5,
+            "x": 943.2,
+            "y": 453,
+            "r": 32.471039999999995,
+            "kind": "jewel",
+            "born": 1.6640000000000013,
+            "vx": 60,
+            "vy": 43,
+            "number": 6,
+            "color": 1,
+            "bonus": false
+          },
+          {
+            "id": 6,
+            "x": 733.6,
+            "y": 151,
+            "r": 32.471039999999995,
+            "kind": "jewel",
+            "born": 2.4960000000000018,
+            "vx": -60,
+            "vy": 43,
+            "number": 7,
+            "color": 2,
+            "bonus": false
+          }
+        ],
+        "score": 600,
+        "elapsed": 3.1360000000000023,
+        "shots": 4,
+        "hits": 4,
+        "width": 1048,
+        "height": 604,
+        "mobile": false,
+        "turn": 0,
+        "nextNumber": 1,
+        "memoryInput": 0,
+        "sequence": [],
+        "cue": 0,
+        "health": 18,
+        "players": [
+          0,
+          0
+        ],
+        "session": null,
+        "music": {
+          "index": 2,
+          "epoch": 1.0916666666666666,
+          "position": 10.342999999999996,
+          "sources": 0,
+          "retired": 0,
+          "scheduled": 52,
+          "contextState": "running",
+          "scheduler": true
+        }
+      }
+    },
+    {
+      "time": 4,
+      "state": {
+        "id": "precision",
+        "status": "playing",
+        "targets": [
+          {
+            "id": 6,
+            "x": 733.6,
+            "y": 151,
+            "r": 32.471039999999995,
+            "kind": "jewel",
+            "born": 2.4960000000000018,
+            "vx": -60,
+            "vy": 43,
+            "number": 7,
+            "color": 2,
+            "bonus": false
+          },
+          {
+            "id": 7,
+            "x": 314.4,
+            "y": 151,
+            "r": 32.471039999999995,
+            "kind": "jewel",
+            "born": 3.3280000000000025,
+            "vx": 60,
+            "vy": 43,
+            "number": 8,
+            "color": 3,
+            "bonus": false
+          }
+        ],
+        "score": 900,
+        "elapsed": 4.144000000000003,
+        "shots": 6,
+        "hits": 6,
+        "width": 1048,
+        "height": 604,
+        "mobile": false,
+        "turn": 0,
+        "nextNumber": 1,
+        "memoryInput": 0,
+        "sequence": [],
+        "cue": 0,
+        "health": 18,
+        "players": [
+          0,
+          0
+        ],
+        "session": null,
+        "music": {
+          "index": 2,
+          "epoch": 1.0916666666666666,
+          "position": 22.631,
+          "sources": 3,
+          "retired": 0,
+          "scheduled": 82,
+          "contextState": "running",
+          "scheduler": true
+        }
+      }
+    },
+    {
+      "time": 5,
+      "state": {
+        "id": "precision",
+        "status": "playing",
+        "targets": [
+          {
+            "id": 7,
+            "x": 314.4,
+            "y": 151,
+            "r": 32.471039999999995,
+            "kind": "jewel",
+            "born": 3.3280000000000025,
+            "vx": 60,
+            "vy": 43,
+            "number": 8,
+            "color": 3,
+            "bonus": false
+          },
+          {
+            "id": 8,
+            "x": 524,
+            "y": 50.333333333333336,
+            "r": 32.471039999999995,
+            "kind": "jewel",
+            "born": 4.160000000000003,
+            "vx": -60,
+            "vy": 43,
+            "number": 9,
+            "color": 0,
+            "bonus": false
+          },
+          {
+            "id": 9,
+            "x": 314.4,
+            "y": 553.6666666666666,
+            "r": 32.471039999999995,
+            "kind": "jewel",
+            "born": 4.9920000000000035,
+            "vx": 60,
+            "vy": 43,
+            "number": 10,
+            "color": 1,
+            "bonus": true
+          }
+        ],
+        "score": 1050,
+        "elapsed": 5.136000000000004,
+        "shots": 7,
+        "hits": 7,
+        "width": 1048,
+        "height": 604,
+        "mobile": false,
+        "turn": 0,
+        "nextNumber": 1,
+        "memoryInput": 0,
+        "sequence": [],
+        "cue": 0,
+        "health": 18,
+        "players": [
+          0,
+          0
+        ],
+        "session": null,
+        "music": {
+          "index": 2,
+          "epoch": 1.0916666666666666,
+          "position": 12.390999999999991,
+          "sources": 1,
+          "retired": 0,
+          "scheduled": 98,
+          "contextState": "running",
+          "scheduler": true
+        }
+      }
+    }
+  ]
+}
