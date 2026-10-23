@@ -10,7 +10,8 @@ v=next(x for x in probe['streams'] if x['codec_type']=='video');a=next(x for x i
 assert v['codec_name']=='h264' and a['codec_name']=='aac',probe
 assert (v['width'],v['height'])==(1920,1080),v
 assert v['avg_frame_rate']=='30/1',v
-assert 85<=float(probe['format']['duration'])<=95,probe
+from validation_rules import validate_baseline_duration, reject_black_intervals
+validate_baseline_duration(probe['format']['duration'])
 assert video.stat().st_size>1000000
 probe['sha256']=hashlib.file_digest(video.open('rb'),'sha256').hexdigest()
 games=json.loads((ROOT/'scenes.json').read_text())
@@ -31,4 +32,5 @@ for i,(t,title) in enumerate(samples):
 run(['ffmpeg','-hide_banner','-loglevel','error','-y','-framerate','1','-pattern_type','glob','-i',str(frames/'*.jpg'),'-vf','scale=480:270,tile=4x3:padding=6:margin=6:color=0x080e1c','-frames:v','1','-q:v','2',str(ROOT/('Arcade_Showcase_Contact_Sheet.jpg' if video.name=='Arcade_Games_Showcase.mp4' else 'Draft_Contact_Sheet.jpg'))])
 black=run(['ffmpeg','-hide_banner','-threads','1','-i',str(video),'-vf','blackdetect=d=0.2:pix_th=0.03','-an','-f','null','-'])
 (evidence/('final-blackdetect.txt' if video.name=='Arcade_Games_Showcase.mp4' else 'draft-blackdetect.txt')).write_text(black.stderr)
+reject_black_intervals(black.stderr)
 print(json.dumps({'file':str(video),'duration':probe['format']['duration'],'width':v['width'],'height':v['height'],'fps':v['avg_frame_rate'],'video':v['codec_name'],'audio':a['codec_name'],'size_bytes':video.stat().st_size,'sha256':probe['sha256'],'frames':str(frames)},indent=2))

@@ -84,6 +84,8 @@ The wrapper writes a **new timestamped** `renders/Arcade_Games_Showcase-<timesta
 
 The three-range `npm run check` avoids the full-audit timeout observed on this host. It covers lint/runtime/layout/contrast samples across every game, but does not run whole-film craft/frozen sweeps; decoded-output review remains necessary.
 
+Verification-helper regression tests: `python3 -m unittest discover -s tests -v`. The baseline MP4 verifier requires 90 seconds within one 30 FPS frame and rejects detected black intervals of at least 0.2 seconds. The source verifier checks media manifest hashes, local references and descriptive baseline metadata; it does not prove that edited HTML still matches the imported baseline. The original HTML hashes in `docs/provenance/preserved-compositions.json` are historical evidence for explicit comparisons, not a gate against authorized future edits.
+
 ## Original finished video and media preservation
 
 The original finished MP4 is intentionally **not committed** as source code. On Nathan's VPS:

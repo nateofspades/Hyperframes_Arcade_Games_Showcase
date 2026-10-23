@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Verify preserved media checksums, local composition references and source identity."""
+"""Verify manifest media hashes, local references and baseline metadata; not HTML identity."""
 from pathlib import Path
 import json,hashlib,re,subprocess
 root=Path(__file__).resolve().parents[1]

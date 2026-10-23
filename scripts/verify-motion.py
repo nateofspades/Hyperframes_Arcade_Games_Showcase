@@ -11,5 +11,6 @@ for name,t1,t2,rect in shots:
  a,b=frame(t1,rect),frame(t2,rect);assert len(a)==len(b)==320*180
  mae=sum(abs(x-y) for x,y in zip(a,b))/len(a);changed=sum(abs(x-y)>8 for x,y in zip(a,b))
  result={'game':name,'times':[t1,t2],'crop':rect,'mean_absolute_luma_change':mae,'pixels_changing_by_more_than_8':changed,'passed':mae>.05 and changed>10};results.append(result);print(result,flush=True)
+(root/'evidence').mkdir(parents=True,exist_ok=True)
 (root/'evidence'/('motion-final.json' if video.name=='Arcade_Games_Showcase.mp4' else 'motion-draft.json')).write_text(json.dumps(results,indent=2))
 assert all(x['passed'] for x in results),'At least one gameplay panel may be frozen; inspect decoded frames.'
