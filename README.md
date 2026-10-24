@@ -1,5 +1,7 @@
 # HyperFrames Arcade Game Showcase
 
+[**▶ Watch the showcase on GitHub Pages**](https://nateofspades.github.io/Hyperframes_Arcade_Games_Showcase/)
+
 Editable HyperFrames source code for a promotional video featuring eight original browser-based arcade games by Nathan Burns (`nateofspades`). This repository preserves the **existing** showcase: its HTML compositions, CSS, GSAP animation code, gameplay recordings, stills, original instrumental music and production scripts. It does not recreate the video from its rendered MP4.
 
 ![A real frame decoded from the original showcase: Rally Reactor](docs/images/original-rally-reactor.jpg)
@@ -8,7 +10,7 @@ Editable HyperFrames source code for a promotional video featuring eight origina
 
 [**Download the revised showcase MP4**](https://github.com/nateofspades/Hyperframes_Arcade_Games_Showcase/releases/download/showcase-video-2026-10-23/Arcade_Games_Showcase-2026-10-23T21-07-10-088Z.mp4) — 90 seconds, 1080p, 30 FPS, with audio.
 
-The video is hosted as a [GitHub release asset](https://github.com/nateofspades/Hyperframes_Arcade_Games_Showcase/releases/tag/showcase-video-2026-10-23), not in Git history. This link is to the revised render; the original reference film remains preserved separately. GitHub Pages is not required.
+Watch it in the [GitHub Pages video player](https://nateofspades.github.io/Hyperframes_Arcade_Games_Showcase/), or use the MP4 download above. The page also links to all eight playable games. Deployment copies the verified [GitHub release asset](https://github.com/nateofspades/Hyperframes_Arcade_Games_Showcase/releases/tag/showcase-video-2026-10-23) into the Pages artifact so the player streams directly from Pages, not a release-download redirect. Finished MP4s remain outside Git history.
 
 ## Overview
 
@@ -118,10 +120,10 @@ The profile has its own project context and local working directory, cloned defa
 
 ## Website status
 
-**GitHub Pages is planned but not published.** No Pages deployment workflow is installed. The root composition must not be mistaken for the future responsive HTML5-video landing page.
+**GitHub Pages hosts the responsive video webpage.** Its separate source is `site/`; `.github/workflows/pages.yml` deploys only that folder plus the checksum-verified release video. The root `index.html` remains the editable HyperFrames composition and is not deployed as the webpage.
 
-**Planned GitHub Pages URL:**
+**Live GitHub Pages URL:**
 
 https://nateofspades.github.io/Hyperframes_Arcade_Games_Showcase/
 
-[docs/PAGES_PLAN.md](docs/PAGES_PLAN.md) records the design requirements, case-sensitive base path, video-hosting options and approval gate. Nothing should be deployed or uploaded to a video platform until Nathan explicitly requests publication.
+[docs/PAGES_PLAN.md](docs/PAGES_PLAN.md) records the deployment and original planning requirements. Nathan authorized this GitHub Pages publication; no YouTube or other video-platform upload is included.

@@ -1,9 +1,17 @@
-# GitHub Pages plan — not deployed
+# GitHub Pages — deployment and original plan
 
-Repository: nateofspades/Hyperframes_Arcade_Game_Showcase (public source repository).
+Nathan authorized publication of a webpage with an embedded player and a prominent repository link. The live project-site URL is https://nateofspades.github.io/Hyperframes_Arcade_Games_Showcase/ .
+
+The separate `site/` contains the responsive webpage, authentic poster and gameplay thumbnails. `.github/workflows/pages.yml` deploys only those site files and a checksum-verified copy of the revised MP4 downloaded from the GitHub release. The MP4 is included in the deployment artifact, not Git history. HTML5 controls, inline playback, metadata preloading, direct download and all eight game links are provided; autoplay is off. The repository homepage and top README link point to this page. The editable root composition is never deployed as a website. No video-platform upload is included.
+
+## Original pre-publication assessment (historical)
+
+The following records the earlier plan and approval gate, before the authorization above.
+
+Repository: nateofspades/Hyperframes_Arcade_Games_Showcase (public source repository).
 
 Planned GitHub Pages URL:
-https://nateofspades.github.io/Hyperframes_Arcade_Game_Showcase/
+https://nateofspades.github.io/Hyperframes_Arcade_Games_Showcase/
 
 The repository name and URL path preserve exact capitalization. Pages must stay disabled until Nathan explicitly authorizes publication. No deployment workflow, CNAME, gh-pages branch or public website is created by this setup. The root index.html is a HyperFrames source composition and must not be deployed as though it were a complete landing page.
 
@@ -15,7 +23,7 @@ The repository name and URL path preserve exact capitalization. Pages must stay 
 - Approved final video only, with clear credits and a downloadable alternative where appropriate.
 - Descriptions and links for all eight games, using the exact verified game paths in README.md.
 - Music/asset notices from ASSET_CREDITS.md; review rights again before publication.
-- Keep page assets separate from editable HyperFrames compositions. A future site/ build or explicitly selected deployment artifact should use relative paths such as ./assets/poster.jpg, or the exact /Hyperframes_Arcade_Game_Showcase/ base. Avoid domain-root /assets/... paths that would escape a GitHub project-site prefix. Do not alter the video renderer's existing assets/... paths merely to build the separate site.
+- Keep page assets separate from editable HyperFrames compositions. A future site/ build or explicitly selected deployment artifact should use relative paths such as ./assets/poster.jpg, or the exact /Hyperframes_Arcade_Games_Showcase/ base. Avoid domain-root /assets/... paths that would escape a GitHub project-site prefix. Do not alter the video renderer's existing assets/... paths merely to build the separate site.
 - Test browser playback, mobile layout, MIME type, poster, seek/range responses, links and deployment URL only when publication is authorized.
 
 ## Hosting assessment
