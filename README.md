@@ -4,6 +4,12 @@ Editable HyperFrames source code for a promotional video featuring eight origina
 
 ![A real frame decoded from the original showcase: Rally Reactor](docs/images/original-rally-reactor.jpg)
 
+## Watch or download the video
+
+[**Download the revised showcase MP4**](https://github.com/nateofspades/Hyperframes_Arcade_Games_Showcase/releases/download/showcase-video-2026-10-23/Arcade_Games_Showcase-2026-10-23T21-07-10-088Z.mp4) — 90 seconds, 1080p, 30 FPS, with audio.
+
+The video is hosted as a [GitHub release asset](https://github.com/nateofspades/Hyperframes_Arcade_Games_Showcase/releases/tag/showcase-video-2026-10-23), not in Git history. This link is to the revised render; the original reference film remains preserved separately. GitHub Pages is not required.
+
 ## Overview
 
 The reference film is 90 seconds, 1920 × 1080, 30 FPS, with H.264 video and AAC stereo audio. It combines real gameplay with dark arcade styling, animated titles, directional/pixel transitions and an original procedural soundtrack. No voiceover is used.
@@ -43,8 +49,8 @@ Required: Node.js 22 or newer with npm, Python 3, FFmpeg/FFprobe, and the HyperF
 Install Node.js through its official installation instructions for your operating system. On Ubuntu, install the media tools with `sudo apt-get install ffmpeg python3 git`. Then:
 
 ```sh
-git clone https://github.com/nateofspades/Hyperframes_Arcade_Game_Showcase.git
-cd Hyperframes_Arcade_Game_Showcase
+git clone https://github.com/nateofspades/Hyperframes_Arcade_Games_Showcase.git
+cd Hyperframes_Arcade_Games_Showcase
 npm ci --ignore-scripts --no-audit --no-fund
 npx --yes hyperframes@0.8.186 browser ensure
 npm run verify:source
@@ -116,6 +122,6 @@ The profile has its own project context and local working directory, cloned defa
 
 **Planned GitHub Pages URL:**
 
-https://nateofspades.github.io/Hyperframes_Arcade_Game_Showcase/
+https://nateofspades.github.io/Hyperframes_Arcade_Games_Showcase/
 
 [docs/PAGES_PLAN.md](docs/PAGES_PLAN.md) records the design requirements, case-sensitive base path, video-hosting options and approval gate. Nothing should be deployed or uploaded to a video platform until Nathan explicitly requests publication.
