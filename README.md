@@ -1,10 +1,10 @@
 # HyperFrames Arcade Game Showcase
 
-[**▶ Watch the showcase on GitHub Pages**](https://nateofspades.github.io/Hyperframes_Arcade_Games_Showcase/)
+[**▶ Watch the Hyperframes video that showcases the 8 games**](https://nateofspades.github.io/Hyperframes_Arcade_Games_Showcase/)
 
 Editable HyperFrames source code for a promotional video featuring eight original browser-based arcade games by Nathan Burns (`nateofspades`). This repository preserves the **existing** showcase: its HTML compositions, CSS, GSAP animation code, gameplay recordings, stills, original instrumental music and production scripts. It does not recreate the video from its rendered MP4.
 
-![A real frame decoded from the original showcase: Rally Reactor](docs/images/original-rally-reactor.jpg)
+![Showcase opening: 8 Arcade Games, One Collection, with all eight games](site/media/poster.jpg)
 
 ## Watch or download the video
 
@@ -41,7 +41,7 @@ HyperFrames renders HTML/CSS and paused, seekable GSAP timelines frame by frame 
 - `assets/gsap.min.js`: local animation runtime with its original license header.
 - `scenes.json`, `STORYBOARD.md`, `SPEC.md`: reference timing, layout and production decisions.
 - `scripts/`: source verification, bounded audits, preview/render helpers and optional capture tools.
-- `docs/`: editing guide, media checksums, original-video metadata, provenance and future website plan.
+- `docs/`: editing guide, media checksums, original-video metadata, provenance and website deployment details.
 - `renders/`, `evidence/`, `.validation/`: ignored local outputs; never committed.
 
 ## Dependencies and installation
@@ -116,7 +116,7 @@ On the VPS:
 hermes --profile hyperframesarcadegameshowcase --in /root/Hyperframes_Arcade_Game_Showcase
 ```
 
-The profile has its own project context and local working directory, cloned default model/provider configuration, and HyperFrames skills. It does not change the default profile or enable Pages. Request a specific change, validate/preview it, inspect a rendered sample, then make a descriptive logical commit and push `main`. Keep real development history; do not create empty commits or force-push. Git identity is set locally to Nathan's GitHub-associated noreply address.
+The profile has its own project context and local working directory, cloned default model/provider configuration, and HyperFrames skills. It does not change the default profile; Pages is already published as described below. Request a specific change, validate/preview it, inspect a rendered sample when the video changes, then make a descriptive logical commit and push `main`. Keep real development history; do not create empty commits or force-push. Git identity is set locally to Nathan's GitHub-associated noreply address.
 
 ## Website status
 

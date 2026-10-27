@@ -25,21 +25,20 @@
     /* Refinements for the showcase page; the film itself remains unchanged. */
     header{padding:18px 0}.hero{padding:38px 0 24px}.eyebrow{margin:0;letter-spacing:.06em;text-transform:none}.hero h1{font-size:clamp(32px,6.2vw,74px);line-height:1.05;letter-spacing:-.045em;margin:12px 0 16px}.hero h1 span{display:block;color:#47d9ff}.hero h1 span+span{color:#fff}.intro{max-width:820px;font-size:16px;line-height:1.55;margin:0}.meta{margin:14px 0 0;letter-spacing:0}.games{padding:64px 0}.section-title{display:block;margin-bottom:26px}.section-title p{margin-top:6px;font-size:16px}.game:focus-visible{outline-offset:3px}.game img{height:auto;aspect-ratio:16/9;padding:10px}.play{display:inline-block;align-self:flex-start;padding:8px 14px;border:1px solid #3e8e88;border-radius:5px}.game:hover .play,.game:focus-visible .play{background:var(--mint);color:var(--bg)}
     @media(max-width:520px){header{flex-wrap:wrap;align-items:center;gap:10px}.brand{max-width:none}nav{width:100%;justify-content:space-between;gap:8px}.hero{padding:28px 0 20px}.hero h1{font-size:clamp(30px,8.8vw,44px)}.intro{font-size:15px}.games{padding:42px 0}.game{display:flex}.game img{height:auto;min-height:0}.game-copy{padding:16px}}
+    .eyebrow{color:#fff}.hero h1 .title-line{color:#fff}.hero h1 .title-line strong{color:var(--mint)}.hero h1 .collection{color:#a996ff}.section-title h2{color:var(--mint)}
   </style>
 </head>
 <body>
 <a class="skip" href="#showcase">Skip to video</a>
 <div class="wrap">
   <header>
-    <a class="brand" href="./"><span>ARCADE</span> SHOWCASE</a>
+    <a class="brand" href="./"><span>ARCADE</span> GAMES SHOWCASE</a>
     <nav aria-label="Main navigation"><a href="#showcase">Watch Video</a><a href="#games">Play Games</a><a href="https://github.com/nateofspades/Hyperframes_Arcade_Games_Showcase">GitHub</a></nav>
   </header>
   <main>
     <section class="hero" aria-labelledby="title">
-      <p class="eyebrow">8 browser games built with Hermes AI Agent + Codex. Video created with HyperFrames.</p>
-      <h1 id="title"><span>8 ARCADE GAMES</span><span>ONE COLLECTION</span></h1>
-      <p class="intro">Eight games, eight different challenges. Stack falling blocks, match colored facets, compete in paddle rallies, split bouncing orbs, guide a glider through obstacles, grow a serpent, smash bricks, and test your aim across 15 arcade mini-games. Watch the showcase, then play them yourself.</p>
-      <p class="meta">Arcade game showcase. Made with HyperFrames</p>
+      <p class="eyebrow">Browser games built with Hermes AI Agent + Codex. Video created with HyperFrames.</p>
+      <h1 id="title"><span class="title-line"><strong>8</strong> ARCADE GAMES</span><span class="collection">ONE COLLECTION</span></h1>
     </section>
     <section id="showcase" aria-label="Arcade showcase video">
       <figure class="screen">
@@ -51,7 +50,7 @@
 
     </section>
     <section class="games" id="games" aria-labelledby="games-title">
-      <div class="section-title"><h2 id="games-title">PLAY THE GAMES</h2><p>All eight games are free to play directly in your browser.</p></div>
+      <div class="section-title"><h2 id="games-title">PLAY THE GAMES</h2><p>All 8 games are free to play directly in your browser.</p></div>
       <div class="grid">
         <a class="game" href="https://nateofspades.github.io/4_Block_Theory_Game/"><img src="./media/block.jpg" alt="" loading="lazy" width="300" height="150"><div class="game-copy"><small>01 / FALLING BLOCKS</small><h3>4 Block Theory</h3><p>Rotate falling shapes, stack strategically, and clear complete rows.</p><span class="play">Play Game ↗</span></div></a>
         <a class="game" href="https://nateofspades.github.io/Chromatic_Cure_Game/"><img src="./media/chromatic.jpg" alt="" loading="lazy" width="300" height="150"><div class="game-copy"><small>02 / COLOR PUZZLE</small><h3>Chromatic Cure</h3><p>Match colored facets, trigger chain reactions, and clear anchored sockets.</p><span class="play">Play Game ↗</span></div></a>
@@ -64,7 +63,7 @@
       </div>
     </section>
   </main>
-  <footer><p>Created by Nathan Burns. Browser games developed using Hermes AI Agent and Codex. Showcase video produced using HyperFrames.</p></footer>
+
 </div>
 </body>
 </html>
