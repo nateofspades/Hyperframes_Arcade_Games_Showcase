@@ -1,4 +1,4 @@
-# HyperFrames Arcade Game Showcase
+# HyperFrames Arcade Games Showcase
 
 [**▶ Watch the Hyperframes video that showcases the 8 games**](https://nateofspades.github.io/Hyperframes_Arcade_Games_Showcase/)
 
