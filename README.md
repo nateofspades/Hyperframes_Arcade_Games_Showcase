@@ -2,7 +2,7 @@
 
 [**▶ Watch the Hyperframes video that showcases the 8 games**](https://nateofspades.github.io/Hyperframes_Arcade_Games_Showcase/)
 
-Editable HyperFrames source code for a promotional video featuring eight original browser-based arcade games by Nathan Burns (`nateofspades`). This repository preserves the **existing** showcase: its HTML compositions, CSS, GSAP animation code, gameplay recordings, stills, original instrumental music and production scripts. It does not recreate the video from its rendered MP4.
+Editable HyperFrames source code for a promotional video featuring eight original browser-based arcade games. This repository preserves the **existing** showcase: its HTML compositions, CSS, GSAP animation code, gameplay recordings, stills, original instrumental music and production scripts. It does not recreate the video from its rendered MP4.
 
 ![Showcase opening: 8 Arcade Games, One Collection, with all eight games](site/media/poster.jpg)
 
