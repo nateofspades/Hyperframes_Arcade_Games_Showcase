@@ -2,7 +2,9 @@
 
 [**▶ Watch the HyperFrames video that showcases the 8 games**](https://nateofspades.github.io/Hyperframes_Arcade_Games_Showcase/)
 
-Editable HyperFrames source code for a promotional video featuring eight original browser-based arcade games. This repository preserves the **existing** showcase: its HTML compositions, CSS, GSAP animation code, gameplay recordings, stills, original instrumental music and production scripts. It does not recreate the video from its rendered MP4.
+A 90-second video showcasing eight browser-based arcade games I created using the Hermes AI Agent and OpenAI Codex. Produced with HyperFrames, the video combines real gameplay footage, HTML/CSS and GSAP animations, and original instrumental music.
+
+This repository contains the editable HyperFrames project, including its source code and production assets.
 
 ![Showcase opening: 8 Arcade Games, One Collection, with all eight games](site/media/poster.jpg)
 
