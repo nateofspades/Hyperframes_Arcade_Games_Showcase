@@ -10,7 +10,7 @@ This repository contains the editable HyperFrames project, including its source 
 
 ## Play the 8 games
 
-All 8 games are  accessible from the page containing the video. They are also accessible in the table in the Overview below.
+All 8 games are  accessible from the page linked above. They are also accessible in the table in the Overview below.
 
 ## Overview
 
