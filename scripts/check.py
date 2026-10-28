@@ -1,10 +1,15 @@
 #!/usr/bin/env python3
-"""Full source timeline covered by three bounded runtime/layout/contrast audits."""
+"""Full source timeline covered by bounded runtime/layout/contrast audits."""
 from pathlib import Path
 import json,subprocess,os
 root=Path(__file__).resolve().parents[1]
 (root/'evidence').mkdir(exist_ok=True)
-for i,(span,at) in enumerate([('0,32','2,9,18,27'),('32,68','36,45,54,63'),('68,90','70,76,81,86')],1):
+# The CLI has a fixed 120-second audit deadline. Aim's overlapping timed
+# media require expensive pixel occlusion probes, so audit each mini-game
+# separately, retaining every original sample and all audit types.
+ranges=[('0,32','2,9,18,27'),('32,68','36,45,54,63'),
+        ('68,74','70'),('74,79','76'),('79,83','81'),('83,90','86')]
+for i,(span,at) in enumerate(ranges,1):
     cmd=['npx','--yes','hyperframes@0.8.186','check','--json','--snapshots','--samples','1','--range',span,'--at',at,'--timeout','90000']
     p=subprocess.run(cmd,cwd=root,env={**os.environ,'HYPERFRAMES_NO_TELEMETRY':'1'},capture_output=True,text=True)
     (root/f'evidence/check-{i}.json').write_text(p.stdout)

@@ -1,0 +1,680 @@
+{
+  "url": "https://nateofspades.github.io/Float_Tweet_Bounce_Game/",
+  "clip": {
+    "x": 563,
+    "y": 230,
+    "width": 474,
+    "height": 840
+  },
+  "fps": 30,
+  "seconds": 14,
+  "warmup_seconds": 8,
+  "actions": [],
+  "states": [
+    {
+      "frame": 0,
+      "state": {
+        "state": "playing",
+        "bird": {
+          "x": 92,
+          "y": 392.28888888888855,
+          "vy": -257.33333333333354,
+          "radius": 14,
+          "rotation": -0.45
+        },
+        "pipes": [
+          {
+            "x": 135.8333333333316,
+            "gapY": 318.69922856962455,
+            "gap": 164,
+            "scored": false
+          },
+          {
+            "x": 349.82333333333366,
+            "gapY": 110.273707797769,
+            "gap": 162.55,
+            "scored": false
+          }
+        ],
+        "config": {
+          "width": 360,
+          "height": 640,
+          "groundY": 580,
+          "birdX": 92,
+          "birdRadius": 14,
+          "gravity": 1120,
+          "flapVelocity": -360,
+          "pipeWidth": 64,
+          "baseGap": 164,
+          "minGap": 118,
+          "baseSpeed": 112,
+          "maxSpeed": 190,
+          "pipeSpacing": 214,
+          "fixedStep": 0.008333333333333333,
+          "gapTopMargin": 105,
+          "gapBottomMargin": 65
+        },
+        "score": 1,
+        "elapsed": 5.025000000000039
+      }
+    },
+    {
+      "frame": 30,
+      "state": {
+        "state": "playing",
+        "bird": {
+          "x": 92,
+          "y": 377.4999999999995,
+          "vy": 153.33333333333323,
+          "radius": 14,
+          "rotation": 0.3066666666666665
+        },
+        "pipes": [
+          {
+            "x": 19.889999999998505,
+            "gapY": 318.69922856962455,
+            "gap": 164,
+            "scored": true
+          },
+          {
+            "x": 233.88000000000196,
+            "gapY": 110.273707797769,
+            "gap": 162.55,
+            "scored": false
+          }
+        ],
+        "config": {
+          "width": 360,
+          "height": 640,
+          "groundY": 580,
+          "birdX": 92,
+          "birdRadius": 14,
+          "gravity": 1120,
+          "flapVelocity": -360,
+          "pipeWidth": 64,
+          "baseGap": 164,
+          "minGap": 118,
+          "baseSpeed": 112,
+          "maxSpeed": 190,
+          "pipeSpacing": 214,
+          "fixedStep": 0.008333333333333333,
+          "gapTopMargin": 105,
+          "gapBottomMargin": 65
+        },
+        "score": 2,
+        "elapsed": 6.033333333333423
+      }
+    },
+    {
+      "frame": 60,
+      "state": {
+        "state": "playing",
+        "bird": {
+          "x": 92,
+          "y": 182.66666666666617,
+          "vy": -257.33333333333354,
+          "radius": 14,
+          "rotation": -0.45
+        },
+        "pipes": [
+          {
+            "x": 117.26000000000302,
+            "gapY": 110.273707797769,
+            "gap": 162.55,
+            "scored": false
+          },
+          {
+            "x": 331.7399999999993,
+            "gapY": 240.51777763672405,
+            "gap": 161.1,
+            "scored": false
+          }
+        ],
+        "config": {
+          "width": 360,
+          "height": 640,
+          "groundY": 580,
+          "birdX": 92,
+          "birdRadius": 14,
+          "gravity": 1120,
+          "flapVelocity": -360,
+          "pipeWidth": 64,
+          "baseGap": 164,
+          "minGap": 118,
+          "baseSpeed": 112,
+          "maxSpeed": 190,
+          "pipeSpacing": 214,
+          "fixedStep": 0.008333333333333333,
+          "gapTopMargin": 105,
+          "gapBottomMargin": 65
+        },
+        "score": 2,
+        "elapsed": 7.025000000000139
+      }
+    },
+    {
+      "frame": 90,
+      "state": {
+        "state": "playing",
+        "bird": {
+          "x": 92,
+          "y": 167.8777777777772,
+          "vy": 153.33333333333323,
+          "radius": 14,
+          "rotation": 0.3066666666666665
+        },
+        "pipes": [
+          {
+            "x": -1.9966666666637751,
+            "gapY": 110.273707797769,
+            "gap": 162.55,
+            "scored": true
+          },
+          {
+            "x": 212.4833333333315,
+            "gapY": 240.51777763672405,
+            "gap": 161.1,
+            "scored": false
+          }
+        ],
+        "config": {
+          "width": 360,
+          "height": 640,
+          "groundY": 580,
+          "birdX": 92,
+          "birdRadius": 14,
+          "gravity": 1120,
+          "flapVelocity": -360,
+          "pipeWidth": 64,
+          "baseGap": 164,
+          "minGap": 118,
+          "baseSpeed": 112,
+          "maxSpeed": 190,
+          "pipeSpacing": 214,
+          "fixedStep": 0.008333333333333333,
+          "gapTopMargin": 105,
+          "gapBottomMargin": 65
+        },
+        "score": 3,
+        "elapsed": 8.033333333333518
+      }
+    },
+    {
+      "frame": 120,
+      "state": {
+        "state": "playing",
+        "bird": {
+          "x": 92,
+          "y": 317.67777777777707,
+          "vy": 265.3333333333333,
+          "radius": 14,
+          "rotation": 0.5306666666666666
+        },
+        "pipes": [
+          {
+            "x": 93.0866666666652,
+            "gapY": 240.51777763672405,
+            "gap": 161.1,
+            "scored": false
+          },
+          {
+            "x": 306.79666666666685,
+            "gapY": 301.2802950269629,
+            "gap": 159.65,
+            "scored": false
+          }
+        ],
+        "config": {
+          "width": 360,
+          "height": 640,
+          "groundY": 580,
+          "birdX": 92,
+          "birdRadius": 14,
+          "gravity": 1120,
+          "flapVelocity": -360,
+          "pipeWidth": 64,
+          "baseGap": 164,
+          "minGap": 118,
+          "baseSpeed": 112,
+          "maxSpeed": 190,
+          "pipeSpacing": 214,
+          "fixedStep": 0.008333333333333333,
+          "gapTopMargin": 105,
+          "gapBottomMargin": 65
+        },
+        "score": 3,
+        "elapsed": 9.025000000000128
+      }
+    },
+    {
+      "frame": 150,
+      "state": {
+        "state": "playing",
+        "bird": {
+          "x": 92,
+          "y": 367.91111111111024,
+          "vy": -201.33333333333348,
+          "radius": 14,
+          "rotation": -0.40266666666666695
+        },
+        "pipes": [
+          {
+            "x": -29.623333333334646,
+            "gapY": 240.51777763672405,
+            "gap": 161.1,
+            "scored": true
+          },
+          {
+            "x": 184.08666666666682,
+            "gapY": 301.2802950269629,
+            "gap": 159.65,
+            "scored": false
+          }
+        ],
+        "config": {
+          "width": 360,
+          "height": 640,
+          "groundY": 580,
+          "birdX": 92,
+          "birdRadius": 14,
+          "gravity": 1120,
+          "flapVelocity": -360,
+          "pipeWidth": 64,
+          "baseGap": 164,
+          "minGap": 118,
+          "baseSpeed": 112,
+          "maxSpeed": 190,
+          "pipeSpacing": 214,
+          "fixedStep": 0.008333333333333333,
+          "gapTopMargin": 105,
+          "gapBottomMargin": 65
+        },
+        "score": 4,
+        "elapsed": 10.033333333333404
+      }
+    },
+    {
+      "frame": 180,
+      "state": {
+        "state": "playing",
+        "bird": {
+          "x": 92,
+          "y": 370.2444444444434,
+          "vy": 190.6666666666666,
+          "radius": 14,
+          "rotation": 0.3813333333333332
+        },
+        "pipes": [
+          {
+            "x": 61.91333333333301,
+            "gapY": 301.2802950269629,
+            "gap": 159.65,
+            "scored": false
+          },
+          {
+            "x": 275.6000000000022,
+            "gapY": 230.4977967663483,
+            "gap": 158.2,
+            "scored": false
+          }
+        ],
+        "config": {
+          "width": 360,
+          "height": 640,
+          "groundY": 580,
+          "birdX": 92,
+          "birdRadius": 14,
+          "gravity": 1120,
+          "flapVelocity": -360,
+          "pipeWidth": 64,
+          "baseGap": 164,
+          "minGap": 118,
+          "baseSpeed": 112,
+          "maxSpeed": 190,
+          "pipeSpacing": 214,
+          "fixedStep": 0.008333333333333333,
+          "gapTopMargin": 105,
+          "gapBottomMargin": 65
+        },
+        "score": 4,
+        "elapsed": 11.025000000000015
+      }
+    },
+    {
+      "frame": 210,
+      "state": {
+        "state": "playing",
+        "bird": {
+          "x": 92,
+          "y": 320.4555555555544,
+          "vy": 209.3333333333333,
+          "radius": 14,
+          "rotation": 0.4186666666666666
+        },
+        "pipes": [
+          {
+            "x": -64.34333333333352,
+            "gapY": 301.2802950269629,
+            "gap": 159.65,
+            "scored": true
+          },
+          {
+            "x": 149.34333333333493,
+            "gapY": 230.4977967663483,
+            "gap": 158.2,
+            "scored": false
+          },
+          {
+            "x": 363.79999999999995,
+            "gapY": 235.58111856091963,
+            "gap": 156.75,
+            "scored": false
+          }
+        ],
+        "config": {
+          "width": 360,
+          "height": 640,
+          "groundY": 580,
+          "birdX": 92,
+          "birdRadius": 14,
+          "gravity": 1120,
+          "flapVelocity": -360,
+          "pipeWidth": 64,
+          "baseGap": 164,
+          "minGap": 118,
+          "baseSpeed": 112,
+          "maxSpeed": 190,
+          "pipeSpacing": 214,
+          "fixedStep": 0.008333333333333333,
+          "gapTopMargin": 105,
+          "gapBottomMargin": 65
+        },
+        "score": 5,
+        "elapsed": 12.03333333333329
+      }
+    },
+    {
+      "frame": 240,
+      "state": {
+        "state": "playing",
+        "bird": {
+          "x": 92,
+          "y": 280.78888888888747,
+          "vy": -24.000000000000107,
+          "radius": 14,
+          "rotation": -0.048000000000000216
+        },
+        "pipes": [
+          {
+            "x": 24.32333333333495,
+            "gapY": 230.4977967663483,
+            "gap": 158.2,
+            "scored": true
+          },
+          {
+            "x": 238.77999999999867,
+            "gapY": 235.58111856091963,
+            "gap": 156.75,
+            "scored": false
+          }
+        ],
+        "config": {
+          "width": 360,
+          "height": 640,
+          "groundY": 580,
+          "birdX": 92,
+          "birdRadius": 14,
+          "gravity": 1120,
+          "flapVelocity": -360,
+          "pipeWidth": 64,
+          "baseGap": 164,
+          "minGap": 118,
+          "baseSpeed": 112,
+          "maxSpeed": 190,
+          "pipeSpacing": 214,
+          "fixedStep": 0.008333333333333333,
+          "gapTopMargin": 105,
+          "gapBottomMargin": 65
+        },
+        "score": 6,
+        "elapsed": 13.0249999999999
+      }
+    },
+    {
+      "frame": 270,
+      "state": {
+        "state": "playing",
+        "bird": {
+          "x": 92,
+          "y": 327.91111111110956,
+          "vy": -322.66666666666674,
+          "radius": 14,
+          "rotation": -0.45
+        },
+        "pipes": [
+          {
+            "x": 108.90666666666627,
+            "gapY": 235.58111856091963,
+            "gap": 156.75,
+            "scored": false
+          },
+          {
+            "x": 322.9200000000004,
+            "gapY": 159.14714121770527,
+            "gap": 155.3,
+            "scored": false
+          }
+        ],
+        "config": {
+          "width": 360,
+          "height": 640,
+          "groundY": 580,
+          "birdX": 92,
+          "birdRadius": 14,
+          "gravity": 1120,
+          "flapVelocity": -360,
+          "pipeWidth": 64,
+          "baseGap": 164,
+          "minGap": 118,
+          "baseSpeed": 112,
+          "maxSpeed": 190,
+          "pipeSpacing": 214,
+          "fixedStep": 0.008333333333333333,
+          "gapTopMargin": 105,
+          "gapBottomMargin": 65
+        },
+        "score": 6,
+        "elapsed": 14.033333333333177
+      }
+    },
+    {
+      "frame": 300,
+      "state": {
+        "state": "playing",
+        "bird": {
+          "x": 92,
+          "y": 260.94444444444275,
+          "vy": -294.6666666666668,
+          "radius": 14,
+          "rotation": -0.45
+        },
+        "pipes": [
+          {
+            "x": -19.823333333333856,
+            "gapY": 235.58111856091963,
+            "gap": 156.75,
+            "scored": true
+          },
+          {
+            "x": 194.19000000000128,
+            "gapY": 159.14714121770527,
+            "gap": 155.3,
+            "scored": false
+          }
+        ],
+        "config": {
+          "width": 360,
+          "height": 640,
+          "groundY": 580,
+          "birdX": 92,
+          "birdRadius": 14,
+          "gravity": 1120,
+          "flapVelocity": -360,
+          "pipeWidth": 64,
+          "baseGap": 164,
+          "minGap": 118,
+          "baseSpeed": 112,
+          "maxSpeed": 190,
+          "pipeSpacing": 214,
+          "fixedStep": 0.008333333333333333,
+          "gapTopMargin": 105,
+          "gapBottomMargin": 65
+        },
+        "score": 7,
+        "elapsed": 15.024999999999787
+      }
+    },
+    {
+      "frame": 330,
+      "state": {
+        "state": "playing",
+        "bird": {
+          "x": 92,
+          "y": 220.0222222222204,
+          "vy": 209.3333333333333,
+          "radius": 14,
+          "rotation": 0.4186666666666666
+        },
+        "pipes": [
+          {
+            "x": 61.49333333333493,
+            "gapY": 159.14714121770527,
+            "gap": 155.3,
+            "scored": false
+          },
+          {
+            "x": 275.87999999999784,
+            "gapY": 231.8582635366662,
+            "gap": 153.85,
+            "scored": false
+          }
+        ],
+        "config": {
+          "width": 360,
+          "height": 640,
+          "groundY": 580,
+          "birdX": 92,
+          "birdRadius": 14,
+          "gravity": 1120,
+          "flapVelocity": -360,
+          "pipeWidth": 64,
+          "baseGap": 164,
+          "minGap": 118,
+          "baseSpeed": 112,
+          "maxSpeed": 190,
+          "pipeSpacing": 214,
+          "fixedStep": 0.008333333333333333,
+          "gapTopMargin": 105,
+          "gapBottomMargin": 65
+        },
+        "score": 7,
+        "elapsed": 16.033333333333065
+      }
+    },
+    {
+      "frame": 360,
+      "state": {
+        "state": "playing",
+        "bird": {
+          "x": 92,
+          "y": 313.8222222222203,
+          "vy": -294.6666666666668,
+          "radius": 14,
+          "rotation": -0.45
+        },
+        "pipes": [
+          {
+            "x": 143.32333333333034,
+            "gapY": 231.8582635366662,
+            "gap": 153.85,
+            "scored": false
+          },
+          {
+            "x": 356.79999999999995,
+            "gapY": 281.9305872208845,
+            "gap": 152.4,
+            "scored": false
+          }
+        ],
+        "config": {
+          "width": 360,
+          "height": 640,
+          "groundY": 580,
+          "birdX": 92,
+          "birdRadius": 14,
+          "gravity": 1120,
+          "flapVelocity": -360,
+          "pipeWidth": 64,
+          "baseGap": 164,
+          "minGap": 118,
+          "baseSpeed": 112,
+          "maxSpeed": 190,
+          "pipeSpacing": 214,
+          "fixedStep": 0.008333333333333333,
+          "gapTopMargin": 105,
+          "gapBottomMargin": 65
+        },
+        "score": 8,
+        "elapsed": 17.024999999999675
+      }
+    },
+    {
+      "frame": 390,
+      "state": {
+        "state": "playing",
+        "bird": {
+          "x": 92,
+          "y": 283.39999999999793,
+          "vy": 125.33333333333321,
+          "radius": 14,
+          "rotation": 0.2506666666666664
+        },
+        "pipes": [
+          {
+            "x": 7.383333333330085,
+            "gapY": 231.8582635366662,
+            "gap": 153.85,
+            "scored": true
+          },
+          {
+            "x": 220.85999999999927,
+            "gapY": 281.9305872208845,
+            "gap": 152.4,
+            "scored": false
+          }
+        ],
+        "config": {
+          "width": 360,
+          "height": 640,
+          "groundY": 580,
+          "birdX": 92,
+          "birdRadius": 14,
+          "gravity": 1120,
+          "flapVelocity": -360,
+          "pipeWidth": 64,
+          "baseGap": 164,
+          "minGap": 118,
+          "baseSpeed": 112,
+          "maxSpeed": 190,
+          "pipeSpacing": 214,
+          "fixedStep": 0.008333333333333333,
+          "gapTopMargin": 105,
+          "gapBottomMargin": 65
+        },
+        "score": 9,
+        "elapsed": 18.03333333333295
+      }
+    }
+  ],
+  "presentation": "Capture-only CSS places real HUD above board; state and mechanics unmodified."
+}

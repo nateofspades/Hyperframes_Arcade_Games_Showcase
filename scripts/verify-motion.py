@@ -3,6 +3,10 @@
 import pathlib,subprocess,json,sys
 root=pathlib.Path(__file__).resolve().parents[1]; video=root/(sys.argv[1] if len(sys.argv)>1 else 'Arcade_Games_Showcase.mp4')
 shots=[('4 Block Theory',6,12,(1000,80,460,920)),('Chromatic Cure',15,21,(1000,80,460,920)),('Rally Reactor',24,30,(190,252,1540,704)),('Orb Onslaught',33,39,(190,252,1540,704)),('Float Tweet Bounce',42,48,(990,80,518,920)),('Serpent Supper',51,57,(864,130,888,888)),('BrikaVolt',60,66,(942,80,736,920)),('Aim Alley: Target Practice',69,72,(190,252,1540,704)),('Aim Alley: Moving Targets',75,77,(190,252,1540,704)),('Aim Alley: Precision Shooting',80,82,(190,252,1540,704))]
+regions=root/'docs/revision-gameplay-regions.json'
+if regions.exists():
+ revised=json.loads(regions.read_text())
+ shots=[(name,t1,t2,revised.get(name,rect)) for name,t1,t2,rect in shots]
 def frame(t,rect):
  x,y,w,h=rect
  return subprocess.check_output(['ffmpeg','-hide_banner','-loglevel','error','-threads','1','-ss',str(t),'-i',str(video),'-vf',f'crop={w}:{h}:{x}:{y},scale=320:180,format=gray','-frames:v','1','-f','rawvideo','pipe:1'])

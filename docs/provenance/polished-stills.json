@@ -1,0 +1,37 @@
+{
+  "purpose": "Authentic closing-grid stills; foreground pixels ungraded; backdrops receive canonical HyperFrames blur/exposure only.",
+  "shots": {
+    "block": {
+      "source": "assets/footage/polished/block.mp4",
+      "time": 4.6
+    },
+    "chromatic": {
+      "source": "assets/footage/polished/chromatic.mp4",
+      "time": 7.6
+    },
+    "rally": {
+      "source": "assets/footage/revision/rally.mp4",
+      "time": 5
+    },
+    "orb": {
+      "source": "assets/footage/revision/orb-native.mp4",
+      "time": 7
+    },
+    "float": {
+      "source": "assets/footage/polished/float.mp4",
+      "time": 6
+    },
+    "serpent": {
+      "source": "assets/footage/polished/serpent.mp4",
+      "time": 6
+    },
+    "brika": {
+      "source": "assets/footage/polished/brika.mp4",
+      "time": 8
+    },
+    "aim": {
+      "source": "assets/footage/revision/aimmoving.mp4",
+      "time": 3
+    }
+  }
+}

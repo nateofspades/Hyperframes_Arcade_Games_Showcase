@@ -1,0 +1,344 @@
+{
+  "assets": [
+    {
+      "path": "assets/cursors/aim-native-crosshair.png",
+      "bytes": 434,
+      "sha256": "eb31f566a8a2644449f7d1fda4359357550fc0cb22cd4df5b80a0ff0cd88d121",
+      "included_in_project": true,
+      "provenance": "docs/FINAL_VISUAL_REVISION.md"
+    },
+    {
+      "path": "assets/footage/revision/aimmoving.mp4",
+      "bytes": 582971,
+      "sha256": "e2b9fdb9ff2207847f9cf2b0e86da515cdedfeeb196dd356c40ddd1fc1d06ba0",
+      "included_in_project": true,
+      "provenance": "docs/FINAL_VISUAL_REVISION.md",
+      "duration_seconds": 8.0,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 1052,
+          "height": 700,
+          "avg_frame_rate": "30/1"
+        }
+      ]
+    },
+    {
+      "path": "assets/footage/revision/aimpractice.mp4",
+      "bytes": 276863,
+      "sha256": "029b2f9cb3a03b33b50ac0b2fa3907eefe7176de82a29435b164ba779f4b5303",
+      "included_in_project": true,
+      "provenance": "docs/FINAL_VISUAL_REVISION.md",
+      "duration_seconds": 8.0,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 1052,
+          "height": 700,
+          "avg_frame_rate": "30/1"
+        }
+      ]
+    },
+    {
+      "path": "assets/footage/revision/aimprecision.mp4",
+      "bytes": 245137,
+      "sha256": "3195c18fd11cdfead5e6d7472d4648378479ae8735604ee6864a57fb667f83cf",
+      "included_in_project": true,
+      "provenance": "docs/FINAL_VISUAL_REVISION.md",
+      "duration_seconds": 8.0,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 1052,
+          "height": 700,
+          "avg_frame_rate": "30/1"
+        }
+      ]
+    },
+    {
+      "path": "assets/footage/revision/block.mp4",
+      "bytes": 1001737,
+      "sha256": "e2158621a4b45b3e96b6deb27af3ed7aaaf70e9be762f6c416f97b2220c639fa",
+      "included_in_project": true,
+      "provenance": "docs/FINAL_VISUAL_REVISION.md",
+      "duration_seconds": 13.0,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 570,
+          "height": 936,
+          "avg_frame_rate": "30/1"
+        }
+      ]
+    },
+    {
+      "path": "assets/footage/revision/chromatic.mp4",
+      "bytes": 510148,
+      "sha256": "e6496328cd455c98c075fa5d9075fa67acd2ac0693d2c99268dba63eaa1695ae",
+      "included_in_project": true,
+      "provenance": "docs/FINAL_VISUAL_REVISION.md",
+      "duration_seconds": 13.0,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 672,
+          "height": 678,
+          "avg_frame_rate": "30/1"
+        }
+      ]
+    },
+    {
+      "path": "assets/footage/revision/orb-native.mp4",
+      "bytes": 819895,
+      "sha256": "eccc3d4451d7428df98b8f83995d5dde67fdf07327a4944d550225051a6b958f",
+      "included_in_project": true,
+      "provenance": "docs/FINAL_VISUAL_REVISION.md",
+      "duration_seconds": 13.0,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 840,
+          "height": 500,
+          "avg_frame_rate": "30/1"
+        }
+      ]
+    },
+    {
+      "path": "assets/footage/revision/orb.mp4",
+      "bytes": 960406,
+      "sha256": "b1bf5b850f31ed97298b32a18ca9b0cf952a3324ae0268bc86aa7faf850d6f0d",
+      "included_in_project": true,
+      "provenance": "docs/FINAL_VISUAL_REVISION.md",
+      "duration_seconds": 15.3,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 840,
+          "height": 500,
+          "avg_frame_rate": "30/1"
+        }
+      ]
+    },
+    {
+      "path": "assets/footage/revision/rally.mp4",
+      "bytes": 432750,
+      "sha256": "b0c0076a17d93cbdf2c4ef8944d0f1e72276dc790e56dd854330e968bcd3752b",
+      "included_in_project": true,
+      "provenance": "docs/FINAL_VISUAL_REVISION.md",
+      "duration_seconds": 13.0,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 1056,
+          "height": 704,
+          "avg_frame_rate": "30/1"
+        }
+      ]
+    },
+    {
+      "path": "assets/footage/polished/block.mp4",
+      "bytes": 462776,
+      "sha256": "691fdbae22e73b3392faa0b3349f4c043021ad65f761eb627ce28b5c2f586c39",
+      "included_in_project": true,
+      "provenance": "docs/FINAL_VISUAL_REVISION.md",
+      "duration_seconds": 14.0,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 380,
+          "height": 834,
+          "avg_frame_rate": "30/1"
+        }
+      ]
+    },
+    {
+      "path": "assets/footage/polished/brika.mp4",
+      "bytes": 723735,
+      "sha256": "a131d96511255648c7a235cf9518d6d9c6c50431c3240693dcc90dc7fffb6854",
+      "included_in_project": true,
+      "provenance": "docs/FINAL_VISUAL_REVISION.md",
+      "duration_seconds": 14.0,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 676,
+          "height": 896,
+          "avg_frame_rate": "30/1"
+        }
+      ]
+    },
+    {
+      "path": "assets/footage/polished/chromatic.mp4",
+      "bytes": 314896,
+      "sha256": "bfd81e149dd96fef24db3a51134edf0e659277961e17fb4e16a625cd22339ea9",
+      "included_in_project": true,
+      "provenance": "docs/FINAL_VISUAL_REVISION.md",
+      "duration_seconds": 14.0,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 316,
+          "height": 706,
+          "avg_frame_rate": "30/1"
+        }
+      ]
+    },
+    {
+      "path": "assets/footage/polished/float.mp4",
+      "bytes": 1568964,
+      "sha256": "b15fbe992b2b4bf83453237454b4ee004569860127223ee47173ef5b2f0530e2",
+      "included_in_project": true,
+      "provenance": "docs/FINAL_VISUAL_REVISION.md",
+      "duration_seconds": 14.0,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 474,
+          "height": 840,
+          "avg_frame_rate": "30/1"
+        }
+      ]
+    },
+    {
+      "path": "assets/footage/polished/serpent.mp4",
+      "bytes": 431204,
+      "sha256": "e45e663a92923d2e5e3ca9f05ceae093bcb17110d40f0ca370677dccf8ce0d80",
+      "included_in_project": true,
+      "provenance": "docs/FINAL_VISUAL_REVISION.md",
+      "duration_seconds": 14.0,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 510,
+          "height": 554,
+          "avg_frame_rate": "30/1"
+        }
+      ]
+    },
+    {
+      "path": "assets/stills/polished/aim-backdrop.jpg",
+      "bytes": 3799,
+      "sha256": "d04e5efa59b8dbe7f170d305afb877efbf35c89a20973f766236bd56bc6fdee6",
+      "included_in_project": true,
+      "provenance": "docs/FINAL_VISUAL_REVISION.md"
+    },
+    {
+      "path": "assets/stills/polished/aim.jpg",
+      "bytes": 46563,
+      "sha256": "e4b2dc3c932c424e0a9fc2c1238ae316420f3300b5ae40d4c85f34b7097f256f",
+      "included_in_project": true,
+      "provenance": "docs/FINAL_VISUAL_REVISION.md"
+    },
+    {
+      "path": "assets/stills/polished/block-backdrop.jpg",
+      "bytes": 1236,
+      "sha256": "f081d1a05118ce46c38d205940b4c44e6e6c58a96d0454456a95c76c3b65cc43",
+      "included_in_project": true,
+      "provenance": "docs/FINAL_VISUAL_REVISION.md"
+    },
+    {
+      "path": "assets/stills/polished/block.jpg",
+      "bytes": 23013,
+      "sha256": "0c4e3ccfd06460ea99e0a13d614ebcbb3cee16f51ce0060e04001cae0dbf5fbd",
+      "included_in_project": true,
+      "provenance": "docs/FINAL_VISUAL_REVISION.md"
+    },
+    {
+      "path": "assets/stills/polished/brika-backdrop.jpg",
+      "bytes": 2243,
+      "sha256": "fdbe61f95c687b7b545c7ca6f0bd324ccc4ca0a5bf6d911c54241029f355329b",
+      "included_in_project": true,
+      "provenance": "docs/FINAL_VISUAL_REVISION.md"
+    },
+    {
+      "path": "assets/stills/polished/brika.jpg",
+      "bytes": 43697,
+      "sha256": "d5b79847d7098f9a49dea721f1784ceca146cab9c0186fa0f30cc06e30ff8d4e",
+      "included_in_project": true,
+      "provenance": "docs/FINAL_VISUAL_REVISION.md"
+    },
+    {
+      "path": "assets/stills/polished/chromatic-backdrop.jpg",
+      "bytes": 1656,
+      "sha256": "4da763789b1ceff13541657e0a9d9627a091079503ad9e19b6237c31ad03b7af",
+      "included_in_project": true,
+      "provenance": "docs/FINAL_VISUAL_REVISION.md"
+    },
+    {
+      "path": "assets/stills/polished/chromatic.jpg",
+      "bytes": 23718,
+      "sha256": "6240e1f5b3bc05625bff0967779ee63f1824d28c9789cc2cc41a1875ace7217b",
+      "included_in_project": true,
+      "provenance": "docs/FINAL_VISUAL_REVISION.md"
+    },
+    {
+      "path": "assets/stills/polished/float-backdrop.jpg",
+      "bytes": 2921,
+      "sha256": "f12e1daa3ac25b8609a1c0c9725bc73e5ecfea1ec0e19c8678a8de96ae43854e",
+      "included_in_project": true,
+      "provenance": "docs/FINAL_VISUAL_REVISION.md"
+    },
+    {
+      "path": "assets/stills/polished/float.jpg",
+      "bytes": 41262,
+      "sha256": "e405f73f53f78d7fc9ba3badfa02736cec3d1cf46923c7a1bf18c90592c37e0c",
+      "included_in_project": true,
+      "provenance": "docs/FINAL_VISUAL_REVISION.md"
+    },
+    {
+      "path": "assets/stills/polished/orb-backdrop.jpg",
+      "bytes": 4194,
+      "sha256": "4c8372f171729cd255025d97ef547f0aedc3a038660b01d08f5d87a727859304",
+      "included_in_project": true,
+      "provenance": "docs/FINAL_VISUAL_REVISION.md"
+    },
+    {
+      "path": "assets/stills/polished/orb.jpg",
+      "bytes": 32516,
+      "sha256": "485d063951fbbe3cacff70cb6d7665c3daecfb8f2c63f87d16f91b640afa9a0d",
+      "included_in_project": true,
+      "provenance": "docs/FINAL_VISUAL_REVISION.md"
+    },
+    {
+      "path": "assets/stills/polished/rally-backdrop.jpg",
+      "bytes": 2593,
+      "sha256": "6724404bf730eda7f41ede5d28c6e6f2ea827a463dc1ee5933dcbf54303f2b70",
+      "included_in_project": true,
+      "provenance": "docs/FINAL_VISUAL_REVISION.md"
+    },
+    {
+      "path": "assets/stills/polished/rally.jpg",
+      "bytes": 41548,
+      "sha256": "2b27b479078ac197ad1bc22d533369b836e37ab4c856f83902de0322dae6a779",
+      "included_in_project": true,
+      "provenance": "docs/FINAL_VISUAL_REVISION.md"
+    },
+    {
+      "path": "assets/stills/polished/serpent-backdrop.jpg",
+      "bytes": 3684,
+      "sha256": "12be7f3d76b49688af7f104f1a05cdcccddb22c31c6011e923cf045d2a13799d",
+      "included_in_project": true,
+      "provenance": "docs/FINAL_VISUAL_REVISION.md"
+    },
+    {
+      "path": "assets/stills/polished/serpent.jpg",
+      "bytes": 22567,
+      "sha256": "394b88917b5b4c286770af755d4f842557f615d43c8bf3adf44f48c46334459e",
+      "included_in_project": true,
+      "provenance": "docs/FINAL_VISUAL_REVISION.md"
+    }
+  ]
+}

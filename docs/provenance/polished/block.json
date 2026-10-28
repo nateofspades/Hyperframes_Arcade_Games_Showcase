@@ -1,0 +1,5903 @@
+{
+  "url": "https://nateofspades.github.io/4_Block_Theory_Game/",
+  "clip": {
+    "x": 515,
+    "y": 228,
+    "width": 380,
+    "height": 834
+  },
+  "fps": 30,
+  "seconds": 14,
+  "warmup_seconds": 65,
+  "actions": [
+    {
+      "frame": 8,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 15,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 22,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 29,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 32,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 35,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 38,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 41,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 44,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 47,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 50,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 53,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 56,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 59,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 62,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 65,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 68,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 71,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 74,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 77,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 80,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 91,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 98,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 105,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 112,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 119,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 122,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 125,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 128,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 131,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 134,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 137,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 140,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 143,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 146,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 149,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 152,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 155,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 158,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 161,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 164,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 175,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 182,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 189,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 192,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 195,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 198,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 201,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 204,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 207,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 210,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 213,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 216,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 219,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 222,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 225,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 228,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 231,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 234,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 237,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 240,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 251,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 258,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 261,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 264,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 267,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 270,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 273,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 276,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 279,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 282,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 285,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 288,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 291,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 294,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 297,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 300,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 303,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 306,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 317,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 324,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 327,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 330,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 333,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 336,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 339,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 342,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 345,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 348,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 351,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 354,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 357,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 360,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 363,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 366,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 369,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 372,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 375,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 386,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 393,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 396,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 399,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 402,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 405,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 408,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 411,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 414,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 417,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 420,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 423,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 426,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 429,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 432,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 435,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 438,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 449,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 459,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 466,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 473,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 480,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 487,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 494,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 497,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 500,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 503,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 506,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 509,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 512,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 515,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 518,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 521,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 524,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 527,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 530,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 533,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 536,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 547,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 557,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 564,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 571,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 578,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 581,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 584,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 587,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 590,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 593,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 596,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 599,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 602,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 605,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 608,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 611,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 614,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 617,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 620,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 623,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 634,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 641,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 648,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 651,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 654,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 657,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 660,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 663,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 666,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 669,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 672,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 675,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 678,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 681,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 684,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 687,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 690,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 693,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 696,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 707,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 717,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 727,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 734,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 741,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 748,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 755,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 758,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 761,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 764,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 767,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 770,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 773,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 776,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 779,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 782,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 785,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 788,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 791,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 794,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 797,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 808,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 815,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 822,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 825,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 828,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 831,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 834,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 837,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 840,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 843,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 846,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 849,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 852,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 855,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 858,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 861,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 864,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 867,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 870,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 873,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 884,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 891,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 898,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 905,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 912,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 915,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 918,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 921,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 924,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 927,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 930,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 933,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 936,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 939,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 942,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 945,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 948,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 951,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 954,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 957,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 968,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 978,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 988,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 995,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 1002,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 1009,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1012,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1015,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1018,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1021,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1024,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1027,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1030,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1033,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1036,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1039,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1042,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1045,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1048,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1051,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1054,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1065,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1068,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1071,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1074,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1077,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1080,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1083,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1086,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1089,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1092,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1095,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1098,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1101,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1104,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1107,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1110,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1113,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1116,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1127,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 1137,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 1147,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 1154,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 1161,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1164,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1167,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1170,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1173,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1176,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1179,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1182,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1185,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1188,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1191,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1194,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1197,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1200,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1203,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1214,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 1224,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1227,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1230,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1233,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1236,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1239,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1242,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1245,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1248,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1251,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1254,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1257,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1260,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1263,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1266,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1269,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1272,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1283,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 1293,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 1300,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 1307,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 1314,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 1321,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 1328,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1331,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1334,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1337,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1340,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1343,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1346,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1349,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1352,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1355,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1358,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1361,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1364,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1367,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1378,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 1385,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 1392,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1395,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1398,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1401,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1404,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1407,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1410,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1413,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1416,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1419,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1422,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1425,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1428,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1431,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1434,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1437,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1440,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1451,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 1458,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 1465,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 1472,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 1479,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1482,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1485,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1488,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1491,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1494,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1497,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1500,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1503,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1506,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1509,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1512,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1515,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1518,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1521,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1524,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1527,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1538,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 1548,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 1555,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 1562,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 1569,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1572,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1575,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1578,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1581,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1584,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1587,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1590,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1593,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1596,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1599,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1602,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1605,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1608,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1611,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1622,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 1632,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 1639,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 1646,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1649,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1652,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1655,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1658,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1661,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1664,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1667,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1670,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1673,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1676,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1679,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1682,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1685,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1688,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1691,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1694,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1705,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 1712,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1715,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1718,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1721,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1724,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1727,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1730,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1733,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1736,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1739,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1742,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1745,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1748,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1751,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1754,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1757,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1760,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1771,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 1778,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1781,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1784,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1787,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1790,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1793,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1796,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1799,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1802,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1805,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1808,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1811,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1814,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1817,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1820,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1823,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1834,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 1841,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 1848,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 1855,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1858,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1861,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1864,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1867,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1870,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1873,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1876,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1879,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1882,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1885,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1888,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1891,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1894,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1897,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1900,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1911,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 1921,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 1931,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 1938,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 1945,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 1952,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 1959,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1962,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1965,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1968,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1971,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1974,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1977,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1980,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1983,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1986,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1989,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1992,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1995,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1998,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2001,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2012,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 2019,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 2026,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2029,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2032,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2035,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2038,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2041,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2044,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2047,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2050,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2053,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2056,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2059,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2062,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2065,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2068,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2071,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2074,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2077,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2088,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 2098,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 2108,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 2115,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 2122,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2125,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2128,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2131,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2134,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2137,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2140,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2143,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2146,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2149,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2152,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2155,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2158,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2161,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2164,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2175,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 2182,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 2189,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 2196,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2199,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2202,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2205,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2208,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2211,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2214,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2217,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2220,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2223,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2226,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2229,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2232,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2235,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2238,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2241,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2252,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 2262,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 2269,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 2276,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 2283,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 2290,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2293,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2296,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2299,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2302,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2305,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2308,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2311,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2314,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2317,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2320,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2323,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2326,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2329,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2332,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2343,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 2350,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2353,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2356,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2359,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2362,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2365,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2368,
+      "key": "ArrowDown"
+    }
+  ],
+  "states": [
+    {
+      "frame": 0,
+      "state": {
+        "state": "playing",
+        "active": {
+          "type": "J",
+          "rotation": 2,
+          "x": 6,
+          "y": 1
+        },
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            "O",
+            "O",
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "I",
+            "L",
+            "S",
+            "O",
+            "O",
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "I",
+            "L",
+            "L",
+            "S",
+            "T",
+            "Z",
+            "Z",
+            "Z",
+            "Z",
+            null
+          ]
+        ],
+        "nextType": "S",
+        "score": 1174,
+        "lines": 8
+      }
+    },
+    {
+      "frame": 30,
+      "state": {
+        "state": "playing",
+        "active": {
+          "type": "J",
+          "rotation": 2,
+          "x": 7,
+          "y": 10
+        },
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            "O",
+            "O",
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "I",
+            "L",
+            "S",
+            "O",
+            "O",
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "I",
+            "L",
+            "L",
+            "S",
+            "T",
+            "Z",
+            "Z",
+            "Z",
+            "Z",
+            null
+          ]
+        ],
+        "nextType": "S",
+        "score": 1182,
+        "lines": 8
+      }
+    },
+    {
+      "frame": 60,
+      "state": {
+        "state": "playing",
+        "active": {
+          "type": "S",
+          "rotation": 0,
+          "x": 3,
+          "y": -1
+        },
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            "O",
+            "O",
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "I",
+            "L",
+            "S",
+            "O",
+            "O",
+            null,
+            null,
+            "J",
+            "J",
+            "J"
+          ]
+        ],
+        "nextType": "L",
+        "score": 1288,
+        "lines": 9
+      }
+    },
+    {
+      "frame": 90,
+      "state": {
+        "state": "playing",
+        "active": {
+          "type": "S",
+          "rotation": 0,
+          "x": 5,
+          "y": 5
+        },
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            "O",
+            "O",
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "I",
+            "L",
+            "S",
+            "O",
+            "O",
+            null,
+            null,
+            "J",
+            "J",
+            "J"
+          ]
+        ],
+        "nextType": "L",
+        "score": 1293,
+        "lines": 9
+      }
+    },
+    {
+      "frame": 120,
+      "state": {
+        "state": "playing",
+        "active": {
+          "type": "S",
+          "rotation": 0,
+          "x": 5,
+          "y": 16
+        },
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            "O",
+            "O",
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "I",
+            "L",
+            "S",
+            "O",
+            "O",
+            null,
+            null,
+            "J",
+            "J",
+            "J"
+          ]
+        ],
+        "nextType": "L",
+        "score": 1303,
+        "lines": 9
+      }
+    },
+    {
+      "frame": 150,
+      "state": {
+        "state": "playing",
+        "active": {
+          "type": "L",
+          "rotation": 2,
+          "x": 3,
+          "y": 1
+        },
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            "O",
+            "O",
+            null,
+            "S",
+            "S",
+            null,
+            null
+          ]
+        ],
+        "nextType": "T",
+        "score": 1405,
+        "lines": 10
+      }
+    },
+    {
+      "frame": 180,
+      "state": {
+        "state": "playing",
+        "active": {
+          "type": "L",
+          "rotation": 2,
+          "x": 5,
+          "y": 5
+        },
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            "O",
+            "O",
+            null,
+            "S",
+            "S",
+            null,
+            null
+          ]
+        ],
+        "nextType": "T",
+        "score": 1408,
+        "lines": 10
+      }
+    },
+    {
+      "frame": 210,
+      "state": {
+        "state": "playing",
+        "active": {
+          "type": "L",
+          "rotation": 2,
+          "x": 5,
+          "y": 16
+        },
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            "O",
+            "O",
+            null,
+            "S",
+            "S",
+            null,
+            null
+          ]
+        ],
+        "nextType": "T",
+        "score": 1418,
+        "lines": 10
+      }
+    },
+    {
+      "frame": 240,
+      "state": {
+        "state": "playing",
+        "active": {
+          "type": "T",
+          "rotation": 0,
+          "x": 0,
+          "y": 1
+        },
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            "L",
+            "L",
+            "L",
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            "O",
+            "O",
+            "L",
+            "S",
+            "S",
+            null,
+            null
+          ]
+        ],
+        "nextType": "L",
+        "score": 1419,
+        "lines": 10
+      }
+    },
+    {
+      "frame": 270,
+      "state": {
+        "state": "playing",
+        "active": {
+          "type": "T",
+          "rotation": 0,
+          "x": 0,
+          "y": 11
+        },
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            "L",
+            "L",
+            "L",
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            "O",
+            "O",
+            "L",
+            "S",
+            "S",
+            null,
+            null
+          ]
+        ],
+        "nextType": "L",
+        "score": 1428,
+        "lines": 10
+      }
+    },
+    {
+      "frame": 300,
+      "state": {
+        "state": "playing",
+        "active": {
+          "type": "L",
+          "rotation": 0,
+          "x": 3,
+          "y": -1
+        },
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            "T",
+            null,
+            null,
+            null,
+            "L",
+            "L",
+            "L",
+            null,
+            null
+          ],
+          [
+            "T",
+            "T",
+            "T",
+            "O",
+            "O",
+            "L",
+            "S",
+            "S",
+            null,
+            null
+          ]
+        ],
+        "nextType": "T",
+        "score": 1434,
+        "lines": 10
+      }
+    },
+    {
+      "frame": 330,
+      "state": {
+        "state": "playing",
+        "active": {
+          "type": "L",
+          "rotation": 1,
+          "x": 6,
+          "y": 1
+        },
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            "T",
+            null,
+            null,
+            null,
+            "L",
+            "L",
+            "L",
+            null,
+            null
+          ],
+          [
+            "T",
+            "T",
+            "T",
+            "O",
+            "O",
+            "L",
+            "S",
+            "S",
+            null,
+            null
+          ]
+        ],
+        "nextType": "T",
+        "score": 1434,
+        "lines": 10
+      }
+    },
+    {
+      "frame": 360,
+      "state": {
+        "state": "playing",
+        "active": {
+          "type": "L",
+          "rotation": 1,
+          "x": 7,
+          "y": 9
+        },
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            "T",
+            null,
+            null,
+            null,
+            "L",
+            "L",
+            "L",
+            null,
+            null
+          ],
+          [
+            "T",
+            "T",
+            "T",
+            "O",
+            "O",
+            "L",
+            "S",
+            "S",
+            null,
+            null
+          ]
+        ],
+        "nextType": "T",
+        "score": 1441,
+        "lines": 10
+      }
+    },
+    {
+      "frame": 390,
+      "state": {
+        "state": "playing",
+        "active": {
+          "type": "T",
+          "rotation": 0,
+          "x": 3,
+          "y": -1
+        },
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "L",
+            null
+          ],
+          [
+            null,
+            "T",
+            null,
+            null,
+            null,
+            "L",
+            "L",
+            "L",
+            "L",
+            null
+          ]
+        ],
+        "nextType": "S",
+        "score": 1648,
+        "lines": 11
+      }
+    }
+  ],
+  "presentation": "Capture-only CSS places real HUD above board; state and mechanics unmodified."
+}

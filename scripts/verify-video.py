@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Verify actual delivered streams, decode representative frames and build contact sheet."""
-import json, subprocess, pathlib, sys, hashlib
+import json, subprocess, pathlib, sys, hashlib, re
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 video=ROOT/(sys.argv[1] if len(sys.argv)>1 else 'Arcade_Games_Showcase.mp4')
 evidence=ROOT/'evidence'; evidence.mkdir(exist_ok=True)
@@ -10,17 +10,23 @@ v=next(x for x in probe['streams'] if x['codec_type']=='video');a=next(x for x i
 assert v['codec_name']=='h264' and a['codec_name']=='aac',probe
 assert (v['width'],v['height'])==(1920,1080),v
 assert v['avg_frame_rate']=='30/1',v
+assert int(v['nb_frames'])==2700,v
+assert a['channels']==2 and a['sample_rate']=='48000',a
 from validation_rules import validate_baseline_duration, reject_black_intervals
 validate_baseline_duration(probe['format']['duration'])
 assert video.stat().st_size>1000000
 probe['sha256']=hashlib.file_digest(video.open('rb'),'sha256').hexdigest()
 games=json.loads((ROOT/'scenes.json').read_text())
 for g in games:
-    keys=['aimpractice','aimmoving','aimprecision'] if g['id']=='aim' else [g['id']]
-    for key in keys:
-        capture=json.loads((ROOT/'docs/provenance'/f'{key}.json').read_text())
+    source=(ROOT/'compositions'/f"{g['id']}.html").read_text()
+    media=re.findall(r'<video\b[^>]*\bsrc="([^"]+)"',source)
+    assert len(media)==(3 if g['id']=='aim' else 1),g['id']
+    for rel in media:
+        asset=ROOT/rel;key=asset.stem.removesuffix('-native')
+        folder='polished' if '/polished/' in rel else 'revision' if '/revision/' in rel else ''
+        capture=json.loads((ROOT/'docs/provenance'/folder/f'{key}.json').read_text())
         assert capture['fps']==30 and capture['states'],key
-        assert (ROOT/'assets/footage'/f'{key}.mp4').stat().st_size>10000,key
+        assert asset.stat().st_size>10000,key
 probe['verified_game_titles']=[g['title'] for g in games]
 probe['source_capture_count']=len({g['title'] for g in games})
 assert probe['source_capture_count']==8

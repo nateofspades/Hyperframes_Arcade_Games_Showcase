@@ -1,1 +1,58 @@
-<template><style>*{box-sizing:border-box;margin:0}#root{position:absolute;inset:0;color:#f4f7ff;font-family:Inter,sans-serif}.bg{position:absolute;inset:0;background:#080e1c}.bg:before{content:'';position:absolute;inset:0;background:linear-gradient(115deg,transparent 48%,color-mix(in srgb,var(--accent) 9%,transparent) 48.1%,transparent 85%)}.bg:after{content:'';position:absolute;left:0;bottom:0;width:100%;height:180px;background:repeating-linear-gradient(0deg,transparent 0 58px,#192239 59px 60px);opacity:.55}.title{font-family:'Archivo Black',Inter,sans-serif;letter-spacing:-4px;line-height:1.08;font-weight:900}.eyebrow{font-size:30px;font-weight:650;letter-spacing:4px;color:var(--accent)}.mechanic{font-size:32px;color:#c5cfdf;letter-spacing:1px}.accent{color:var(--accent)}.stage{position:absolute;overflow:hidden;background:#0b1325;border:2px solid #2a3851;box-shadow:0 0 0 10px #0c1425,0 28px 65px #0008}video{width:100%;height:100%;object-fit:contain;position:absolute;inset:0}.edge{position:absolute;left:0;top:0;width:100%;height:4px;background:var(--accent)}.progress{position:absolute;left:96px;bottom:47px;width:1728px;height:3px;background:#243149}.progress span{display:block;height:100%;background:var(--accent);transform-origin:0 50%}</style><div data-hf-id="hf-1v8j" id="root" data-composition-id="aim" data-width="1920" data-height="1080" style="--accent:#ffb970"><div data-hf-id="hf-m7dd" class="bg"></div><p data-hf-id="hf-bpj5" class="eyebrow" style="position:absolute;left:160px;top:61px">THREE CHALLENGES IN ACTION</p><h1 data-hf-id="hf-b3hx" id="aim-title" class="title" style="position:absolute;left:160px;top:106px;font-size:76px;white-space:nowrap">Aim Alley Arcade</h1><p data-hf-id="hf-ak7c" class="mechanic" style="position:absolute;left:190px;top:988px">15 MINI-GAMES / ONE ARCADE</p><div data-hf-id="hf-bj2u" id="aim-stage" class="stage" style="left:190px;top:252px;width:1540px;height:704px"><video data-hf-id="hf-erig" id="aim-practice-video" class="clip" src="assets/footage/aimpractice.mp4" muted playsinline data-hf-media-start-basis="local" data-start="0" data-duration="6" data-media-start="0" data-track-index="1"></video><video data-hf-id="hf-7e8b" id="aim-moving-video" class="clip" src="assets/footage/aimmoving.mp4" muted playsinline data-hf-media-start-basis="local" data-start="6" data-duration="5" data-media-start="0.5" data-track-index="2"></video><video data-hf-id="hf-xp34" id="aim-precision-video" class="clip" src="assets/footage/aimprecision.mp4" muted playsinline data-hf-media-start-basis="local" data-start="11" data-duration="4" data-media-start="0.2" data-track-index="3"></video><div data-hf-id="hf-4eqf" class="edge"></div></div><div data-hf-id="hf-xeb3" id="aim-label-0" class="clip" data-start="0" data-duration="6" data-track-index="5" style="position:absolute;right:190px;top:185px;font-size:30px;color:#ffb970;text-align:right">TARGET PRACTICE</div><div data-hf-id="hf-p7hd" id="aim-label-1" class="clip" data-start="6" data-duration="5" data-track-index="5" style="position:absolute;right:190px;top:185px;font-size:30px;color:#ffb970;text-align:right">MOVING TARGETS</div><div data-hf-id="hf-4ogs" id="aim-label-2" class="clip" data-start="11" data-duration="4" data-track-index="5" style="position:absolute;right:190px;top:185px;font-size:30px;color:#ffb970;text-align:right">PRECISION SHOOTING</div><div data-hf-id="hf-31j5" class="progress"><span data-hf-id="hf-5sfv" id="aim-progress"></span></div></div><script>const tl=gsap.timeline({paused:true});tl.fromTo('#aim-title',{clipPath:'inset(0 100% 0 0)'},{clipPath:'inset(0 0% 0 0)',duration:.55,ease:'power3.out'},.12);tl.fromTo('#aim-stage',{opacity:0},{opacity:1,duration:.18,ease:'none'},.04);tl.fromTo('#aim-progress',{scaleX:0},{scaleX:1,duration:14.9,ease:'none'},0);window.__timelines['aim']=tl;</script></template>
+<template>
+<!-- Shared partials are embedded to preserve HyperFrames template mounting and editable markup. -->
+<!-- game-segment:styles:start -->
+<style>
+/* Canonical gameplay layout. Embedded by scripts/sync-game-segments.mjs.
+   Inline copies keep template/shadow mounting, font discovery and Studio editing reliable. */
+* { box-sizing: border-box; margin: 0; }
+#root { position: absolute; inset: 0; color: #fff; font-family: Inter, sans-serif; }
+.bg { position: absolute; inset: 0; background: #080e1c; }
+.bg::before { content: ''; position: absolute; inset: 0; background: linear-gradient(115deg, transparent 48%, color-mix(in srgb, var(--accent) 9%, transparent) 48.1%, transparent 85%); }
+.bg::after { content: ''; position: absolute; left: 0; bottom: 0; width: 100%; height: 180px; background: repeating-linear-gradient(0deg, transparent 0 58px, #192239 59px 60px); opacity: .55; }
+.game-copy { position: absolute; left: 150px; top: 267px; width: 620px; }
+.game-line { width: 95px; height: 5px; margin-bottom: 28px; background: var(--accent); transform-origin: 0 50%; }
+.game-title { width: 620px; min-height: 162px; color: #fff; font: 900 72px/1.12 'Archivo Black', Inter, sans-serif; letter-spacing: -2px; overflow-wrap: normal; }
+.game-description { width: 620px; margin-top: 28px; color: var(--accent); font: 400 32px/1.5 Inter, sans-serif; letter-spacing: 0; }
+.stage { position: absolute; left: 860px; top: 120px; width: var(--stage-width); height: var(--stage-height); box-sizing: content-box; border: 2px solid color-mix(in srgb, var(--accent) 30%, #2a3851); border-radius: 0; background: transparent; box-shadow: 0 18px 44px #0006; overflow: hidden; }
+.stage video { display: block; position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; }
+</style>
+<!-- game-segment:styles:end -->
+<div data-hf-id="hf-1v8j" id="root" data-composition-id="aim" data-width="1920" data-height="1080" style="--accent:#ffb970;--stage-width:956.000000px;--stage-height:636.121673px" data-composition-variables='[{&quot;id&quot;:&quot;game-title&quot;,&quot;type&quot;:&quot;string&quot;,&quot;label&quot;:&quot;Game title&quot;,&quot;default&quot;:&quot;Aim Alley Arcade&quot;},{&quot;id&quot;:&quot;game-description&quot;,&quot;type&quot;:&quot;string&quot;,&quot;label&quot;:&quot;Game description&quot;,&quot;default&quot;:&quot;Test your speed and accuracy across 15 distinct shooting mini-games.&quot;},{&quot;id&quot;:&quot;accent&quot;,&quot;type&quot;:&quot;color&quot;,&quot;label&quot;:&quot;Game accent&quot;,&quot;default&quot;:&quot;#ffb970&quot;}]'>
+  <div data-hf-id="hf-m7dd" class="bg"></div>
+  <div data-hf-id="hf-x4a9" id="aim-copy" class="game-copy clip" data-start="0" data-duration="15" data-track-index="4">
+    <div data-hf-id="hf-tvwq" id="aim-line" class="game-line" aria-hidden="true"></div>
+    <h1 data-hf-id="hf-b3hx" id="aim-title" class="game-title" data-var-text="game-title">Aim Alley Arcade</h1>
+    <p data-hf-id="hf-ak7c" id="aim-description" class="game-description" data-var-text="game-description">Test your speed and accuracy across 15 distinct shooting mini-games.</p>
+  </div>
+  <div data-hf-id="hf-bj2u" id="aim-stage" class="stage" style="top:219.939164px">
+    <video data-hf-id="hf-erig" id="aim-practice-video" class="clip" src="assets/footage/revision/aimpractice.mp4" muted playsinline data-hf-media-start-basis="local" data-start="0" data-duration="6" data-media-start="0" data-track-index="1"></video>
+    <video data-hf-id="hf-7e8b" id="aim-moving-video" class="clip" src="assets/footage/revision/aimmoving.mp4" muted playsinline data-hf-media-start-basis="local" data-start="6" data-duration="5" data-media-start="0.5" data-track-index="2"></video>
+    <video data-hf-id="hf-xp34" id="aim-precision-video" class="clip" src="assets/footage/revision/aimprecision.mp4" muted playsinline data-hf-media-start-basis="local" data-start="11" data-duration="4" data-media-start="0.2" data-track-index="3"></video>
+  </div>
+</div>
+<!-- game-segment:motion:start -->
+<script>
+// Canonical seek-safe motion template, embedded by scripts/sync-game-segments.mjs.
+// Tokens are replaced at source time; authored HTML remains the editable content.
+const tl = gsap.timeline({ paused: true });
+tl.fromTo('#aim-line',
+  { scaleX: 0, opacity: 0 },
+  { scaleX: 1, opacity: 1, duration: .35, ease: 'power3.out' }, .08);
+tl.fromTo('#aim-title',
+  { y: 18, opacity: 0 },
+  { y: 0, opacity: 1, duration: .4, ease: 'power3.out' }, .18);
+tl.fromTo('#aim-description',
+  { y: 14, opacity: 0 },
+  { y: 0, opacity: 1, duration: .45, ease: 'power3.out' }, .3);
+tl.fromTo('#aim-stage',
+  { opacity: 0 },
+  { opacity: 1, duration: .4, ease: 'power2.out' }, .04);
+// End before the host's exclusive end. No media playback/seek calls.
+tl.to('#aim-description', { y: -10, opacity: 0, duration: .4, ease: 'power2.inOut' }, 15 - .65);
+tl.to('#aim-title', { y: -12, opacity: 0, duration: .4, ease: 'power2.inOut' }, 15 - .57);
+tl.to('#aim-line', { scaleX: 0, opacity: 0, duration: .35, ease: 'power2.inOut' }, 15 - .49);
+tl.to('#aim-stage', { opacity: 0, duration: .4, ease: 'power2.inOut' }, 15 - .45);
+window.__timelines['aim'] = tl;
+</script>
+<!-- game-segment:motion:end -->
+</template>

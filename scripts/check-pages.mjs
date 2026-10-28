@@ -6,6 +6,7 @@ import fs from 'node:fs';
 // One browser, one page at a time: do not overlap this with HyperFrames capture.
 const url = process.argv[2] || 'http://127.0.0.1:3019/';
 const label = (process.argv[3] || 'local').replace(/[^a-zA-Z0-9_-]/g, '-');
+const expectedSource = fs.readFileSync(new URL('../site/index.html',import.meta.url),'utf8').match(/<source src="([^"]+)"/)[1];
 const viewports = [
   {width:1920,height:1080}, {width:1366,height:768},
   {width:768,height:1024}, {width:390,height:844}, {width:320,height:568},
@@ -123,7 +124,7 @@ try {
         controls:v.controls,autoplay:v.autoplay,inline:v.playsInline,preload:v.preload,
         source:v.querySelector('source').getAttribute('src'),poster:v.getAttribute('poster'),
       }));
-      assert.deepEqual(info,{controls:true,autoplay:false,inline:true,preload:'metadata',source:'./media/showcase.mp4',poster:'./media/poster.jpg'});
+      assert.deepEqual(info,{controls:true,autoplay:false,inline:true,preload:'metadata',source:expectedSource,poster:'./media/poster.jpg'});
       // Decode the real poster and font, not only a successful stylesheet response.
       await page.evaluate(async () => {
         const poster = new Image();poster.src=document.querySelector('video').poster;await poster.decode();

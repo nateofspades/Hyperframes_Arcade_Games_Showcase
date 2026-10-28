@@ -1,0 +1,4883 @@
+{
+  "url": "https://nateofspades.github.io/Chromatic_Cure_Game/",
+  "clip": {
+    "x": 476,
+    "y": 39,
+    "width": 316,
+    "height": 706
+  },
+  "fps": 30,
+  "seconds": 14,
+  "warmup_seconds": 55,
+  "actions": [
+    {
+      "frame": 9,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 12,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 19,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 26,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 29,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 32,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 35,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 38,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 41,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 44,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 47,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 50,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 62,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 65,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 72,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 79,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 82,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 85,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 88,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 91,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 94,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 97,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 100,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 112,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 115,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 125,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 135,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 145,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 152,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 159,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 162,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 165,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 168,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 171,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 183,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 186,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 193,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 196,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 199,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 202,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 205,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 208,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 211,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 214,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 217,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 220,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 232,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 235,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 245,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 252,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 259,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 262,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 265,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 268,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 271,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 274,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 286,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 289,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 299,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 309,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 316,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 323,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 326,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 329,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 332,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 335,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 347,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 350,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 360,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 370,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 377,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 384,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 387,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 390,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 393,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 396,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 399,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 402,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 414,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 417,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 427,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 437,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 447,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 454,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 461,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 464,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 467,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 470,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 473,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 476,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 479,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 482,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 485,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 497,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 500,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 510,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 520,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 530,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 537,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 544,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 547,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 550,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 553,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 556,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 559,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 562,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 565,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 568,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 571,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 574,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 577,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 580,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 583,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 586,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 598,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 601,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 611,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 621,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 628,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 631,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 634,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 637,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 649,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 652,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 662,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 672,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 682,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 689,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 696,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 699,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 702,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 705,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 708,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 720,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 723,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 726,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 729,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 732,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 735,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 738,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 741,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 744,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 747,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 750,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 753,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 756,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 759,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 762,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 765,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 777,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 780,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 787,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 790,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 793,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 796,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 799,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 802,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 805,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 808,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 811,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 814,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 817,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 820,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 823,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 826,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 829,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 832,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 844,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 847,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 854,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 861,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 864,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 867,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 870,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 882,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 885,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 892,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 899,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 902,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 905,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 908,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 911,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 914,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 917,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 920,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 923,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 926,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 929,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 932,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 935,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 947,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 950,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 960,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 970,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 980,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 987,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 994,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 997,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1000,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1003,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1006,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1009,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1012,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1015,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1018,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1021,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1024,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1036,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1039,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 1049,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 1059,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 1069,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 1076,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1079,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1082,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1085,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1088,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1091,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1094,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1097,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1100,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1103,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1106,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1109,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1112,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1115,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1118,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1121,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1124,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1127,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1139,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1142,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 1152,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 1159,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 1166,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1169,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1172,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1175,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1178,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1181,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1184,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1187,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1190,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1193,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1196,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1199,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1202,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1214,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1217,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1220,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1223,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1226,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1229,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1232,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1235,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1238,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1241,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1244,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1247,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1250,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1253,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1256,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1268,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1271,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 1278,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 1285,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 1292,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1295,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1298,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1301,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1304,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1307,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1319,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1322,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 1332,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 1342,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 1352,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 1359,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 1366,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 1373,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 1380,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1383,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1386,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1389,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1392,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1395,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1398,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1401,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1404,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1407,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1410,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1413,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1425,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1428,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 1438,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 1448,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 1458,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 1465,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 1472,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 1479,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 1486,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1489,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1492,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1495,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1498,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1501,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1504,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1507,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1510,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1513,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1516,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1519,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1531,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1534,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 1544,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 1554,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 1564,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 1571,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1574,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1577,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1580,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1583,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1586,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1589,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1592,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1595,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1598,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1601,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1604,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1616,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1619,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 1626,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1629,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1632,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1635,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1638,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1641,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1644,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1647,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1650,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1653,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1656,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1659,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1662,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1665,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1668,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1671,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1683,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1686,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 1696,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 1706,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 1716,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 1723,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1726,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1729,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1732,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1735,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1738,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1741,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1744,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1747,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1750,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1753,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1756,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1759,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1762,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1765,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1768,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1780,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1783,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 1793,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 1803,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 1813,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 1820,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 1827,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 1834,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 1841,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1844,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1847,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1850,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1853,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1856,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1859,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1862,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1865,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1868,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1871,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1874,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1877,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1880,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1892,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1895,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 1905,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 1915,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1918,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1921,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1924,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1927,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1930,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1933,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1936,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1939,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1942,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1945,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1948,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1951,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1954,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1957,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1960,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1972,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 1975,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 1985,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 1995,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 2005,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 2012,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 2019,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 2026,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 2033,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2036,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2039,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2042,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2045,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2048,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2051,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2054,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2057,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2060,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2063,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2066,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 2069,
+      "key": "ArrowDown"
+    }
+  ],
+  "states": [
+    {
+      "frame": 0,
+      "state": {
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            }
+          ],
+          [
+            null,
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            }
+          ],
+          [
+            null,
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            }
+          ]
+        ],
+        "active": null,
+        "score": 980,
+        "viruses": 2,
+        "overlay": false
+      }
+    },
+    {
+      "frame": 30,
+      "state": {
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            }
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            }
+          ],
+          [
+            null,
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            }
+          ]
+        ],
+        "active": {
+          "x": 3,
+          "y": 0,
+          "dir": 0,
+          "colors": [
+            1,
+            2
+          ]
+        },
+        "score": 1020,
+        "viruses": 2,
+        "overlay": false
+      }
+    },
+    {
+      "frame": 60,
+      "state": {
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            }
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            }
+          ],
+          [
+            null,
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            }
+          ]
+        ],
+        "active": null,
+        "score": 1020,
+        "viruses": 2,
+        "overlay": false
+      }
+    },
+    {
+      "frame": 90,
+      "state": {
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            }
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            }
+          ],
+          [
+            null,
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            }
+          ]
+        ],
+        "active": null,
+        "score": 1020,
+        "viruses": 2,
+        "overlay": false
+      }
+    },
+    {
+      "frame": 120,
+      "state": {
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            }
+          ],
+          [
+            null,
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            }
+          ]
+        ],
+        "active": {
+          "x": 3,
+          "y": 0,
+          "dir": 0,
+          "colors": [
+            0,
+            0
+          ]
+        },
+        "score": 1060,
+        "viruses": 2,
+        "overlay": false
+      }
+    },
+    {
+      "frame": 150,
+      "state": {
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            }
+          ],
+          [
+            null,
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            }
+          ]
+        ],
+        "active": null,
+        "score": 1060,
+        "viruses": 2,
+        "overlay": false
+      }
+    },
+    {
+      "frame": 180,
+      "state": {
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            }
+          ],
+          [
+            null,
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            }
+          ]
+        ],
+        "active": null,
+        "score": 1060,
+        "viruses": 2,
+        "overlay": false
+      }
+    },
+    {
+      "frame": 210,
+      "state": {
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            }
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            }
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            }
+          ],
+          [
+            null,
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            }
+          ]
+        ],
+        "active": null,
+        "score": 1060,
+        "viruses": 2,
+        "overlay": false
+      }
+    },
+    {
+      "frame": 240,
+      "state": {
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            null
+          ],
+          [
+            null,
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            null
+          ]
+        ],
+        "active": {
+          "x": 3,
+          "y": 0,
+          "dir": 0,
+          "colors": [
+            1,
+            0
+          ]
+        },
+        "score": 1200,
+        "viruses": 1,
+        "overlay": false
+      }
+    },
+    {
+      "frame": 270,
+      "state": {
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            null
+          ],
+          [
+            null,
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            null
+          ]
+        ],
+        "active": null,
+        "score": 1200,
+        "viruses": 1,
+        "overlay": false
+      }
+    },
+    {
+      "frame": 300,
+      "state": {
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            null
+          ],
+          [
+            null,
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            null
+          ]
+        ],
+        "active": null,
+        "score": 1200,
+        "viruses": 1,
+        "overlay": false
+      }
+    },
+    {
+      "frame": 330,
+      "state": {
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            null
+          ]
+        ],
+        "active": null,
+        "score": 1240,
+        "viruses": 1,
+        "overlay": false
+      }
+    },
+    {
+      "frame": 360,
+      "state": {
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            null
+          ]
+        ],
+        "active": null,
+        "score": 1240,
+        "viruses": 1,
+        "overlay": false
+      }
+    },
+    {
+      "frame": 390,
+      "state": {
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            }
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            }
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            null
+          ]
+        ],
+        "active": null,
+        "score": 1240,
+        "viruses": 1,
+        "overlay": false
+      }
+    }
+  ],
+  "presentation": "Capture-only CSS places real HUD above board; state and mechanics unmodified."
+}

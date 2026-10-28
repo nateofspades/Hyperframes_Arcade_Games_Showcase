@@ -1,0 +1,25 @@
+{
+  "method": "One-frame HyperFrames PNG-sequence bake of canonical media-treatment; foreground gameplay unchanged",
+  "grading": {
+    "adjust": {
+      "exposure": -2
+    },
+    "effects": {
+      "blur": 0.45
+    }
+  },
+  "tile_size": [
+    388,
+    213
+  ],
+  "sources": {
+    "block": "assets/stills/polished/block.jpg",
+    "chromatic": "assets/stills/polished/chromatic.jpg",
+    "rally": "assets/stills/polished/rally.jpg",
+    "orb": "assets/stills/polished/orb.jpg",
+    "float": "assets/stills/polished/float.jpg",
+    "serpent": "assets/stills/polished/serpent.jpg",
+    "brika": "assets/stills/polished/brika.jpg",
+    "aim": "assets/stills/polished/aim.jpg"
+  }
+}
