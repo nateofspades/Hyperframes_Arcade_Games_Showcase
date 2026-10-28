@@ -6,11 +6,9 @@ Editable HyperFrames source code for a promotional video featuring eight origina
 
 ![Showcase opening: 8 Arcade Games, One Collection, with all eight games](site/media/poster.jpg)
 
-## Watch or download the video
+## Play the 8 games
 
-[**Download the revised showcase MP4**](https://github.com/nateofspades/Hyperframes_Arcade_Games_Showcase/releases/download/showcase-video-2026-10-23/Arcade_Games_Showcase-2026-10-23T21-07-10-088Z.mp4) — 90 seconds, 1080p, 30 FPS, with audio.
-
-Watch it in the [GitHub Pages video player](https://nateofspades.github.io/Hyperframes_Arcade_Games_Showcase/), or use the MP4 download above. The page also links to all eight playable games. Deployment copies the verified [GitHub release asset](https://github.com/nateofspades/Hyperframes_Arcade_Games_Showcase/releases/tag/showcase-video-2026-10-23) into the Pages artifact so the player streams directly from Pages, not a release-download redirect. Finished MP4s remain outside Git history.
+All 8 games are  accessible in the table in the Overview below.
 
 ## Overview
 
