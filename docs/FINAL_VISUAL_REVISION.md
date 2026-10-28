@@ -1,6 +1,6 @@
 # Final visual/gameplay revision
 
-Status: full delivery render and final local browser QA verified; revised MP4 released, Pages deployment pending.
+Status: completed, pushed and live; final render, deployed website, media bytes and all five responsive viewport tests verified.
 
 ## Preservation and scope
 
@@ -66,4 +66,18 @@ The static background treatments are baked once through an actual one-frame Hype
 - Final local Playwright QA passed all five requested viewport sizes against the new MP4, including real playback/pause/seek, exact card copy/colors, fonts/images, links and overflow/error checks.
 - The new public release asset's uploaded size and SHA-256 digest were read back from GitHub and matched the local MP4. The previous release remains intact.
 - Release: https://github.com/nateofspades/Hyperframes_Arcade_Games_Showcase/releases/tag/showcase-video-2026-10-28-final
-- Pages deployment and actual live browser/media-hash verification are pending.
+- Pages deployment succeeded for `400605917ded39781d9e2629698697c4916022d5`: https://github.com/nateofspades/Hyperframes_Arcade_Games_Showcase/actions/runs/40743592864
+
+## Live deployment verification
+
+- Live page: https://nateofspades.github.io/Hyperframes_Arcade_Games_Showcase/
+- Actual live HTML is byte-identical to the local tested website (SHA-256 `9294a74c998e4dd9259623da9d0b4e121cbc58d1b5dca1d6c9fe35b2af9974a5`). Thus all eight exact source/card descriptions also match the deployed cards.
+- The live versioned MP4 returned HTTP 200, `video/mp4`, 12,056,605 bytes and the exact verified render SHA-256 above. A real 1,024-byte range request returned HTTP 206. Visitors use `media/showcase.mp4?v=086e3b14cce0`.
+- Playwright passed the actual canonical live URL at 1920×1080, 1366×768, 768×1024, 390×844 and 320×568. Real video playback/pause/seek passed at every size. All eight game URLs returned HTTP 200. Exact text/colors, local font/image loads, focus/hover behavior, overflow and JavaScript/required-asset error checks passed. All five live screenshots and native-resolution mobile top crops were visually inspected.
+- Final independent source verification and all 15 regression tests passed again after rendering; strict full-file decode exited 0.
+- README SHA-256 remains `10611d222c07f9eef5496cda1243b5dd7eb847f0b002f7d4f2d211b36b0e524f`. It was never staged in any assignment commit. Neither README nor its embedded poster changed in the assignment's published commits. Its preserved older local bytes intentionally remain unstaged against the fetched README-only history.
+- Both preserved MP4 hashes still match their pre-edit values; the old GitHub release asset still exists with its original SHA-256. No individual game repository, deployment or engine was modified.
+
+## Limitations
+
+Browser QA uses Chromium/Playwright viewport emulation, not physical mobile devices or a separate Safari run. Gameplay is actual engine output driven by paced scripted inputs, not a claim of human-operated recording. Rally retains a brief genuine point/reset; Brika features single-ball rebounds/brick destruction rather than a guaranteed power-up or multiball moment. Native HUD terminology (such as Cycle and Anchors Left) is retained instead of inventing Level/Viruses counters. No known blocking delivery issue remains.
