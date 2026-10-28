@@ -1,6 +1,6 @@
 # Final visual/gameplay revision
 
-Status: source implementation, capture review, HyperFrames audits and short draft verified; full delivery render in progress, deployment pending.
+Status: full delivery render and final local browser QA verified; revised MP4 released, Pages deployment pending.
 
 ## Preservation and scope
 
@@ -15,7 +15,7 @@ Status: source implementation, capture review, HyperFrames audits and short draf
 
 ## Website
 
-Measured title coordinates and font sizes are scaled from `compositions/intro.html`, using a locally served Archivo Black font with its OFL license. Cyan web accents and all eight card titles use `#40ECEC`; the secondary branding line retains the opening's `#a996ff`. Category labels are removed. Existing cards, screenshots, destinations and controls remain. Chromatic Cure's exact requested description is shared with the video.
+Measured title coordinates and font sizes are scaled from `compositions/intro.html`, using a locally served Archivo Black font with its OFL license. Cyan web accents, the favicon and all eight card titles use `#40ECEC`; the secondary branding line retains the opening's `#a996ff`. Category labels are removed. Existing cards, screenshots, destinations and controls remain. Chromatic Cure's exact requested description is shared with the video. Versioned media/favicon URLs avoid stale browser caches.
 
 Local Playwright QA passed all five requested viewports, real MP4 playback/pause/seek, fonts/images, eight link HTTP checks, exact copy/colors, and no horizontal overflow/errors. The local QA server supports MP4 byte ranges, unlike Python's basic HTTP server.
 
@@ -52,4 +52,18 @@ The static background treatments are baked once through an actual one-frame Hype
 - Source verification passes for all 60 baseline/revision assets. Exact description/shared-source/media-aspect/trim checks pass. All eight source-footage motion sequences were decoded and visually inspected.
 - Card dimensions were compared against the pre-edit website at all five requested viewports: all 40 card comparisons had zero width/height delta after balancing padding around the removed labels.
 - Full `npm run check` passed all six bounded ranges and all 12 original sample times, with nonzero runtime/layout/contrast audits. Splitting Aim's three mini-games and baking the closing backdrops resolves the fixed 120-second audit deadline on this software-GPU VPS. No audit type or original sample is skipped. All 12 resulting composition snapshots, including the full closing screen, were visually inspected.
-- The actual short HyperFrames draft passed: 1920×1080, 2 seconds, 5 FPS, 10 frames, and unchanged master source. Its decoded frame was visually inspected. The editable preview returned HTTP 200. The full production render is running with one worker; final decoded/audio and live deployment verification remain pending.
+- The actual short HyperFrames draft passed: 1920×1080, 2 seconds, 5 FPS, 10 frames, and unchanged master source. Its decoded frame was visually inspected. The editable preview returned HTTP 200.
+
+## Verified delivery render
+
+- New MP4: `renders/Arcade_Games_Showcase-2026-10-28T15-43-04-812Z.mp4`.
+- SHA-256: `086e3b14cce03bf4185df93b5dfc9ab371bd9f58724a99599d41ee38be4451ba`.
+- Exactly 90.000000 seconds, 1920×1080, 30 FPS, 2,700 frames, H.264, stereo AAC at 48 kHz; 12,056,605 bytes.
+- Existing production settings and one worker retained. Software screenshot capture took 127m 22.7s. HyperFrames completed without best-effort recovery.
+- Full-file strict decode passed. Black-interval validation passed. All ten gameplay-only motion comparisons passed (eight games, including three Aim mini-games).
+- Decoded PCM audio is bit-identical to the previous published MP4: SHA-256 `7465c12a92f62749252a26e0cc4e083be352f76e8deb35fe6e9115ad01ded03d`. Soundtrack timing, fades and content are preserved.
+- The final decoded 12-frame contact sheet and ten four-frame gameplay motion strips were visually inspected: clean rectangular gameplay, genuine HUDs, native activity, consistent external title/description styling, and no clear rendering/crop/control-overlay defects. QA artifacts remain local under `evidence/final-revision/`.
+- Final local Playwright QA passed all five requested viewport sizes against the new MP4, including real playback/pause/seek, exact card copy/colors, fonts/images, links and overflow/error checks.
+- The new public release asset's uploaded size and SHA-256 digest were read back from GitHub and matched the local MP4. The previous release remains intact.
+- Release: https://github.com/nateofspades/Hyperframes_Arcade_Games_Showcase/releases/tag/showcase-video-2026-10-28-final
+- Pages deployment and actual live browser/media-hash verification are pending.

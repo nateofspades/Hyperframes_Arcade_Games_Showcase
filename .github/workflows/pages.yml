@@ -27,8 +27,8 @@ jobs:
         run: |
           mkdir -p "${RUNNER_TEMP}/arcade-pages"
           cp -R site/. "${RUNNER_TEMP}/arcade-pages/"
-          gh release download showcase-video-2026-10-23 --pattern Arcade_Games_Showcase-2026-10-23T21-07-10-088Z.mp4 --output "${RUNNER_TEMP}/arcade-pages/media/showcase.mp4"
-          python3 -c 'import hashlib,os,pathlib; p=pathlib.Path(os.environ["RUNNER_TEMP"])/"arcade-pages/media/showcase.mp4"; assert hashlib.sha256(p.read_bytes()).hexdigest()=="915c49ea5daecd2e0f1bded2190e1b916e43fd6d1c504d8f3099d4e320bf67c6", "Release video checksum mismatch"'
+          gh release download showcase-video-2026-10-28-final --pattern Arcade_Games_Showcase-2026-10-28T15-43-04-812Z.mp4 --output "${RUNNER_TEMP}/arcade-pages/media/showcase.mp4"
+          python3 -c 'import hashlib,os,pathlib; p=pathlib.Path(os.environ["RUNNER_TEMP"])/"arcade-pages/media/showcase.mp4"; assert hashlib.sha256(p.read_bytes()).hexdigest()=="086e3b14cce03bf4185df93b5dfc9ab371bd9f58724a99599d41ee38be4451ba", "Release video checksum mismatch"'
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ${{ runner.temp }}/arcade-pages
