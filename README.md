@@ -18,14 +18,14 @@ The reference film is 90 seconds, 1920 × 1080, 30 FPS, with H.264 video and AAC
 
 | Game | Reference scene | Play |
 | --- | --- | --- |
-| 4 Block Theory | 5–14 s | [Browser game](https://nateofspades.github.io/4_Block_Theory_Game/) |
-| Chromatic Cure | 14–23 s | [Browser game](https://nateofspades.github.io/Chromatic_Cure_Game/) |
-| Rally Reactor | 23–32 s | [Browser game](https://nateofspades.github.io/Rally_Reactor_Game/) |
-| Orb Onslaught | 32–41 s | [Browser game](https://nateofspades.github.io/Orb_Onslaught_Game/) |
-| Float Tweet Bounce | 41–50 s | [Browser game](https://nateofspades.github.io/Float_Tweet_Bounce_Game/) |
-| Serpent Supper | 50–59 s | [Browser game](https://nateofspades.github.io/Serpent_Supper_Game/) |
-| BrikaVolt | 59–68 s | [Browser game](https://nateofspades.github.io/BrikaVolt_Game/) |
-| Aim Alley Arcade | 68–83 s: Target Practice, Moving Targets, Precision Shooting | [Browser game](https://nateofspades.github.io/Aim_Alley_Arcade_Game/) |
+| 4 Block Theory | 5–14 s | [Play now](https://nateofspades.github.io/4_Block_Theory_Game/) |
+| Chromatic Cure | 14–23 s | [Play now](https://nateofspades.github.io/Chromatic_Cure_Game/) |
+| Rally Reactor | 23–32 s | [Play now](https://nateofspades.github.io/Rally_Reactor_Game/) |
+| Orb Onslaught | 32–41 s | [Play now](https://nateofspades.github.io/Orb_Onslaught_Game/) |
+| Float Tweet Bounce | 41–50 s | [Play now](https://nateofspades.github.io/Float_Tweet_Bounce_Game/) |
+| Serpent Supper | 50–59 s | [Play now](https://nateofspades.github.io/Serpent_Supper_Game/) |
+| BrikaVolt | 59–68 s | [Play now](https://nateofspades.github.io/BrikaVolt_Game/) |
+| Aim Alley Arcade | 68–83 s | [Play now](https://nateofspades.github.io/Aim_Alley_Arcade_Game/) |
 
 The opening runs 0–5 seconds; the final eight-game grid and invitation run 83–90 seconds. See [the decoded reference contact sheet](docs/images/original-contact-sheet.jpg).
 
