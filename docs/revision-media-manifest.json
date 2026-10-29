@@ -196,8 +196,8 @@
     },
     {
       "path": "assets/footage/polished/float.mp4",
-      "bytes": 12187310,
-      "sha256": "2adb62b42b9d00661a99d107b53c0cfe73941258d7c8d2f1cd4e49518c1e64cd",
+      "bytes": 12805908,
+      "sha256": "c3ab0da57b7849c4638198894245625637bb300585182cd549665d6adba8b4d9",
       "included_in_project": true,
       "provenance": "docs/FINAL_VISUAL_REVISION.md",
       "duration_seconds": 14.0,

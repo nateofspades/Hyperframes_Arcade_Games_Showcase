@@ -3,7 +3,9 @@
 
 Optional repair-only dependencies: numpy, opencv-python-headless (use a venv).
 Example: python repair-float-blinks.py INPUT OUTPUT --region 0,0,474,840
-Output is lossless H.264/yuv420p; verify browser decoding before publication.
+Output is an OFFLINE lossless H.264/yuv420p intermediate, not browser delivery.
+Normalize delivery with export-compatible-video.py; never splice profile-244
+lossless packets into a profile-100 avc1 MP4.
 The original recording and published export must be preserved separately.
 """
 import argparse
