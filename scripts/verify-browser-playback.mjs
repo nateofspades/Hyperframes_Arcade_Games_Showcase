@@ -48,7 +48,10 @@ try{
    state.audio.push({time:t,rms:Math.sqrt(wave.reduce((sum,value)=>sum+value*value,0)/wave.length)});
    if(target<targets.length&&t>=targets[target]){ctx.drawImage(v,0,0,480,270);state.frames.push({target:targets[target],time:t,frameTime:state.frameTime,png:canvas.toDataURL('image/png')});target++}
    const frameTime=state.frameTime??t;
-   if(frameTime>=41.45&&frameTime<=49.45){
+   // On overloaded software renderers, callback PTS can lag/lead drawImage.
+   // Keep BOTH clocks inside settled gameplay, away from cut3/cut4 wipes.
+   // The separate decoded-frame scan covers the entire nine-second segment.
+   if(t>=42&&t<=49&&frameTime>=42&&frameTime<=49){
     fc.drawImage(v,1104,122,472,836,0,0,118,209);const pixels=fc.getImageData(15,30,85,150).data;
     let sum=0,square=0,n=0;for(let i=0;i<pixels.length;i+=4){const r=pixels[i];sum+=r;square+=r*r;n++}
     state.float.push({time:t,frameTime,std:Math.sqrt(square/n-(sum/n)**2)});
