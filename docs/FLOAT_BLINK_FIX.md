@@ -51,3 +51,12 @@ Lossless H.264 uses the High 4:4:4 Predictive profile even though the pixels rem
 Local evidence is under `evidence/float-blink/` (not committed): original capture/MP4 contact sheets, source frame hashes, source signal statistics, repair frame lists, actual HyperFrames smoke render, all repaired final-frame review sheets, full-film pixel/audio comparison and browser playback reports. The source checksum gate passes, and all 16 regression tests pass in the repair venv. A real isolated two-second HyperFrames render yields 10 frames at 1920 × 1080 / 5 FPS and shows the corrected footage; it is not the delivery file.
 
 Publication must retain the existing webpage and modify only its video cache token and the workflow's checksum-verified release asset selection. README.md and the composition files remain unchanged.
+
+## Corrected delivery comparison
+
+Output: `Arcade_Games_Showcase-float-fixed-2026-10-29T02-33-44Z.mp4`, 32,893,849 bytes.
+SHA-256: `7d6e5d6d9b0244765f0c0ef6c675cb88090d525076ab5df1470b65428aedd90e`.
+
+Every one of the 2,700 decoded frames was compared with the exact previously published MP4. Exactly the 46 listed frames differ, and every differing Y/U/V sample lies inside the gameplay rectangle. All 2,654 other frames are pixel-identical, including the entire opening, closing and seven other gameplay segments. The existing Float HUD and transition foreground pixels are protected. All repaired frames were inspected in two decoded review sheets; the central gameplay field remains present and consecutive gameplay frames are distinct.
+
+Both complete AAC packet hashes/timestamps and the decoded PCM SHA-256 match. Decoded audio SHA-256: `7465c12a92f62749252a26e0cc4e083be352f76e8deb35fe6e9115ad01ded03d`. Both films remain exactly 90.000 seconds, 1920 × 1080, 30 FPS and 2,700 frames. The final assembly log contains no timestamp or decoding warnings.
