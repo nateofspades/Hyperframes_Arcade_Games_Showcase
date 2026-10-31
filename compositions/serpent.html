@@ -17,6 +17,10 @@
 .stage video { display: block; position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; }
 </style>
 <!-- game-segment:styles:end -->
+<style>
+/* The canvas/HUD capture omitted the parent board's bottom border. */
+#serpent-stage::after { content: ''; position: absolute; left: 22.64px; right: 22.64px; bottom: 0; height: 1.51px; background: #2b392e; pointer-events: none; }
+</style>
 <div data-hf-id="hf-nfpo" id="root" data-composition-id="serpent" data-width="1920" data-height="1080" style="--accent:#b1f077;--stage-width:836.000000px;--stage-height:836.000000px" data-composition-variables='[{&quot;id&quot;:&quot;game-title&quot;,&quot;type&quot;:&quot;string&quot;,&quot;label&quot;:&quot;Game title&quot;,&quot;default&quot;:&quot;Serpent Supper&quot;},{&quot;id&quot;:&quot;game-description&quot;,&quot;type&quot;:&quot;string&quot;,&quot;label&quot;:&quot;Game description&quot;,&quot;default&quot;:&quot;Collect food, grow longer, and avoid colliding with yourself.&quot;},{&quot;id&quot;:&quot;accent&quot;,&quot;type&quot;:&quot;color&quot;,&quot;label&quot;:&quot;Game accent&quot;,&quot;default&quot;:&quot;#b1f077&quot;}]'>
   <div data-hf-id="hf-m7dd" class="bg"></div>
   <div data-hf-id="hf-sekc" id="serpent-copy" class="game-copy clip" data-start="0" data-duration="9" data-track-index="4">

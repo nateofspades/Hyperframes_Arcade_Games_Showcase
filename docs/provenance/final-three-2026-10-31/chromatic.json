@@ -1,0 +1,3084 @@
+{
+  "url": "https://nateofspades.github.io/Chromatic_Cure_Game/",
+  "mode": "capture",
+  "clip": {
+    "x": 476,
+    "y": 39,
+    "width": 316,
+    "height": 706
+  },
+  "fps": 30,
+  "clock": "Exact native 60Hz RAF callbacks, two per output frame; fixed wall clock installed before loading. No engine mutations, fixtures, debug hooks, injected game state or altered rules.",
+  "controller": "Read rendered pixels, purposeful rose-trio setup followed by planCapsule color/anchor heuristic. 167ms positioning taps, 200ms aim pause, 100ms native one-row soft drops. No hard drops.",
+  "captureStartFrame": 0,
+  "captureFrames": 270,
+  "actions": [
+    {
+      "frame": 7,
+      "seconds": 0.23333333333333334,
+      "piece": 0,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 12,
+      "seconds": 0.4,
+      "piece": 0,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 17,
+      "seconds": 0.5666666666666667,
+      "piece": 0,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 28,
+      "seconds": 0.9333333333333333,
+      "piece": 0,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 31,
+      "seconds": 1.0333333333333334,
+      "piece": 0,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 34,
+      "seconds": 1.1333333333333333,
+      "piece": 0,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 37,
+      "seconds": 1.2333333333333334,
+      "piece": 0,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 40,
+      "seconds": 1.3333333333333333,
+      "piece": 0,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 43,
+      "seconds": 1.4333333333333333,
+      "piece": 0,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 46,
+      "seconds": 1.5333333333333334,
+      "piece": 0,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 49,
+      "seconds": 1.6333333333333333,
+      "piece": 0,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 52,
+      "seconds": 1.7333333333333334,
+      "piece": 0,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 55,
+      "seconds": 1.8333333333333333,
+      "piece": 0,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 63,
+      "seconds": 2.1,
+      "piece": 1,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 68,
+      "seconds": 2.2666666666666666,
+      "piece": 1,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 73,
+      "seconds": 2.433333333333333,
+      "piece": 1,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 84,
+      "seconds": 2.8,
+      "piece": 1,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 87,
+      "seconds": 2.9,
+      "piece": 1,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 90,
+      "seconds": 3,
+      "piece": 1,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 93,
+      "seconds": 3.1,
+      "piece": 1,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 96,
+      "seconds": 3.2,
+      "piece": 1,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 99,
+      "seconds": 3.3,
+      "piece": 1,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 102,
+      "seconds": 3.4,
+      "piece": 1,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 105,
+      "seconds": 3.5,
+      "piece": 1,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 141,
+      "seconds": 4.7,
+      "piece": 2,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 152,
+      "seconds": 5.066666666666666,
+      "piece": 2,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 155,
+      "seconds": 5.166666666666667,
+      "piece": 2,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 158,
+      "seconds": 5.266666666666667,
+      "piece": 2,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 161,
+      "seconds": 5.366666666666666,
+      "piece": 2,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 164,
+      "seconds": 5.466666666666667,
+      "piece": 2,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 172,
+      "seconds": 5.733333333333333,
+      "piece": 3,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 177,
+      "seconds": 5.9,
+      "piece": 3,
+      "key": "ArrowLeft"
+    },
+    {
+      "frame": 188,
+      "seconds": 6.266666666666667,
+      "piece": 3,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 191,
+      "seconds": 6.366666666666666,
+      "piece": 3,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 194,
+      "seconds": 6.466666666666667,
+      "piece": 3,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 197,
+      "seconds": 6.566666666666666,
+      "piece": 3,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 205,
+      "seconds": 6.833333333333333,
+      "piece": 4,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 210,
+      "seconds": 7,
+      "piece": 4,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 215,
+      "seconds": 7.166666666666667,
+      "piece": 4,
+      "key": "ArrowUp"
+    },
+    {
+      "frame": 220,
+      "seconds": 7.333333333333333,
+      "piece": 4,
+      "key": "ArrowRight"
+    },
+    {
+      "frame": 231,
+      "seconds": 7.7,
+      "piece": 4,
+      "key": "ArrowDown"
+    },
+    {
+      "frame": 234,
+      "seconds": 7.8,
+      "piece": 4,
+      "key": "ArrowDown"
+    }
+  ],
+  "placements": [
+    {
+      "piece": 0,
+      "spawnFrame": 0,
+      "colors": [
+        0,
+        0
+      ],
+      "target": {
+        "x": 4,
+        "dir": 1,
+        "reason": "Two rose blocks above existing rose anchor"
+      },
+      "before": {
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            {
+              "color": 1,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            }
+          ],
+          [
+            null,
+            null,
+            null,
+            {
+              "color": 1,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            {
+              "color": 1,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            {
+              "color": 2,
+              "kind": "virus",
+              "link": null
+            }
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 2,
+              "kind": "virus",
+              "link": null
+            },
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        ],
+        "active": {
+          "x": 3,
+          "y": 0,
+          "dir": 0,
+          "colors": [
+            0,
+            0
+          ]
+        },
+        "score": 0,
+        "viruses": 8,
+        "overlay": false
+      },
+      "lockFrame": 55,
+      "afterInput": {
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            {
+              "color": 1,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            }
+          ],
+          [
+            null,
+            null,
+            null,
+            {
+              "color": 1,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            {
+              "color": 1,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            {
+              "color": 2,
+              "kind": "virus",
+              "link": null
+            }
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 2,
+              "kind": "virus",
+              "link": null
+            },
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        ],
+        "active": null,
+        "score": 0,
+        "viruses": 8,
+        "overlay": false
+      }
+    },
+    {
+      "piece": 1,
+      "spawnFrame": 56,
+      "colors": [
+        2,
+        0
+      ],
+      "target": {
+        "x": 4,
+        "dir": 1,
+        "reason": "Rose lower half completes the existing rose trio; amber stays above the clear"
+      },
+      "before": {
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            {
+              "color": 1,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            }
+          ],
+          [
+            null,
+            null,
+            null,
+            {
+              "color": 1,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            {
+              "color": 1,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            {
+              "color": 2,
+              "kind": "virus",
+              "link": null
+            }
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 2,
+              "kind": "virus",
+              "link": null
+            },
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        ],
+        "active": {
+          "x": 3,
+          "y": 0,
+          "dir": 0,
+          "colors": [
+            2,
+            0
+          ]
+        },
+        "score": 0,
+        "viruses": 8,
+        "overlay": false
+      },
+      "lockFrame": 105,
+      "afterInput": {
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            {
+              "color": 1,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            }
+          ],
+          [
+            null,
+            null,
+            null,
+            {
+              "color": 1,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            {
+              "color": 1,
+              "kind": "virus",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            {
+              "color": 2,
+              "kind": "virus",
+              "link": null
+            }
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 2,
+              "kind": "virus",
+              "link": null
+            },
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        ],
+        "active": null,
+        "score": 0,
+        "viruses": 8,
+        "overlay": false
+      }
+    },
+    {
+      "piece": 2,
+      "spawnFrame": 134,
+      "colors": [
+        1,
+        1
+      ],
+      "target": {
+        "x": 3,
+        "dir": 0,
+        "value": 32.75
+      },
+      "before": {
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            {
+              "color": 1,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            }
+          ],
+          [
+            null,
+            null,
+            null,
+            {
+              "color": 1,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            {
+              "color": 1,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 2,
+              "kind": "virus",
+              "link": null
+            }
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 2,
+              "kind": "virus",
+              "link": null
+            },
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            null
+          ]
+        ],
+        "active": {
+          "x": 3,
+          "y": 0,
+          "dir": 0,
+          "colors": [
+            1,
+            1
+          ]
+        },
+        "score": 140,
+        "viruses": 7,
+        "overlay": false
+      },
+      "lockFrame": 164,
+      "afterInput": {
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            {
+              "color": 1,
+              "kind": "virus",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            }
+          ],
+          [
+            null,
+            null,
+            null,
+            {
+              "color": 1,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            {
+              "color": 1,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 2,
+              "kind": "virus",
+              "link": null
+            }
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 2,
+              "kind": "virus",
+              "link": null
+            },
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            null
+          ]
+        ],
+        "active": null,
+        "score": 140,
+        "viruses": 7,
+        "overlay": false
+      }
+    },
+    {
+      "piece": 3,
+      "spawnFrame": 165,
+      "colors": [
+        0,
+        1
+      ],
+      "target": {
+        "x": 2,
+        "dir": 0,
+        "value": 10.600000000000001
+      },
+      "before": {
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            {
+              "color": 1,
+              "kind": "virus",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            }
+          ],
+          [
+            null,
+            null,
+            null,
+            {
+              "color": 1,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            {
+              "color": 1,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 2,
+              "kind": "virus",
+              "link": null
+            }
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 2,
+              "kind": "virus",
+              "link": null
+            },
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            null
+          ]
+        ],
+        "active": {
+          "x": 3,
+          "y": 0,
+          "dir": 0,
+          "colors": [
+            0,
+            1
+          ]
+        },
+        "score": 140,
+        "viruses": 7,
+        "overlay": false
+      },
+      "lockFrame": 197,
+      "afterInput": {
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            {
+              "color": 1,
+              "kind": "virus",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            }
+          ],
+          [
+            null,
+            null,
+            null,
+            {
+              "color": 1,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            {
+              "color": 1,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 2,
+              "kind": "virus",
+              "link": null
+            }
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 2,
+              "kind": "virus",
+              "link": null
+            },
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            null
+          ]
+        ],
+        "active": null,
+        "score": 140,
+        "viruses": 7,
+        "overlay": false
+      }
+    },
+    {
+      "piece": 4,
+      "spawnFrame": 198,
+      "colors": [
+        2,
+        1
+      ],
+      "target": {
+        "x": 4,
+        "dir": 2,
+        "value": 278.45
+      },
+      "before": {
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            {
+              "color": 1,
+              "kind": "virus",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            }
+          ],
+          [
+            null,
+            null,
+            null,
+            {
+              "color": 1,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            {
+              "color": 1,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 2,
+              "kind": "virus",
+              "link": null
+            }
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 2,
+              "kind": "virus",
+              "link": null
+            },
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            null
+          ]
+        ],
+        "active": {
+          "x": 3,
+          "y": 0,
+          "dir": 0,
+          "colors": [
+            2,
+            1
+          ]
+        },
+        "score": 140,
+        "viruses": 7,
+        "overlay": false
+      },
+      "lockFrame": 234,
+      "afterInput": {
+        "board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            {
+              "color": 1,
+              "kind": "virus",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            }
+          ],
+          [
+            null,
+            null,
+            null,
+            {
+              "color": 1,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            {
+              "color": 1,
+              "kind": "virus",
+              "link": null
+            },
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 2,
+              "kind": "virus",
+              "link": null
+            }
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 2,
+              "kind": "virus",
+              "link": null
+            },
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            {
+              "color": 2,
+              "kind": "capsule",
+              "link": null
+            },
+            null,
+            null,
+            null
+          ]
+        ],
+        "active": null,
+        "score": 140,
+        "viruses": 7,
+        "overlay": false
+      }
+    }
+  ],
+  "scoreChanges": [
+    {
+      "frame": 113,
+      "footageSeconds": 3.7666666666666666,
+      "score": 140,
+      "anchors": 7,
+      "board": [
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          {
+            "color": 0,
+            "kind": "virus",
+            "link": null
+          },
+          null,
+          {
+            "color": 1,
+            "kind": "virus",
+            "link": null
+          },
+          null,
+          null,
+          null,
+          null,
+          {
+            "color": 0,
+            "kind": "virus",
+            "link": null
+          }
+        ],
+        [
+          null,
+          null,
+          null,
+          {
+            "color": 1,
+            "kind": "virus",
+            "link": null
+          },
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          {
+            "color": 1,
+            "kind": "virus",
+            "link": null
+          },
+          {
+            "color": 2,
+            "kind": "capsule",
+            "link": null
+          },
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          {
+            "color": 2,
+            "kind": "virus",
+            "link": null
+          }
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          {
+            "color": 2,
+            "kind": "virus",
+            "link": null
+          },
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      ]
+    },
+    {
+      "frame": 242,
+      "footageSeconds": 8.066666666666666,
+      "score": 280,
+      "anchors": 6,
+      "board": [
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          {
+            "color": 2,
+            "kind": "capsule",
+            "link": null
+          },
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          {
+            "color": 0,
+            "kind": "capsule",
+            "link": null
+          },
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          {
+            "color": 0,
+            "kind": "virus",
+            "link": null
+          },
+          null,
+          {
+            "color": 1,
+            "kind": "virus",
+            "link": null
+          },
+          null,
+          {
+            "color": 1,
+            "kind": "capsule",
+            "link": null
+          },
+          null,
+          null,
+          {
+            "color": 0,
+            "kind": "virus",
+            "link": null
+          }
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          {
+            "color": 1,
+            "kind": "virus",
+            "link": null
+          },
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          {
+            "color": 2,
+            "kind": "virus",
+            "link": null
+          }
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          {
+            "color": 2,
+            "kind": "virus",
+            "link": null
+          },
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          {
+            "color": 2,
+            "kind": "capsule",
+            "link": null
+          },
+          null,
+          null,
+          null
+        ]
+      ]
+    }
+  ],
+  "matchEvidence": [
+    {
+      "piece": 1,
+      "frame": 105,
+      "footageSeconds": 3.5,
+      "orientation": "vertical",
+      "verticalRuns": [
+        {
+          "columnZeroBased": 4,
+          "rowsZeroBased": [
+            9,
+            10,
+            11,
+            12
+          ],
+          "color": 0,
+          "cells": [
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 0,
+              "kind": "virus",
+              "link": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "piece": 4,
+      "frame": 234,
+      "footageSeconds": 7.8,
+      "orientation": "horizontal",
+      "verticalRuns": [
+        {
+          "columnZeroBased": 3,
+          "rowsZeroBased": [
+            3,
+            4,
+            5,
+            6
+          ],
+          "color": 1,
+          "cells": [
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "capsule",
+              "link": null
+            },
+            {
+              "color": 1,
+              "kind": "virus",
+              "link": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "inspectionSources": [
+    {
+      "url": "https://nateofspades.github.io/Chromatic_Cure_Game/src/app.js",
+      "localReadOnlyCopy": "evidence/final-three/chromatic-engine/app.js",
+      "sha256": "1b526bb90b6356cb8bf7bfbdfeef8fe8d16d111f0f31e3e23e391f599bb66274"
+    },
+    {
+      "url": "https://nateofspades.github.io/Chromatic_Cure_Game/src/rules.js",
+      "localReadOnlyCopy": "evidence/final-three/chromatic-engine/rules.js",
+      "sha256": "8f6bc2ae27cff95eaee47984ab89142a95f67a1a1ce394779b08482c36e17089"
+    }
+  ],
+  "limitations": [
+    "All descent uses the real ArrowDown control at 100ms intervals; no hard drops or invented falling animation.",
+    "Pixel-observed board classification may omit pulsing cells during clear; lock-time boards and native score/anchor changes corroborate clears.",
+    "Source footage only; parent integrates and verifies the whole-film export."
+  ],
+  "selectedTrim": {
+    "startSeconds": 0,
+    "durationSeconds": 9,
+    "sourceGameStartSeconds": 0
+  },
+  "sha256": "56d772d3408809c635f1208c82fb073e16ab762266b937fac999e4e8ac650d20",
+  "probe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "width": 316,
+        "height": 706,
+        "coded_width": 316,
+        "coded_height": 706,
+        "closed_captions": 0,
+        "film_grain": 0,
+        "has_b_frames": 2,
+        "pix_fmt": "yuv420p",
+        "level": 30,
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "refs": 1,
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "time_base": "1/15360",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 138240,
+        "duration": "9.000000",
+        "bit_rate": "209483",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "270",
+        "extradata_size": 47,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "vendor_id": "[0][0][0][0]",
+          "encoder": "Lavc60.31.102 libx264"
+        }
+      }
+    ],
+    "format": {
+      "filename": "assets/footage/final-three-2026-10-31/chromatic.mp4",
+      "nb_streams": 1,
+      "nb_programs": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "9.000000",
+      "size": "239729",
+      "bit_rate": "213092",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf60.16.100"
+      }
+    }
+  },
+  "fullEvidence": "evidence/final-three/chromatic-capture.json"
+}

@@ -17,6 +17,11 @@
 .stage video { display: block; position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; }
 </style>
 <!-- game-segment:styles:end -->
+<style>
+/* Add breathing room above the genuine HUD without shifting gameplay. */
+#brika-stage { border-top-color: transparent; overflow: visible; }
+#brika-stage::before { content: ''; position: absolute; left: -2px; right: -2px; top: -12px; height: 12px; border: 2px solid color-mix(in srgb, var(--accent) 30%, #2a3851); border-bottom: 0; pointer-events: none; }
+</style>
 <div data-hf-id="hf-fhme" id="root" data-composition-id="brika" data-width="1920" data-height="1080" style="--accent:#f58bff;--stage-width:668.800000px;--stage-height:836.000000px" data-composition-variables='[{&quot;id&quot;:&quot;game-title&quot;,&quot;type&quot;:&quot;string&quot;,&quot;label&quot;:&quot;Game title&quot;,&quot;default&quot;:&quot;BrikaVolt&quot;},{&quot;id&quot;:&quot;game-description&quot;,&quot;type&quot;:&quot;string&quot;,&quot;label&quot;:&quot;Game description&quot;,&quot;default&quot;:&quot;Smash bricks, collect power-ups, and clear increasingly challenging levels.&quot;},{&quot;id&quot;:&quot;accent&quot;,&quot;type&quot;:&quot;color&quot;,&quot;label&quot;:&quot;Game accent&quot;,&quot;default&quot;:&quot;#f58bff&quot;}]'>
   <div data-hf-id="hf-m7dd" class="bg"></div>
   <div data-hf-id="hf-95ho" id="brika-copy" class="game-copy clip" data-start="0" data-duration="9" data-track-index="4">
@@ -25,7 +30,7 @@
     <p data-hf-id="hf-0f7f" id="brika-description" class="game-description" data-var-text="game-description">Smash bricks, collect power-ups, and clear increasingly challenging levels.</p>
   </div>
   <div data-hf-id="hf-k82e" id="brika-stage" class="stage" style="--stage-width:630.732143px;--stage-height:836px;left:1022.633929px">
-    <video data-hf-id="hf-ji24" id="brika-video" class="clip" src="assets/footage/polished/brika.mp4" muted playsinline data-hf-media-start-basis="local" data-start="0" data-duration="9" data-media-start="2" data-track-index="1"></video>
+    <video data-hf-id="hf-ji24" id="brika-video" class="clip" src="assets/footage/targeted-2026-10-30/brika.mp4" muted playsinline data-hf-media-start-basis="local" data-start="0" data-duration="9" data-media-start="0" data-track-index="1"></video>
   </div>
 </div>
 <!-- game-segment:motion:start -->

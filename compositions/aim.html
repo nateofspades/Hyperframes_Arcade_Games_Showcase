@@ -17,6 +17,14 @@
 .stage video { display: block; position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; }
 </style>
 <!-- game-segment:styles:end -->
+<style>
+/* Move only the left perimeter outward; preserve SCORE and the whole field. */
+#aim-stage { border-left-color: transparent; overflow: visible; }
+#aim-stage::before { content: ''; position: absolute; top: -2px; bottom: -2px; left: -14px; width: 14px; border: 2px solid color-mix(in srgb, var(--accent) 30%, #2a3851); border-right: 0; pointer-events: none; }
+/* Extend the native paper, divider and grid over only the added padding and
+   the obsolete inner left perimeter. SCORE and every gameplay object stay put. */
+#aim-stage::after { content: ''; position: absolute; top: 0; bottom: 0; left: -12px; width: 16px; background: url('assets/footage/final-three-2026-10-31/aim-left-extension.png') 0 0 / 100% 100% no-repeat; pointer-events: none; z-index: 1; }
+</style>
 <div data-hf-id="hf-1v8j" id="root" data-composition-id="aim" data-width="1920" data-height="1080" style="--accent:#ffb970;--stage-width:956.000000px;--stage-height:636.121673px" data-composition-variables='[{&quot;id&quot;:&quot;game-title&quot;,&quot;type&quot;:&quot;string&quot;,&quot;label&quot;:&quot;Game title&quot;,&quot;default&quot;:&quot;Aim Alley Arcade&quot;},{&quot;id&quot;:&quot;game-description&quot;,&quot;type&quot;:&quot;string&quot;,&quot;label&quot;:&quot;Game description&quot;,&quot;default&quot;:&quot;Test your speed and accuracy across 15 distinct shooting mini-games.&quot;},{&quot;id&quot;:&quot;accent&quot;,&quot;type&quot;:&quot;color&quot;,&quot;label&quot;:&quot;Game accent&quot;,&quot;default&quot;:&quot;#ffb970&quot;}]'>
   <div data-hf-id="hf-m7dd" class="bg"></div>
   <div data-hf-id="hf-x4a9" id="aim-copy" class="game-copy clip" data-start="0" data-duration="15" data-track-index="4">

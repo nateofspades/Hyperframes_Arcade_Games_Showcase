@@ -23,7 +23,8 @@ try{
    new Promise((_,reject)=>setTimeout(()=>reject(Error('metadata timeout')),60000))]);
   if(v.error)throw Error(v.error.message);
   v.muted=false;v.volume=1;v.playbackRate=1;
-  const state=window.__playbackTest={errors:[],audio:[],float:[],frames:[]};
+  const state=window.__playbackTest={errors:[],audio:[],float:[],frames:[],events:[]};
+  for(const event of ['playing','waiting','stalled','pause','ended'])v.addEventListener(event,()=>state.events.push({event,time:v.currentTime,wall:performance.now(),ready:v.readyState}));
   if(v.requestVideoFrameCallback){const stamp=(_,metadata)=>{state.frameTime=metadata.mediaTime;v.requestVideoFrameCallback(stamp)};v.requestVideoFrameCallback(stamp)}
   v.addEventListener('error',()=>state.errors.push({code:v.error?.code,message:v.error?.message,time:v.currentTime}));
   const context=new (window.AudioContext||window.webkitAudioContext)();
@@ -62,7 +63,7 @@ try{
   return {src:v.currentSrc,duration:v.duration,time:v.currentTime,ended:v.ended,width:v.videoWidth,height:v.videoHeight,
    muted:v.muted,volume:v.volume,playbackRate:v.playbackRate,audioContext:state.context.state,
    errors:state.errors,mediaError:v.error?{code:v.error.code,message:v.error.message}:null,
-   totalFrames:q.totalVideoFrames,droppedFrames:q.droppedVideoFrames,expectedFrames:targets.length,audio:state.audio,float:state.float,frames:state.frames};
+   totalFrames:q.totalVideoFrames,droppedFrames:q.droppedVideoFrames,expectedFrames:targets.length,audio:state.audio,float:state.float,frames:state.frames,events:state.events,wallSeconds:(performance.now()-began)/1000};
  });
  report={...report,...result};
  for(const [i,frame]of report.frames.entries()){

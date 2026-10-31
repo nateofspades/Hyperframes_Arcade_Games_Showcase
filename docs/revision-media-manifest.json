@@ -339,6 +339,74 @@
       "sha256": "394b88917b5b4c286770af755d4f842557f615d43c8bf3adf44f48c46334459e",
       "included_in_project": true,
       "provenance": "docs/FINAL_VISUAL_REVISION.md"
+    },
+    {
+      "path": "assets/footage/targeted-2026-10-30/brika.mp4",
+      "bytes": 1034807,
+      "sha256": "16968a63eeae9dcba6555426c352bb8cfbca39e7f5dcaa31637854448d0b5fa2",
+      "included_in_project": true,
+      "provenance": "docs/TARGETED_CORRECTIONS.md",
+      "duration_seconds": 12.0,
+      "streams": [{"codec_type":"video","codec_name":"h264","width":676,"height":896,"avg_frame_rate":"30/1"}]
+    },
+    {
+      "path": "assets/footage/targeted-2026-10-30/chromatic.mp4",
+      "bytes": 444540,
+      "sha256": "1096801401c763db7cabe95345b88eeaeb6fdec1386d2e7c74aaa931e4a9a203",
+      "included_in_project": true,
+      "provenance": "docs/TARGETED_CORRECTIONS.md",
+      "duration_seconds": 12.0,
+      "streams": [{"codec_type":"video","codec_name":"h264","width":316,"height":706,"avg_frame_rate":"30/1"}]
+    },
+    {
+      "path": "assets/footage/targeted-2026-10-30/float.mp4",
+      "bytes": 2158326,
+      "sha256": "b0a562bcd0b4bfbf78f9305c16f6dd23901d42ff45fa49ae0e6ca2c01aa361de",
+      "included_in_project": true,
+      "provenance": "docs/TARGETED_CORRECTIONS.md",
+      "duration_seconds": 12.0,
+      "streams": [{"codec_type":"video","codec_name":"h264","width":474,"height":840,"avg_frame_rate":"30/1"}]
+    },
+    {
+      "path": "assets/footage/targeted-2026-10-30/orb.mp4",
+      "bytes": 4751371,
+      "sha256": "b77b1d91b940acce0744722779522e6db8a73878ebc4d6c8f752f7a43ed0e133",
+      "included_in_project": true,
+      "provenance": "docs/TARGETED_CORRECTIONS.md",
+      "duration_seconds": 13.0,
+      "streams": [{"codec_type":"video","codec_name":"h264","width":840,"height":500,"avg_frame_rate":"30/1"}]
+    },
+    {
+      "path": "assets/footage/targeted-2026-10-30/rally.mp4",
+      "bytes": 564047,
+      "sha256": "a58cfb3a4bdae29e088bd4816937cdf8ed8e4eea1e4dfc20582e51bc261c2a0b",
+      "included_in_project": true,
+      "provenance": "docs/TARGETED_CORRECTIONS.md",
+      "duration_seconds": 12.0,
+      "streams": [{"codec_type":"video","codec_name":"h264","width":1056,"height":704,"avg_frame_rate":"30/1"}]
+    },
+    {
+      "path": "assets/footage/final-three-2026-10-31/aim-left-extension.png",
+      "bytes": 6259,
+      "sha256": "278c4f71adb160b34a550a91b8857cf2d3c70e0e2782ab06ac1d30db6fde92c4",
+      "included_in_project": true,
+      "provenance": "docs/FINAL_THREE_CORRECTIONS.md"
+    },
+    {
+      "path": "assets/footage/final-three-2026-10-31/chromatic.mp4",
+      "bytes": 239729,
+      "sha256": "56d772d3408809c635f1208c82fb073e16ab762266b937fac999e4e8ac650d20",
+      "included_in_project": true,
+      "provenance": "docs/provenance/final-three-2026-10-31/chromatic.json",
+      "duration_seconds": 9.0,
+      "streams": [{"codec_type":"video","codec_name":"h264","width":316,"height":706,"avg_frame_rate":"30/1"}]
+    },
+    {
+      "path": "assets/footage/final-three-2026-10-31/rally-hud-extension.png",
+      "bytes": 2500,
+      "sha256": "ea3d29fb10ed4b190cea5bacdb34a7b3404a82593e2daa4d2bc24e9008679480",
+      "included_in_project": true,
+      "provenance": "docs/FINAL_THREE_CORRECTIONS.md"
     }
   ]
 }

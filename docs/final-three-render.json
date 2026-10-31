@@ -1,0 +1,14 @@
+{
+  "baseline_commit": "771c2a6142fabd6117bd8fdc071badfed404d291",
+  "baseline_kind": "latest unpublished targeted revision, not the live website video",
+  "baseline_path": "renders/Arcade_Games_Showcase-targeted-2026-10-30T07-50-05Z.mp4",
+  "backup_directory": "/root/arcade-three-final-backup-2026-10-31",
+  "baseline_sha256": "0a29e02986f54daed80da35959b1339b26c28bb25df3e13165c7fc8479e8b741",
+  "footage": [
+    {"id":"chromatic-purposeful-play","start":14,"region":[1152,122,376,836],"bounds":[1152.906516,122,374.186969,836],"old":"assets/footage/targeted-2026-10-30/chromatic.mp4","old_start":0,"new":"assets/footage/final-three-2026-10-31/chromatic.mp4","new_start":0,"background_image":"evidence/targeted/bg-chromatic.png"}
+  ],
+  "static": [
+    {"id":"rally-hud-background","start":23,"end":32,"stage":true,"region":[862,208,956,14],"old_image":"evidence/final-three/before-rally.png","new_image":"evidence/final-three/after-rally.png"},
+    {"id":"aim-left-background","start":68,"end":83,"stage":true,"region":[850,222,16,636],"old_image":"evidence/final-three/before-aim.png","new_image":"evidence/final-three/after-aim.png"}
+  ]
+}

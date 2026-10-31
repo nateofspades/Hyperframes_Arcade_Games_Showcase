@@ -1,0 +1,18 @@
+{
+  "baseline_commit": "771c2a6142fabd6117bd8fdc071badfed404d291",
+  "baseline_sha256": "4c95e6940e09f1676de8614a742bf79ded153c889fdece94238d4d684c2950ca",
+  "footage": [
+    {"id":"1-chromatic","start":14,"region":[1152,122,376,836],"bounds":[1152.906516,122,374.186969,836],"old":"assets/footage/polished/chromatic.mp4","old_start":2,"new":"assets/footage/targeted-2026-10-30/chromatic.mp4","new_start":0,"background_image":"evidence/targeted/bg-chromatic.png"},
+    {"id":"2-rally","start":23,"region":[862,220,956,640],"bounds":[862,221.333333,956,637.333333],"scale":[956,638],"pad":[956,640,0,1],"old":"assets/footage/revision/rally.mp4","old_start":0,"new":"assets/footage/targeted-2026-10-30/rally.mp4","new_start":2.966666666666667,"background_image":"evidence/targeted/bg-rally.png"},
+    {"id":"4-orb","start":32,"region":[862,312,956,514],"bounds":[862,312.380952,956,512.142857],"scale":[956,570],"crop":[0,57,956,513],"pad":[956,514,0,0],"old":"assets/footage/revision/orb-native.mp4","old_start":3,"new":"assets/footage/targeted-2026-10-30/orb.mp4","new_start":3,"background_image":"evidence/targeted/bg-orb.png","only_frames":[1039,1179]},
+    {"id":"5-6-float","start":41,"region":[1104,122,472,836],"bounds":[1104.128571,122,471.742857,836],"old":"assets/footage/polished/float.mp4","old_start":3,"new":"assets/footage/targeted-2026-10-30/float.mp4","new_start":0,"background_image":"evidence/targeted/bg-float.png"},
+    {"id":"8-brika","start":59,"region":[1024,122,632,836],"bounds":[1024.633929,122,630.732143,836],"old":"assets/footage/polished/brika.mp4","old_start":2,"new":"assets/footage/targeted-2026-10-30/brika.mp4","new_start":0,"background_image":"evidence/targeted/bg-brika.png"}
+  ],
+  "static": [
+    {"id":"3-rally-spacing","start":23,"end":32,"stage":true,"region":[860,206,960,16],"old_image":"evidence/targeted/before-rally.png","new_image":"evidence/targeted/new-rally.png"},
+    {"id":"7-serpent-border","start":50,"end":59,"stage":true,"region":[976,954,728,4],"old_image":"evidence/targeted/before-serpent.png","new_image":"evidence/targeted/new-serpent.png"},
+    {"id":"9-brika-spacing","start":59,"end":68,"stage":true,"region":[1022,108,636,14],"old_image":"evidence/targeted/before-brika.png","new_image":"evidence/targeted/new-brika.png"},
+    {"id":"10-aim-spacing","start":68,"end":83,"stage":true,"region":[846,218,18,644],"old_image":"evidence/targeted/before-aim.png","new_image":"evidence/targeted/new-aim.png"},
+    {"id":"11-closing-url","start":83,"end":90,"region":[128,926,1664,50],"old_image":"evidence/targeted/before-outro.png","new_image":"evidence/targeted/new-outro.png"}
+  ]
+}

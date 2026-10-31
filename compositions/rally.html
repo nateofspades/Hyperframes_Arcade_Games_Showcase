@@ -17,6 +17,12 @@
 .stage video { display: block; position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; }
 </style>
 <!-- game-segment:styles:end -->
+<style>
+/* Extend only the perimeter above the HUD; do not move its labels or field. */
+#rally-stage { border-top-color: transparent; overflow: visible; }
+#rally-stage::before { content: ''; position: absolute; left: -2px; right: -2px; top: -14px; height: 14px; border: 2px solid color-mix(in srgb, var(--accent) 30%, #2a3851); border-bottom: 0; pointer-events: none; }
+#rally-stage::before { background: url('assets/footage/final-three-2026-10-31/rally-hud-extension.png') 0 0 / 100% 100% no-repeat; background-origin: padding-box; background-clip: padding-box; }
+</style>
 <div data-hf-id="hf-4o64" id="root" data-composition-id="rally" data-width="1920" data-height="1080" style="--accent:#66f1d5;--stage-width:956.000000px;--stage-height:637.333333px" data-composition-variables='[{&quot;id&quot;:&quot;game-title&quot;,&quot;type&quot;:&quot;string&quot;,&quot;label&quot;:&quot;Game title&quot;,&quot;default&quot;:&quot;Rally Reactor&quot;},{&quot;id&quot;:&quot;game-description&quot;,&quot;type&quot;:&quot;string&quot;,&quot;label&quot;:&quot;Game description&quot;,&quot;default&quot;:&quot;Face a computer opponent or a friend in fast-paced paddle rallies.&quot;},{&quot;id&quot;:&quot;accent&quot;,&quot;type&quot;:&quot;color&quot;,&quot;label&quot;:&quot;Game accent&quot;,&quot;default&quot;:&quot;#66f1d5&quot;}]'>
   <div data-hf-id="hf-m7dd" class="bg"></div>
   <div data-hf-id="hf-qhqf" id="rally-copy" class="game-copy clip" data-start="0" data-duration="9" data-track-index="4">
@@ -25,7 +31,7 @@
     <p data-hf-id="hf-k99d" id="rally-description" class="game-description" data-var-text="game-description">Face a computer opponent or a friend in fast-paced paddle rallies.</p>
   </div>
   <div data-hf-id="hf-3sur" id="rally-stage" class="stage" style="top:219.333333px">
-    <video data-hf-id="hf-4ck7" id="rally-video" class="clip" src="assets/footage/revision/rally.mp4" muted playsinline data-hf-media-start-basis="local" data-start="0" data-duration="9" data-media-start="0" data-track-index="1"></video>
+    <video data-hf-id="hf-4ck7" id="rally-video" class="clip" src="assets/footage/targeted-2026-10-30/rally.mp4" muted playsinline data-hf-media-start-basis="local" data-start="0" data-duration="9" data-media-start="2.966666666666667" data-track-index="1"></video>
   </div>
 </div>
 <!-- game-segment:motion:start -->
